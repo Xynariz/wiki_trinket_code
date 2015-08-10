@@ -1,0 +1,297 @@
+This is a sub-page of [[Jamesh]]'s trinket collections.  For the main page, please click [[Jamesh/Trinkets|here]].
+
+This is a list of trinkets Jamesh has collected.  Any trinkets that are '''''not''''' shown here are trinkets Jamesh is missing and will buy.
+
+=== Atlantis palette ===
+
+These trinkets are available from [[Atlantis]] in the colors of the [[Trinket_palette#Atlantean|Atlantean palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Navy
+|Blue
+|Aqua
+|Atlant.
+|Lt. Blue
+
+|-
+|'''<big>[[Atlantean band]]</big>'''
+|{{Colorize trinket|Atlantean band|navy}}
+|{{Colorize trinket|Atlantean band|blue}}
+|{{Colorize trinket|Atlantean band|aqua}}
+|{{Colorize trinket|Atlantean band|atlantean}}
+|{{Colorize trinket|Atlantean band|light blue}}
+|-
+|'''<big>[[Engraved atlantean band]]</big>'''
+|{{Colorize trinket|Engraved atlantean band|navy}}
+|{{Colorize trinket|Engraved atlantean band|blue}}
+|{{Colorize trinket|Engraved atlantean band|aqua}}
+|{{Colorize trinket|Engraved atlantean band|atlantean}}
+|{{Colorize trinket|Engraved atlantean band|light blue}}
+|-
+|'''<big>[[Inscribed shell]]</big>'''
+|{{Colorize trinket|Inscribed shell|navy}}
+|{{Colorize trinket|Inscribed shell|blue}}
+|{{Colorize trinket|Inscribed shell|aqua}}
+|{{Colorize trinket|Inscribed shell|atlantean}}
+|{{Colorize trinket|Inscribed shell|light blue}}
+|-
+|'''<big>[[Atlantean totem]]</big>'''
+|{{Colorize trinket|Atlantean totem|navy}}
+|{{Colorize trinket|Atlantean totem|blue}}
+|{{Colorize trinket|Atlantean totem|aqua}}
+|{{Colorize trinket|Atlantean totem|atlantean}}
+|{{Colorize trinket|Atlantean totem|light blue}}
+|-
+|'''<big>[[Atlantean brooch]]</big>'''
+|{{Colorize trinket|Atlantean brooch|navy}}
+|{{Colorize trinket|Atlantean brooch|blue}}
+|{{Colorize trinket|Atlantean brooch|aqua}}
+|{{Colorize trinket|Atlantean brooch|atlantean}}
+|{{Colorize trinket|Atlantean brooch|light blue}}
+|-
+|'''<big>[[Subaquatic pin]]</big>'''
+|{{Colorize trinket|Subaquatic pin|navy}}
+|{{Colorize trinket|Subaquatic pin|blue}}
+|{{Colorize trinket|Subaquatic pin|aqua}}
+|{{Colorize trinket|Subaquatic pin|atlantean}}
+|{{Colorize trinket|Subaquatic pin|light blue}}
+|-
+|'''<big>[[Curious roe]]</big>'''
+|{{Colorize trinket|Curious roe|navy}}
+|{{Colorize trinket|Curious roe|blue}}
+|{{Colorize trinket|Curious roe|aqua}}
+|{{Colorize trinket|Curious roe|atlantean}}
+|{{Colorize trinket|Curious roe|light blue}}
+|-
+|'''<big>[[Damaged spaulder]]</big>'''
+|{{Colorize trinket|Damaged spaulder|navy}}
+|{{Colorize trinket|Damaged spaulder|blue}}
+|{{Colorize trinket|Damaged spaulder|aqua}}
+|{{Colorize trinket|Damaged spaulder|atlantean}}
+|{{Colorize trinket|Damaged spaulder|light blue}}
+|-
+|'''<big>[[Dragoon chow]]</big>'''
+|{{Colorize trinket|Dragoon chow|navy}}
+|{{Colorize trinket|Dragoon chow|blue}}
+|{{Colorize trinket|Dragoon chow|aqua}}
+|{{Colorize trinket|Dragoon chow|atlantean}}
+|{{Colorize trinket|Dragoon chow|light blue}}
+|-
+|'''<big>[[Fish n' chips]]</big>'''
+|{{Colorize trinket|Fish n' chips|navy}}
+|{{Colorize trinket|Fish n' chips|blue}}
+|{{Colorize trinket|Fish n' chips|aqua}}
+|{{Colorize trinket|Fish n' chips|atlantean}}
+|{{Colorize trinket|Fish n' chips|light blue}}
+|-
+|
+|Navy
+|Blue
+|Aqua
+|Atlant.
+|Lt. Blue
+
+|-
+|'''<big>[[Juvenile gorgonyx]]</big>'''
+|{{Colorize trinket|Juvenile gorgonyx|navy}}
+|{{Colorize trinket|Juvenile gorgonyx|blue}}
+|{{Colorize trinket|Juvenile gorgonyx|aqua}}
+|{{Colorize trinket|Juvenile gorgonyx|atlantean}}
+|{{Colorize trinket|Juvenile gorgonyx|light blue}}
+|-
+|'''<big>[[Amphora shard]]</big>'''
+|{{Colorize trinket|Amphora shard|navy}}
+|{{Colorize trinket|Amphora shard|blue}}
+|{{Colorize trinket|Amphora shard|aqua}}
+|{{Colorize trinket|Amphora shard|atlantean}}
+|{{Colorize trinket|Amphora shard|light blue}}
+|-
+|'''<big>[[Priestess carcanet]]</big>'''
+|{{Colorize trinket|Priestess carcanet|navy}}
+|{{Colorize trinket|Priestess carcanet|blue}}
+|{{Colorize trinket|Priestess carcanet|aqua}}
+|{{Colorize trinket|Priestess carcanet|atlantean}}
+|{{Colorize trinket|Priestess carcanet|light blue}}
+|-
+|'''<big>[[Mysterious pyramid]]</big>'''
+|{{Colorize trinket|Mysterious pyramid|navy}}
+|{{Colorize trinket|Mysterious pyramid|blue}}
+|{{Colorize trinket|Mysterious pyramid|aqua}}
+|{{Colorize trinket|Mysterious pyramid|atlantean}}
+|{{Colorize trinket|Mysterious pyramid|light blue}}
+|-
+|'''<big>[[Sponge fan]]</big>'''
+|{{Colorize trinket|Sponge fan|navy}}
+|{{Colorize trinket|Sponge fan|blue}}
+|{{Colorize trinket|Sponge fan|aqua}}
+|{{Colorize trinket|Sponge fan|atlantean}}
+|{{Colorize trinket|Sponge fan|light blue}}
+|-
+|'''<big>[[Arcane barnacle]]</big>'''
+|{{Colorize trinket|Arcane barnacle|navy}}
+|{{Colorize trinket|Arcane barnacle|blue}}
+|{{Colorize trinket|Arcane barnacle|aqua}}
+|{{Colorize trinket|Arcane barnacle|atlantean}}
+|{{Colorize trinket|Arcane barnacle|light blue}}
+|-
+|'''<big>[[Drachm brooch]]</big>'''
+|{{Colorize trinket|Drachm brooch|navy}}
+|{{Colorize trinket|Drachm brooch|blue}}
+|{{Colorize trinket|Drachm brooch|aqua}}
+|{{Colorize trinket|Drachm brooch|atlantean}}
+|{{Colorize trinket|Drachm brooch|light blue}}
+|-
+|'''<big>[[Sunken tablet]]</big>'''
+|{{Colorize trinket|Sunken tablet|navy}}
+|{{Colorize trinket|Sunken tablet|blue}}
+|{{Colorize trinket|Sunken tablet|aqua}}
+|{{Colorize trinket|Sunken tablet|atlantean}}
+|{{Colorize trinket|Sunken tablet|light blue}}
+|-
+|'''<big>[[Triketos scrimshaw]]</big>'''
+|{{Colorize trinket|Triketos scrimshaw|navy}}
+|{{Colorize trinket|Triketos scrimshaw|blue}}
+|{{Colorize trinket|Triketos scrimshaw|aqua}}
+|{{Colorize trinket|Triketos scrimshaw|atlantean}}
+|{{Colorize trinket|Triketos scrimshaw|light blue}}
+|-
+|'''<big>[[Finned bracelet]]</big>'''
+|{{Colorize trinket|Finned bracelet|navy}}
+|{{Colorize trinket|Finned bracelet|blue}}
+|{{Colorize trinket|Finned bracelet|aqua}}
+|{{Colorize trinket|Finned bracelet|atlantean}}
+|{{Colorize trinket|Finned bracelet|light blue}}
+|-
+|
+|Navy
+|Blue
+|Aqua
+|Atlant.
+|Lt. Blue
+
+|-
+|'''<big>[[Trilobite]]</big>'''
+|{{Colorize trinket|Trilobite|navy}}
+|{{Colorize trinket|Trilobite|blue}}
+|{{Colorize trinket|Trilobite|aqua}}
+|{{Colorize trinket|Trilobite|atlantean}}
+|{{Colorize trinket|Trilobite|light blue}}
+|-
+|'''<big>[[Atlantean codex]]</big>'''
+|{{Colorize trinket|Atlantean codex|navy}}
+|{{Colorize trinket|Atlantean codex|blue}}
+|{{Colorize trinket|Atlantean codex|aqua}}
+|{{Colorize trinket|Atlantean codex|atlantean}}
+|{{Colorize trinket|Atlantean codex|light blue}}
+|-
+|'''<big>[[Tentacled comb]]</big>'''
+|{{Colorize trinket|Tentacled comb|navy}}
+|{{Colorize trinket|Tentacled comb|blue}}
+|{{Colorize trinket|Tentacled comb|aqua}}
+|{{Colorize trinket|Tentacled comb|atlantean}}
+|{{Colorize trinket|Tentacled comb|light blue}}
+|-
+|'''<big>[[Broken statuary]]</big>'''
+|{{Colorize trinket|Broken statuary|navy}}
+|{{Colorize trinket|Broken statuary|blue}}
+|{{Colorize trinket|Broken statuary|aqua}}
+|{{Colorize trinket|Broken statuary|atlantean}}
+|{{Colorize trinket|Broken statuary|light blue}}
+|-
+|'''<big>[[Sea dagger]]</big>'''
+|{{Colorize trinket|Sea dagger|navy}}
+|{{Colorize trinket|Sea dagger|blue}}
+|{{Colorize trinket|Sea dagger|aqua}}
+|{{Colorize trinket|Sea dagger|atlantean}}
+|{{Colorize trinket|Sea dagger|light blue}}
+|-
+|'''<big>[[Subaquatic figurine]]</big>'''
+|{{Colorize trinket|Subaquatic figurine|navy}}
+|{{Colorize trinket|Subaquatic figurine|blue}}
+|{{Colorize trinket|Subaquatic figurine|aqua}}
+|{{Colorize trinket|Subaquatic figurine|atlantean}}
+|{{Colorize trinket|Subaquatic figurine|light blue}}
+|-
+|'''<big>[[Carven squid]]</big>'''
+|{{Colorize trinket|Carven squid|navy}}
+|{{Colorize trinket|Carven squid|blue}}
+|{{Colorize trinket|Carven squid|aqua}}
+|{{Colorize trinket|Carven squid|atlantean}}
+|{{Colorize trinket|Carven squid|light blue}}
+|-
+|'''<big>[[Battle horn]]</big>'''
+|{{Colorize trinket|Battle horn|navy}}
+|{{Colorize trinket|Battle horn|blue}}
+|{{Colorize trinket|Battle horn|aqua}}
+|{{Colorize trinket|Battle horn|atlantean}}
+|{{Colorize trinket|Battle horn|light blue}}
+|-
+|'''<big>[[Turtle pendant]]</big>'''
+|{{Colorize trinket|Turtle pendant|navy}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Turtle pendant|aqua}}
+|{{Colorize trinket|Turtle pendant|atlantean}}
+|{{Colorize trinket|Turtle pendant|light blue}}
+|-
+|'''<big>[[Ippolito medallion]]</big>'''
+|{{Colorize trinket|Ippolito medallion|navy}}
+|{{Colorize trinket|Ippolito medallion|blue}}
+|{{Colorize trinket|Ippolito medallion|aqua}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ippolito medallion|light blue}}
+|}
+
+=== Archelon egg ===
+
+The Archelon egg trinket is available from [[Atlantis]] in the colors of the [[Trinket_palette#Atlantean_.2B_Lime|Atlantean + Lime Palette]].  It was also available in sea green as part of the [[Official:Apr14_Promotion|Fox Box Promotion]] in April 2014.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Navy
+|Blue
+|Aqua
+|Lime
+|Atlant.
+|Lt. Blue
+|Sea Grn.
+
+|-
+|'''<big>[[Archelon egg]]</big>'''
+|{{Colorize trinket|Archelon egg|navy}}
+|{{Colorize trinket|Archelon egg|blue}}
+|{{Colorize trinket|Archelon egg|aqua}}
+|{{Colorize trinket|Archelon egg|lime}}
+|{{Colorize trinket|Archelon egg|atlantean}}
+|{{Colorize trinket|Archelon egg|light blue}}
+|{{Colorize trinket|Archelon egg|sea green}}
+|}
+
+=== Colorless ===
+
+These trinkets do not come in multiple colors.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|'''<big>[[Broken trident tine]]</big>'''
+|{{Colorize trinket|Broken trident tine|ignore}}
+|-
+|'''<big>[[Enormous pearl]]</big>'''
+|{{Colorize trinket|Enormous pearl|ignore}}
+|-
+|'''<big>[[Carcharias coin]]</big>'''
+|{{Colorize trinket|Carcharias coin|ignore}}
+|-
+|'''<big>[[Trident coin]]</big>'''
+|{{Colorize trinket|Trident coin|ignore}}
+|-
+|'''<big>[[Scale strigil]]</big>'''
+|{{Colorize trinket|Scale strigil|ignore}}
+
+
+[[Category:Subpages:Trinkets]]

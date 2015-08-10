@@ -1,0 +1,999 @@
+This is a sub-page of [[Jamesh]]'s trinket collections.  For the main page, please click [[Jamesh/Trinkets|here]].
+
+This is a list of trinkets Jamesh has collected.  Any trinkets that are '''''not''''' shown here are trinkets Jamesh is missing and will buy.
+
+=== Black box palette ===
+
+These [[black box]] trinkets are available in all of the [[Trinket_palette#Cloth-based|cloth colors]] except atlantean, indigo, inky, and night blue.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|- valign="center"
+! rowspan=2 | '''<big>[[Lockpick kit]]</big>'''
+|{{Colorize trinket|Lockpick kit|red}}Red
+|{{Colorize trinket|Lockpick kit|tan}}Tan
+|{{Colorize trinket|Lockpick kit|white}}White
+|{{Colorize trinket|Lockpick kit|black}}Black
+|{{Colorize trinket|Lockpick kit|grey}}Grey
+|{{Colorize trinket|Lockpick kit|yellow}}Yellow
+|{{Colorize trinket|Lockpick kit|pink}}Pink
+|{{Colorize trinket|Lockpick kit|violet}}Violet
+|{{Colorize trinket|Lockpick kit|purple}}Purple
+|{{Colorize trinket|Lockpick kit|navy}}Navy
+|{{Colorize trinket|Lockpick kit|blue}}Blue
+|{{Colorize trinket|Lockpick kit|aqua}}Aqua
+|{{Colorize trinket|Lockpick kit|lime}}Lime
+|{{Colorize trinket|Lockpick kit|green}}Green
+|-
+|{{Colorize trinket|Lockpick kit|orange}}Orange
+|{{Colorize trinket|Lockpick kit|maroon}}Maroon
+|{{Colorize trinket|Lockpick kit|brown}}Brown
+|{{Colorize trinket|Lockpick kit|gold}}Gold
+|{{Colorize trinket|Lockpick kit|rose}}Rose
+|{{Colorize trinket|Lockpick kit|lavender}}Lavender
+|{{Colorize trinket|Lockpick kit|mint}}Mint
+|{{Colorize trinket|Lockpick kit|light green}}Lt. Green
+|{{Colorize trinket|Lockpick kit|magenta}}Magenta
+|{{Colorize trinket|Lockpick kit|lemon}}Lemon
+|{{Colorize trinket|Lockpick kit|peach}}Peach
+|{{Colorize trinket|Lockpick kit|light blue}}Lt. Blue
+|{{Colorize trinket|Lockpick kit|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Skeleton key]]</big>'''
+|{{Colorize trinket|Skeleton key|red}}Red
+|{{Colorize trinket|Skeleton key|tan}}Tan
+|{{Colorize trinket|Skeleton key|white}}White
+|{{Colorize trinket|Skeleton key|black}}Black
+|{{Colorize trinket|Skeleton key|grey}}Grey
+|{{Colorize trinket|Skeleton key|yellow}}Yellow
+|{{Colorize trinket|Skeleton key|pink}}Pink
+|{{Colorize trinket|Skeleton key|violet}}Violet
+|{{Colorize trinket|Skeleton key|purple}}Purple
+|{{Colorize trinket|Skeleton key|navy}}Navy
+|{{Colorize trinket|Skeleton key|blue}}Blue
+|{{Colorize trinket|Skeleton key|aqua}}Aqua
+|{{Colorize trinket|Skeleton key|lime}}Lime
+|{{Colorize trinket|Skeleton key|green}}Green
+|-
+|{{Colorize trinket|Skeleton key|orange}}Orange
+|{{Colorize trinket|Skeleton key|maroon}}Maroon
+|{{Colorize trinket|Skeleton key|brown}}Brown
+|{{Colorize trinket|Skeleton key|gold}}Gold
+|{{Colorize trinket|Skeleton key|rose}}Rose
+|{{Colorize trinket|Skeleton key|lavender}}Lavender
+|{{Colorize trinket|Skeleton key|mint}}Mint
+|{{Colorize trinket|Skeleton key|light green}}Lt. Green
+|{{Colorize trinket|Skeleton key|magenta}}Magenta
+|{{Colorize trinket|Skeleton key|lemon}}Lemon
+|{{Colorize trinket|Skeleton key|peach}}Peach
+|{{Colorize trinket|Skeleton key|light blue}}Lt. Blue
+|{{Colorize trinket|Skeleton key|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Knucklebone dice]]</big>'''
+|{{Colorize trinket|Knucklebone dice|red}}Red
+|{{Colorize trinket|Knucklebone dice|tan}}Tan
+|{{Colorize trinket|Knucklebone dice|white}}White
+|{{Colorize trinket|Knucklebone dice|black}}Black
+|{{Colorize trinket|Knucklebone dice|grey}}Grey
+|{{Colorize trinket|Knucklebone dice|yellow}}Yellow
+|{{Colorize trinket|Knucklebone dice|pink}}Pink
+|{{Colorize trinket|Knucklebone dice|violet}}Violet
+|{{Colorize trinket|Knucklebone dice|purple}}Purple
+|{{Colorize trinket|Knucklebone dice|navy}}Navy
+|{{Colorize trinket|Knucklebone dice|blue}}Blue
+|{{Colorize trinket|Knucklebone dice|aqua}}Aqua
+|{{Colorize trinket|Knucklebone dice|lime}}Lime
+|{{Colorize trinket|Knucklebone dice|green}}Green
+|-
+|{{Colorize trinket|Knucklebone dice|orange}}Orange
+|{{Colorize trinket|Knucklebone dice|maroon}}Maroon
+|{{Colorize trinket|Knucklebone dice|brown}}Brown
+|{{Colorize trinket|Knucklebone dice|gold}}Gold
+|{{Colorize trinket|Knucklebone dice|rose}}Rose
+|{{Colorize trinket|Knucklebone dice|lavender}}Lavender
+|{{Colorize trinket|Knucklebone dice|mint}}Mint
+|{{Colorize trinket|Knucklebone dice|light green}}Lt. Green
+|{{Colorize trinket|Knucklebone dice|magenta}}Magenta
+|{{Colorize trinket|Knucklebone dice|lemon}}Lemon
+|{{Colorize trinket|Knucklebone dice|peach}}Peach
+|{{Colorize trinket|Knucklebone dice|light blue}}Lt. Blue
+|{{Colorize trinket|Knucklebone dice|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Caltrops]]</big>'''
+|{{Colorize trinket|Caltrops|red}}Red
+|{{Colorize trinket|Caltrops|tan}}Tan
+|{{Colorize trinket|Caltrops|white}}White
+|{{Colorize trinket|Caltrops|black}}Black
+|{{Colorize trinket|Caltrops|grey}}Grey
+|{{Colorize trinket|Caltrops|yellow}}Yellow
+|{{Colorize trinket|Caltrops|pink}}Pink
+|{{Colorize trinket|Caltrops|violet}}Violet
+|{{Colorize trinket|Caltrops|purple}}Purple
+|{{Colorize trinket|Caltrops|navy}}Navy
+|{{Colorize trinket|Caltrops|blue}}Blue
+|{{Colorize trinket|Caltrops|aqua}}Aqua
+|{{Colorize trinket|Caltrops|lime}}Lime
+|{{Colorize trinket|Caltrops|green}}Green
+|-
+|{{Colorize trinket|Caltrops|orange}}Orange
+|{{Colorize trinket|Caltrops|maroon}}Maroon
+|{{Colorize trinket|Caltrops|brown}}Brown
+|{{Colorize trinket|Caltrops|gold}}Gold
+|{{Colorize trinket|Caltrops|rose}}Rose
+|{{Colorize trinket|Caltrops|lavender}}Lavender
+|{{Colorize trinket|Caltrops|mint}}Mint
+|{{Colorize trinket|Caltrops|light green}}Lt. Green
+|{{Colorize trinket|Caltrops|magenta}}Magenta
+|{{Colorize trinket|Caltrops|lemon}}Lemon
+|{{Colorize trinket|Caltrops|peach}}Peach
+|{{Colorize trinket|Caltrops|light blue}}Lt. Blue
+|{{Colorize trinket|Caltrops|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Forged documents]]</big>'''
+|{{Colorize trinket|Forged documents|red}}Red
+|{{Colorize trinket|Forged documents|tan}}Tan
+|{{Colorize trinket|Forged documents|white}}White
+|{{Colorize trinket|Forged documents|black}}Black
+|{{Colorize trinket|Forged documents|grey}}Grey
+|{{Colorize trinket|Forged documents|yellow}}Yellow
+|{{Colorize trinket|Forged documents|pink}}Pink
+|{{Colorize trinket|Forged documents|violet}}Violet
+|{{Colorize trinket|Forged documents|purple}}Purple
+|{{Colorize trinket|Forged documents|navy}}Navy
+|{{Colorize trinket|Forged documents|blue}}Blue
+|{{Colorize trinket|Forged documents|aqua}}Aqua
+|{{Colorize trinket|Forged documents|lime}}Lime
+|{{Colorize trinket|Forged documents|green}}Green
+|-
+|{{Colorize trinket|Forged documents|orange}}Orange
+|{{Colorize trinket|Forged documents|maroon}}Maroon
+|{{Colorize trinket|Forged documents|brown}}Brown
+|{{Colorize trinket|Forged documents|gold}}Gold
+|{{Colorize trinket|Forged documents|rose}}Rose
+|{{Colorize trinket|Forged documents|lavender}}Lavender
+|{{Colorize trinket|Forged documents|mint}}Mint
+|{{Colorize trinket|Forged documents|light green}}Lt. Green
+|{{Colorize trinket|Forged documents|magenta}}Magenta
+|{{Colorize trinket|Forged documents|lemon}}Lemon
+|{{Colorize trinket|Forged documents|peach}}Peach
+|{{Colorize trinket|Forged documents|light blue}}Lt. Blue
+|{{Colorize trinket|Forged documents|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Black handkerchief]]</big>'''
+|{{Colorize trinket|Black handkerchief|red}}Red
+|{{Colorize trinket|Black handkerchief|tan}}Tan
+|{{Colorize trinket|Black handkerchief|white}}White
+|{{Colorize trinket|Black handkerchief|black}}Black
+|{{Colorize trinket|Black handkerchief|grey}}Grey
+|{{Colorize trinket|Black handkerchief|yellow}}Yellow
+|{{Colorize trinket|Black handkerchief|pink}}Pink
+|{{Colorize trinket|Black handkerchief|violet}}Violet
+|{{Colorize trinket|Black handkerchief|purple}}Purple
+|{{Colorize trinket|Black handkerchief|navy}}Navy
+|{{Colorize trinket|Black handkerchief|blue}}Blue
+|{{Colorize trinket|Black handkerchief|aqua}}Aqua
+|{{Colorize trinket|Black handkerchief|lime}}Lime
+|{{Colorize trinket|Black handkerchief|green}}Green
+|-
+|{{Colorize trinket|Black handkerchief|orange}}Orange
+|{{Colorize trinket|Black handkerchief|maroon}}Maroon
+|{{Colorize trinket|Black handkerchief|brown}}Brown
+|{{Colorize trinket|Black handkerchief|gold}}Gold
+|{{Colorize trinket|Black handkerchief|rose}}Rose
+|{{Colorize trinket|Black handkerchief|lavender}}Lavender
+|{{Colorize trinket|Black handkerchief|mint}}Mint
+|{{Colorize trinket|Black handkerchief|light green}}Lt. Green
+|{{Colorize trinket|Black handkerchief|magenta}}Magenta
+|{{Colorize trinket|Black handkerchief|lemon}}Lemon
+|{{Colorize trinket|Black handkerchief|peach}}Peach
+|{{Colorize trinket|Black handkerchief|light blue}}Lt. Blue
+|{{Colorize trinket|Black handkerchief|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Stolen imperial plans]]</big>'''
+|{{Colorize trinket|Stolen imperial plans|red}}Red
+|{{Colorize trinket|Stolen imperial plans|tan}}Tan
+|{{Colorize trinket|Stolen imperial plans|white}}White
+|{{Colorize trinket|Stolen imperial plans|black}}Black
+|{{Colorize trinket|Stolen imperial plans|grey}}Grey
+|{{Colorize trinket|Stolen imperial plans|yellow}}Yellow
+|{{Colorize trinket|Stolen imperial plans|pink}}Pink
+|{{Colorize trinket|Stolen imperial plans|violet}}Violet
+|{{Colorize trinket|Stolen imperial plans|purple}}Purple
+|{{Colorize trinket|Stolen imperial plans|navy}}Navy
+|{{Colorize trinket|Stolen imperial plans|blue}}Blue
+|{{Colorize trinket|Stolen imperial plans|aqua}}Aqua
+|{{Colorize trinket|Stolen imperial plans|lime}}Lime
+|{{Colorize trinket|Stolen imperial plans|green}}Green
+|-
+|{{Colorize trinket|Stolen imperial plans|orange}}Orange
+|{{Colorize trinket|Stolen imperial plans|maroon}}Maroon
+|{{Colorize trinket|Stolen imperial plans|brown}}Brown
+|{{Colorize trinket|Stolen imperial plans|gold}}Gold
+|{{Colorize trinket|Stolen imperial plans|rose}}Rose
+|{{Colorize trinket|Stolen imperial plans|lavender}}Lavender
+|{{Colorize trinket|Stolen imperial plans|mint}}Mint
+|{{Colorize trinket|Stolen imperial plans|light green}}Lt. Green
+|{{Colorize trinket|Stolen imperial plans|magenta}}Magenta
+|{{Colorize trinket|Stolen imperial plans|lemon}}Lemon
+|{{Colorize trinket|Stolen imperial plans|peach}}Peach
+|{{Colorize trinket|Stolen imperial plans|light blue}}Lt. Blue
+|{{Colorize trinket|Stolen imperial plans|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Garrote]]</big>'''
+|{{Colorize trinket|Garrote|red}}Red
+|{{Colorize trinket|Garrote|tan}}Tan
+|{{Colorize trinket|Garrote|white}}White
+|{{Colorize trinket|Garrote|black}}Black
+|{{Colorize trinket|Garrote|grey}}Grey
+|{{Colorize trinket|Garrote|yellow}}Yellow
+|{{Colorize trinket|Garrote|pink}}Pink
+|{{Colorize trinket|Garrote|violet}}Violet
+|{{Colorize trinket|Garrote|purple}}Purple
+|{{Colorize trinket|Garrote|navy}}Navy
+|{{Colorize trinket|Garrote|blue}}Blue
+|{{Colorize trinket|Garrote|aqua}}Aqua
+|{{Colorize trinket|Garrote|lime}}Lime
+|{{Colorize trinket|Garrote|green}}Green
+|-
+|{{Colorize trinket|Garrote|orange}}Orange
+|{{Colorize trinket|Garrote|maroon}}Maroon
+|{{Colorize trinket|Garrote|brown}}Brown
+|{{Colorize trinket|Garrote|gold}}Gold
+|{{Colorize trinket|Garrote|rose}}Rose
+|{{Colorize trinket|Garrote|lavender}}Lavender
+|{{Colorize trinket|Garrote|mint}}Mint
+|{{Colorize trinket|Garrote|light green}}Lt. Green
+|{{Colorize trinket|Garrote|magenta}}Magenta
+|{{Colorize trinket|Garrote|lemon}}Lemon
+|{{Colorize trinket|Garrote|peach}}Peach
+|{{Colorize trinket|Garrote|light blue}}Lt. Blue
+|{{Colorize trinket|Garrote|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Grappling hook]]</big>'''
+|{{Colorize trinket|Grappling hook|red}}Red
+|{{Colorize trinket|Grappling hook|tan}}Tan
+|{{Colorize trinket|Grappling hook|white}}White
+|{{Colorize trinket|Grappling hook|black}}Black
+|{{Colorize trinket|Grappling hook|grey}}Grey
+|{{Colorize trinket|Grappling hook|yellow}}Yellow
+|{{Colorize trinket|Grappling hook|pink}}Pink
+|{{Colorize trinket|Grappling hook|violet}}Violet
+|{{Colorize trinket|Grappling hook|purple}}Purple
+|{{Colorize trinket|Grappling hook|navy}}Navy
+|{{Colorize trinket|Grappling hook|blue}}Blue
+|{{Colorize trinket|Grappling hook|aqua}}Aqua
+|{{Colorize trinket|Grappling hook|lime}}Lime
+|{{Colorize trinket|Grappling hook|green}}Green
+|-
+|{{Colorize trinket|Grappling hook|orange}}Orange
+|{{Colorize trinket|Grappling hook|maroon}}Maroon
+|{{Colorize trinket|Grappling hook|brown}}Brown
+|{{Colorize trinket|Grappling hook|gold}}Gold
+|{{Colorize trinket|Grappling hook|rose}}Rose
+|{{Colorize trinket|Grappling hook|lavender}}Lavender
+|{{Colorize trinket|Grappling hook|mint}}Mint
+|{{Colorize trinket|Grappling hook|light green}}Lt. Green
+|{{Colorize trinket|Grappling hook|magenta}}Magenta
+|{{Colorize trinket|Grappling hook|lemon}}Lemon
+|{{Colorize trinket|Grappling hook|peach}}Peach
+|{{Colorize trinket|Grappling hook|light blue}}Lt. Blue
+|{{Colorize trinket|Grappling hook|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Plunder bag]]</big>'''
+|{{Colorize trinket|Plunder bag|red}}Red
+|{{Colorize trinket|Plunder bag|tan}}Tan
+|{{Colorize trinket|Plunder bag|white}}White
+|{{Colorize trinket|Plunder bag|black}}Black
+|{{Colorize trinket|Plunder bag|grey}}Grey
+|{{Colorize trinket|Plunder bag|yellow}}Yellow
+|{{Colorize trinket|Plunder bag|pink}}Pink
+|{{Colorize trinket|Plunder bag|violet}}Violet
+|{{Colorize trinket|Plunder bag|purple}}Purple
+|{{Colorize trinket|Plunder bag|navy}}Navy
+|{{Colorize trinket|Plunder bag|blue}}Blue
+|{{Colorize trinket|Plunder bag|aqua}}Aqua
+|{{Colorize trinket|Plunder bag|lime}}Lime
+|{{Colorize trinket|Plunder bag|green}}Green
+|-
+|{{Colorize trinket|Plunder bag|orange}}Orange
+|{{Colorize trinket|Plunder bag|maroon}}Maroon
+|{{Colorize trinket|Plunder bag|brown}}Brown
+|{{Colorize trinket|Plunder bag|gold}}Gold
+|{{Colorize trinket|Plunder bag|rose}}Rose
+|{{Colorize trinket|Plunder bag|lavender}}Lavender
+|{{Colorize trinket|Plunder bag|mint}}Mint
+|{{Colorize trinket|Plunder bag|light green}}Lt. Green
+|{{Colorize trinket|Plunder bag|magenta}}Magenta
+|{{Colorize trinket|Plunder bag|lemon}}Lemon
+|{{Colorize trinket|Plunder bag|peach}}Peach
+|{{Colorize trinket|Plunder bag|light blue}}Lt. Blue
+|{{Colorize trinket|Plunder bag|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Smoke bomb]]</big>'''
+|{{Colorize trinket|Smoke bomb|red}}Red
+|{{Colorize trinket|Smoke bomb|tan}}Tan
+|{{Colorize trinket|Smoke bomb|white}}White
+|{{Colorize trinket|Smoke bomb|black}}Black
+|{{Colorize trinket|Smoke bomb|grey}}Grey
+|{{Colorize trinket|Smoke bomb|yellow}}Yellow
+|{{Colorize trinket|Smoke bomb|pink}}Pink
+|{{Colorize trinket|Smoke bomb|violet}}Violet
+|{{Colorize trinket|Smoke bomb|purple}}Purple
+|{{Colorize trinket|Smoke bomb|navy}}Navy
+|{{Colorize trinket|Smoke bomb|blue}}Blue
+|{{Colorize trinket|Smoke bomb|aqua}}Aqua
+|{{Colorize trinket|Smoke bomb|lime}}Lime
+|{{Colorize trinket|Smoke bomb|green}}Green
+|-
+|{{Colorize trinket|Smoke bomb|orange}}Orange
+|{{Colorize trinket|Smoke bomb|maroon}}Maroon
+|{{Colorize trinket|Smoke bomb|brown}}Brown
+|{{Colorize trinket|Smoke bomb|gold}}Gold
+|{{Colorize trinket|Smoke bomb|rose}}Rose
+|{{Colorize trinket|Smoke bomb|lavender}}Lavender
+|{{Colorize trinket|Smoke bomb|mint}}Mint
+|{{Colorize trinket|Smoke bomb|light green}}Lt. Green
+|{{Colorize trinket|Smoke bomb|magenta}}Magenta
+|{{Colorize trinket|Smoke bomb|lemon}}Lemon
+|{{Colorize trinket|Smoke bomb|peach}}Peach
+|{{Colorize trinket|Smoke bomb|light blue}}Lt. Blue
+|{{Colorize trinket|Smoke bomb|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Throwing knives]]</big>'''
+|{{Colorize trinket|Throwing knives|red}}Red
+|{{Colorize trinket|Throwing knives|tan}}Tan
+|{{Colorize trinket|Throwing knives|white}}White
+|{{Colorize trinket|Throwing knives|black}}Black
+|{{Colorize trinket|Throwing knives|grey}}Grey
+|{{Colorize trinket|Throwing knives|yellow}}Yellow
+|{{Colorize trinket|Throwing knives|pink}}Pink
+|{{Colorize trinket|Throwing knives|violet}}Violet
+|{{Colorize trinket|Throwing knives|purple}}Purple
+|{{Colorize trinket|Throwing knives|navy}}Navy
+|{{Colorize trinket|Throwing knives|blue}}Blue
+|{{Colorize trinket|Throwing knives|aqua}}Aqua
+|{{Colorize trinket|Throwing knives|lime}}Lime
+|{{Colorize trinket|Throwing knives|green}}Green
+|-
+|{{Colorize trinket|Throwing knives|orange}}Orange
+|{{Colorize trinket|Throwing knives|maroon}}Maroon
+|{{Colorize trinket|Throwing knives|brown}}Brown
+|{{Colorize trinket|Throwing knives|gold}}Gold
+|{{Colorize trinket|Throwing knives|rose}}Rose
+|{{Colorize trinket|Throwing knives|lavender}}Lavender
+|{{Colorize trinket|Throwing knives|mint}}Mint
+|{{Colorize trinket|Throwing knives|light green}}Lt. Green
+|{{Colorize trinket|Throwing knives|magenta}}Magenta
+|{{Colorize trinket|Throwing knives|lemon}}Lemon
+|{{Colorize trinket|Throwing knives|peach}}Peach
+|{{Colorize trinket|Throwing knives|light blue}}Lt. Blue
+|{{Colorize trinket|Throwing knives|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Counterfeit coins]]</big>'''
+|{{Colorize trinket|Counterfeit coins|red}}Red
+|{{Colorize trinket|Counterfeit coins|tan}}Tan
+|{{Colorize trinket|Counterfeit coins|white}}White
+|{{Colorize trinket|Counterfeit coins|black}}Black
+|{{Colorize trinket|Counterfeit coins|grey}}Grey
+|{{Colorize trinket|Counterfeit coins|yellow}}Yellow
+|{{Colorize trinket|Counterfeit coins|pink}}Pink
+|{{Colorize trinket|Counterfeit coins|violet}}Violet
+|{{Colorize trinket|Counterfeit coins|purple}}Purple
+|{{Colorize trinket|Counterfeit coins|navy}}Navy
+|{{Colorize trinket|Counterfeit coins|blue}}Blue
+|{{Colorize trinket|Counterfeit coins|aqua}}Aqua
+|{{Colorize trinket|Counterfeit coins|lime}}Lime
+|{{Colorize trinket|Counterfeit coins|green}}Green
+|-
+|{{Colorize trinket|Counterfeit coins|orange}}Orange
+|{{Colorize trinket|Counterfeit coins|maroon}}Maroon
+|{{Colorize trinket|Counterfeit coins|brown}}Brown
+|{{Colorize trinket|Counterfeit coins|gold}}Gold
+|{{Colorize trinket|Counterfeit coins|rose}}Rose
+|{{Colorize trinket|Counterfeit coins|lavender}}Lavender
+|{{Colorize trinket|Counterfeit coins|mint}}Mint
+|{{Colorize trinket|Counterfeit coins|light green}}Lt. Green
+|{{Colorize trinket|Counterfeit coins|magenta}}Magenta
+|{{Colorize trinket|Counterfeit coins|lemon}}Lemon
+|{{Colorize trinket|Counterfeit coins|peach}}Peach
+|{{Colorize trinket|Counterfeit coins|light blue}}Lt. Blue
+|{{Colorize trinket|Counterfeit coins|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Marked cards]]</big>'''
+|{{Colorize trinket|Marked cards|red}}Red
+|{{Colorize trinket|Marked cards|tan}}Tan
+|{{Colorize trinket|Marked cards|white}}White
+|{{Colorize trinket|Marked cards|black}}Black
+|{{Colorize trinket|Marked cards|grey}}Grey
+|{{Colorize trinket|Marked cards|yellow}}Yellow
+|{{Colorize trinket|Marked cards|pink}}Pink
+|{{Colorize trinket|Marked cards|violet}}Violet
+|{{Colorize trinket|Marked cards|purple}}Purple
+|{{Colorize trinket|Marked cards|navy}}Navy
+|{{Colorize trinket|Marked cards|blue}}Blue
+|{{Colorize trinket|Marked cards|aqua}}Aqua
+|{{Colorize trinket|Marked cards|lime}}Lime
+|{{Colorize trinket|Marked cards|green}}Green
+|-
+|{{Colorize trinket|Marked cards|orange}}Orange
+|{{Colorize trinket|Marked cards|maroon}}Maroon
+|{{Colorize trinket|Marked cards|brown}}Brown
+|{{Colorize trinket|Marked cards|gold}}Gold
+|{{Colorize trinket|Marked cards|rose}}Rose
+|{{Colorize trinket|Marked cards|lavender}}Lavender
+|{{Colorize trinket|Marked cards|mint}}Mint
+|{{Colorize trinket|Marked cards|light green}}Lt. Green
+|{{Colorize trinket|Marked cards|magenta}}Magenta
+|{{Colorize trinket|Marked cards|lemon}}Lemon
+|{{Colorize trinket|Marked cards|peach}}Peach
+|{{Colorize trinket|Marked cards|light blue}}Lt. Blue
+|{{Colorize trinket|Marked cards|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Poison]]</big>'''
+|{{Colorize trinket|Poison|red}}Red
+|{{Colorize trinket|Poison|tan}}Tan
+|{{Colorize trinket|Poison|white}}White
+|{{Colorize trinket|Poison|black}}Black
+|{{Colorize trinket|Poison|grey}}Grey
+|{{Colorize trinket|Poison|yellow}}Yellow
+|{{Colorize trinket|Poison|pink}}Pink
+|{{Colorize trinket|Poison|violet}}Violet
+|{{Colorize trinket|Poison|purple}}Purple
+|{{Colorize trinket|Poison|navy}}Navy
+|{{Colorize trinket|Poison|blue}}Blue
+|{{Colorize trinket|Poison|aqua}}Aqua
+|{{Colorize trinket|Poison|lime}}Lime
+|{{Colorize trinket|Poison|green}}Green
+|-
+|{{Colorize trinket|Poison|orange}}Orange
+|{{Colorize trinket|Poison|maroon}}Maroon
+|{{Colorize trinket|Poison|brown}}Brown
+|{{Colorize trinket|Poison|gold}}Gold
+|{{Colorize trinket|Poison|rose}}Rose
+|{{Colorize trinket|Poison|lavender}}Lavender
+|{{Colorize trinket|Poison|mint}}Mint
+|{{Colorize trinket|Poison|light green}}Lt. Green
+|{{Colorize trinket|Poison|magenta}}Magenta
+|{{Colorize trinket|Poison|lemon}}Lemon
+|{{Colorize trinket|Poison|peach}}Peach
+|{{Colorize trinket|Poison|light blue}}Lt. Blue
+|{{Colorize trinket|Poison|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Fake casino chips]]</big>'''
+|{{Colorize trinket|Fake casino chips|red}}Red
+|{{Colorize trinket|Fake casino chips|tan}}Tan
+|{{Colorize trinket|Fake casino chips|white}}White
+|{{Colorize trinket|Fake casino chips|black}}Black
+|{{Colorize trinket|Fake casino chips|grey}}Grey
+|{{Colorize trinket|Fake casino chips|yellow}}Yellow
+|{{Colorize trinket|Fake casino chips|pink}}Pink
+|{{Colorize trinket|Fake casino chips|violet}}Violet
+|{{Colorize trinket|Fake casino chips|purple}}Purple
+|{{Colorize trinket|Fake casino chips|navy}}Navy
+|{{Colorize trinket|Fake casino chips|blue}}Blue
+|{{Colorize trinket|Fake casino chips|aqua}}Aqua
+|{{Colorize trinket|Fake casino chips|lime}}Lime
+|{{Colorize trinket|Fake casino chips|green}}Green
+|-
+|{{Colorize trinket|Fake casino chips|orange}}Orange
+|{{Colorize trinket|Fake casino chips|maroon}}Maroon
+|{{Colorize trinket|Fake casino chips|brown}}Brown
+|{{Colorize trinket|Fake casino chips|gold}}Gold
+|{{Colorize trinket|Fake casino chips|rose}}Rose
+|{{Colorize trinket|Fake casino chips|lavender}}Lavender
+|{{Colorize trinket|Fake casino chips|mint}}Mint
+|{{Colorize trinket|Fake casino chips|light green}}Lt. Green
+|{{Colorize trinket|Fake casino chips|magenta}}Magenta
+|{{Colorize trinket|Fake casino chips|lemon}}Lemon
+|{{Colorize trinket|Fake casino chips|peach}}Peach
+|{{Colorize trinket|Fake casino chips|light blue}}Lt. Blue
+|{{Colorize trinket|Fake casino chips|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Poison darts]]</big>'''
+|{{Colorize trinket|Poison darts|red}}Red
+|{{Colorize trinket|Poison darts|tan}}Tan
+|{{Colorize trinket|Poison darts|white}}White
+|{{Colorize trinket|Poison darts|black}}Black
+|{{Colorize trinket|Poison darts|grey}}Grey
+|{{Colorize trinket|Poison darts|yellow}}Yellow
+|{{Colorize trinket|Poison darts|pink}}Pink
+|{{Colorize trinket|Poison darts|violet}}Violet
+|{{Colorize trinket|Poison darts|purple}}Purple
+|{{Colorize trinket|Poison darts|navy}}Navy
+|{{Colorize trinket|Poison darts|blue}}Blue
+|{{Colorize trinket|Poison darts|aqua}}Aqua
+|{{Colorize trinket|Poison darts|lime}}Lime
+|{{Colorize trinket|Poison darts|green}}Green
+|-
+|{{Colorize trinket|Poison darts|orange}}Orange
+|{{Colorize trinket|Poison darts|maroon}}Maroon
+|{{Colorize trinket|Poison darts|brown}}Brown
+|{{Colorize trinket|Poison darts|gold}}Gold
+|{{Colorize trinket|Poison darts|rose}}Rose
+|{{Colorize trinket|Poison darts|lavender}}Lavender
+|{{Colorize trinket|Poison darts|mint}}Mint
+|{{Colorize trinket|Poison darts|light green}}Lt. Green
+|{{Colorize trinket|Poison darts|magenta}}Magenta
+|{{Colorize trinket|Poison darts|lemon}}Lemon
+|{{Colorize trinket|Poison darts|peach}}Peach
+|{{Colorize trinket|Poison darts|light blue}}Lt. Blue
+|{{Colorize trinket|Poison darts|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Raven's feather]]</big>'''
+|{{Colorize trinket|Raven's feather|red}}Red
+|{{Colorize trinket|Raven's feather|tan}}Tan
+|{{Colorize trinket|Raven's feather|white}}White
+|{{Colorize trinket|Raven's feather|black}}Black
+|{{Colorize trinket|Raven's feather|grey}}Grey
+|{{Colorize trinket|Raven's feather|yellow}}Yellow
+|{{Colorize trinket|Raven's feather|pink}}Pink
+|{{Colorize trinket|Raven's feather|violet}}Violet
+|{{Colorize trinket|Raven's feather|purple}}Purple
+|{{Colorize trinket|Raven's feather|navy}}Navy
+|{{Colorize trinket|Raven's feather|blue}}Blue
+|{{Colorize trinket|Raven's feather|aqua}}Aqua
+|{{Colorize trinket|Raven's feather|lime}}Lime
+|{{Colorize trinket|Raven's feather|green}}Green
+|-
+|{{Colorize trinket|Raven's feather|orange}}Orange
+|{{Colorize trinket|Raven's feather|maroon}}Maroon
+|{{Colorize trinket|Raven's feather|brown}}Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|{{Colorize trinket|Raven's feather|rose}}Rose
+|{{Colorize trinket|Raven's feather|lavender}}Lavender
+|{{Colorize trinket|Raven's feather|mint}}Mint
+|{{Colorize trinket|Raven's feather|light green}}Lt. Green
+|{{Colorize trinket|Raven's feather|magenta}}Magenta
+|{{Colorize trinket|Raven's feather|lemon}}Lemon
+|{{Colorize trinket|Raven's feather|peach}}Peach
+|{{Colorize trinket|Raven's feather|light blue}}Lt. Blue
+|{{Colorize trinket|Raven's feather|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Dirty laundry list]]</big>'''
+|{{Colorize trinket|Dirty laundry list|red}}Red
+|{{Colorize trinket|Dirty laundry list|tan}}Tan
+|{{Colorize trinket|Dirty laundry list|white}}White
+|{{Colorize trinket|Dirty laundry list|black}}Black
+|{{Colorize trinket|Dirty laundry list|grey}}Grey
+|{{Colorize trinket|Dirty laundry list|yellow}}Yellow
+|{{Colorize trinket|Dirty laundry list|pink}}Pink
+|{{Colorize trinket|Dirty laundry list|violet}}Violet
+|{{Colorize trinket|Dirty laundry list|purple}}Purple
+|{{Colorize trinket|Dirty laundry list|navy}}Navy
+|{{Colorize trinket|Dirty laundry list|blue}}Blue
+|{{Colorize trinket|Dirty laundry list|aqua}}Aqua
+|{{Colorize trinket|Dirty laundry list|lime}}Lime
+|{{Colorize trinket|Dirty laundry list|green}}Green
+|-
+|{{Colorize trinket|Dirty laundry list|orange}}Orange
+|{{Colorize trinket|Dirty laundry list|maroon}}Maroon
+|{{Colorize trinket|Dirty laundry list|brown}}Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|{{Colorize trinket|Dirty laundry list|rose}}Rose
+|{{Colorize trinket|Dirty laundry list|lavender}}Lavender
+|{{Colorize trinket|Dirty laundry list|mint}}Mint
+|{{Colorize trinket|Dirty laundry list|light green}}Lt. Green
+|{{Colorize trinket|Dirty laundry list|magenta}}Magenta
+|{{Colorize trinket|Dirty laundry list|lemon}}Lemon
+|{{Colorize trinket|Dirty laundry list|peach}}Peach
+|{{Colorize trinket|Dirty laundry list|light blue}}Lt. Blue
+|{{Colorize trinket|Dirty laundry list|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Wanted poster]]</big>'''
+|{{Colorize trinket|Wanted poster|red}}Red
+|{{Colorize trinket|Wanted poster|tan}}Tan
+|{{Colorize trinket|Wanted poster|white}}White
+|{{Colorize trinket|Wanted poster|black}}Black
+|{{Colorize trinket|Wanted poster|grey}}Grey
+|{{Colorize trinket|Wanted poster|yellow}}Yellow
+|{{Colorize trinket|Wanted poster|pink}}Pink
+|{{Colorize trinket|Wanted poster|violet}}Violet
+|{{Colorize trinket|Wanted poster|purple}}Purple
+|{{Colorize trinket|Wanted poster|navy}}Navy
+|{{Colorize trinket|Wanted poster|blue}}Blue
+|{{Colorize trinket|Wanted poster|aqua}}Aqua
+|{{Colorize trinket|Wanted poster|lime}}Lime
+|{{Colorize trinket|Wanted poster|green}}Green
+|-
+|{{Colorize trinket|Wanted poster|orange}}Orange
+|{{Colorize trinket|Wanted poster|maroon}}Maroon
+|{{Colorize trinket|Wanted poster|brown}}Brown
+|{{Colorize trinket|Wanted poster|gold}}Gold
+|{{Colorize trinket|Wanted poster|rose}}Rose
+|{{Colorize trinket|Wanted poster|lavender}}Lavender
+|{{Colorize trinket|Wanted poster|mint}}Mint
+|{{Colorize trinket|Wanted poster|light green}}Lt. Green
+|{{Colorize trinket|Wanted poster|magenta}}Magenta
+|{{Colorize trinket|Wanted poster|lemon}}Lemon
+|{{Colorize trinket|Wanted poster|peach}}Peach
+|{{Colorize trinket|Wanted poster|light blue}}Lt. Blue
+|{{Colorize trinket|Wanted poster|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Powdered unicorn horn]]</big>'''
+|{{Colorize trinket|Powdered unicorn horn|red}}Red
+|{{Colorize trinket|Powdered unicorn horn|tan}}Tan
+|{{Colorize trinket|Powdered unicorn horn|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Black
+|{{Colorize trinket|Powdered unicorn horn|grey}}Grey
+|{{Colorize trinket|Powdered unicorn horn|yellow}}Yellow
+|{{Colorize trinket|Powdered unicorn horn|pink}}Pink
+|{{Colorize trinket|Powdered unicorn horn|violet}}Violet
+|[[Image:Item_box_unequip.png]]<br/>Purple
+|{{Colorize trinket|Powdered unicorn horn|navy}}Navy
+|[[Image:Item_box_unequip.png]]<br/>Blue
+|{{Colorize trinket|Powdered unicorn horn|aqua}}Aqua
+|{{Colorize trinket|Powdered unicorn horn|lime}}Lime
+|{{Colorize trinket|Powdered unicorn horn|green}}Green
+|-
+|{{Colorize trinket|Powdered unicorn horn|orange}}Orange
+|{{Colorize trinket|Powdered unicorn horn|maroon}}Maroon
+|{{Colorize trinket|Powdered unicorn horn|brown}}Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|{{Colorize trinket|Powdered unicorn horn|rose}}Rose
+|{{Colorize trinket|Powdered unicorn horn|lavender}}Lavender
+|{{Colorize trinket|Powdered unicorn horn|mint}}Mint
+|{{Colorize trinket|Powdered unicorn horn|light green}}Lt. Green
+|{{Colorize trinket|Powdered unicorn horn|magenta}}Magenta
+|{{Colorize trinket|Powdered unicorn horn|lemon}}Lemon
+|{{Colorize trinket|Powdered unicorn horn|peach}}Peach
+|{{Colorize trinket|Powdered unicorn horn|light blue}}Lt. Blue
+|{{Colorize trinket|Powdered unicorn horn|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Ransom note]]</big>'''
+|{{Colorize trinket|Ransom note|red}}Red
+|{{Colorize trinket|Ransom note|tan}}Tan
+|{{Colorize trinket|Ransom note|white}}White
+|{{Colorize trinket|Ransom note|black}}Black
+|{{Colorize trinket|Ransom note|grey}}Grey
+|{{Colorize trinket|Ransom note|yellow}}Yellow
+|{{Colorize trinket|Ransom note|pink}}Pink
+|{{Colorize trinket|Ransom note|violet}}Violet
+|{{Colorize trinket|Ransom note|purple}}Purple
+|{{Colorize trinket|Ransom note|navy}}Navy
+|{{Colorize trinket|Ransom note|blue}}Blue
+|{{Colorize trinket|Ransom note|aqua}}Aqua
+|{{Colorize trinket|Ransom note|lime}}Lime
+|{{Colorize trinket|Ransom note|green}}Green
+|-
+|{{Colorize trinket|Ransom note|orange}}Orange
+|{{Colorize trinket|Ransom note|maroon}}Maroon
+|{{Colorize trinket|Ransom note|brown}}Brown
+|{{Colorize trinket|Ransom note|gold}}Gold
+|{{Colorize trinket|Ransom note|rose}}Rose
+|{{Colorize trinket|Ransom note|lavender}}Lavender
+|{{Colorize trinket|Ransom note|mint}}Mint
+|{{Colorize trinket|Ransom note|light green}}Lt. Green
+|{{Colorize trinket|Ransom note|magenta}}Magenta
+|{{Colorize trinket|Ransom note|lemon}}Lemon
+|[[Image:Item_box_unequip.png]]<br/>Peach
+|{{Colorize trinket|Ransom note|light blue}}Lt. Blue
+|{{Colorize trinket|Ransom note|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Decoder medallion]]</big>'''
+|{{Colorize trinket|Decoder medallion|red}}Red
+|{{Colorize trinket|Decoder medallion|tan}}Tan
+|{{Colorize trinket|Decoder medallion|white}}White
+|{{Colorize trinket|Decoder medallion|black}}Black
+|{{Colorize trinket|Decoder medallion|grey}}Grey
+|{{Colorize trinket|Decoder medallion|yellow}}Yellow
+|{{Colorize trinket|Decoder medallion|pink}}Pink
+|{{Colorize trinket|Decoder medallion|violet}}Violet
+|{{Colorize trinket|Decoder medallion|purple}}Purple
+|{{Colorize trinket|Decoder medallion|navy}}Navy
+|{{Colorize trinket|Decoder medallion|blue}}Blue
+|{{Colorize trinket|Decoder medallion|aqua}}Aqua
+|{{Colorize trinket|Decoder medallion|lime}}Lime
+|{{Colorize trinket|Decoder medallion|green}}Green
+|-
+|{{Colorize trinket|Decoder medallion|orange}}Orange
+|{{Colorize trinket|Decoder medallion|maroon}}Maroon
+|{{Colorize trinket|Decoder medallion|brown}}Brown
+|{{Colorize trinket|Decoder medallion|gold}}Gold
+|{{Colorize trinket|Decoder medallion|rose}}Rose
+|{{Colorize trinket|Decoder medallion|lavender}}Lavender
+|{{Colorize trinket|Decoder medallion|mint}}Mint
+|{{Colorize trinket|Decoder medallion|light green}}Lt. Green
+|{{Colorize trinket|Decoder medallion|magenta}}Magenta
+|{{Colorize trinket|Decoder medallion|lemon}}Lemon
+|{{Colorize trinket|Decoder medallion|peach}}Peach
+|{{Colorize trinket|Decoder medallion|light blue}}Lt. Blue
+|{{Colorize trinket|Decoder medallion|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Stinking badges]]</big>'''
+|{{Colorize trinket|Stinking badges|red}}Red
+|{{Colorize trinket|Stinking badges|tan}}Tan
+|{{Colorize trinket|Stinking badges|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Black
+|{{Colorize trinket|Stinking badges|grey}}Grey
+|{{Colorize trinket|Stinking badges|yellow}}Yellow
+|{{Colorize trinket|Stinking badges|pink}}Pink
+|{{Colorize trinket|Stinking badges|violet}}Violet
+|{{Colorize trinket|Stinking badges|purple}}Purple
+|{{Colorize trinket|Stinking badges|navy}}Navy
+|{{Colorize trinket|Stinking badges|blue}}Blue
+|{{Colorize trinket|Stinking badges|aqua}}Aqua
+|{{Colorize trinket|Stinking badges|lime}}Lime
+|{{Colorize trinket|Stinking badges|green}}Green
+|-
+|{{Colorize trinket|Stinking badges|orange}}Orange
+|{{Colorize trinket|Stinking badges|maroon}}Maroon
+|{{Colorize trinket|Stinking badges|brown}}Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|{{Colorize trinket|Stinking badges|rose}}Rose
+|{{Colorize trinket|Stinking badges|lavender}}Lavender
+|{{Colorize trinket|Stinking badges|mint}}Mint
+|{{Colorize trinket|Stinking badges|light green}}Lt. Green
+|{{Colorize trinket|Stinking badges|magenta}}Magenta
+|{{Colorize trinket|Stinking badges|lemon}}Lemon
+|{{Colorize trinket|Stinking badges|peach}}Peach
+|{{Colorize trinket|Stinking badges|light blue}}Lt. Blue
+|{{Colorize trinket|Stinking badges|persimmon}}Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Dark grimoire]]</big>'''
+|[[Image:Item_box_unequip.png]]<br/>Red
+|[[Image:Item_box_unequip.png]]<br/>Tan
+|[[Image:Item_box_unequip.png]]<br/>White
+|[[Image:Item_box_unequip.png]]<br/>Black
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|[[Image:Item_box_unequip.png]]<br/>Yellow
+|{{Colorize trinket|Dark grimoire|pink}}Pink
+|[[Image:Item_box_unequip.png]]<br/>Violet
+|[[Image:Item_box_unequip.png]]<br/>Purple
+|[[Image:Item_box_unequip.png]]<br/>Navy
+|[[Image:Item_box_unequip.png]]<br/>Blue
+|{{Colorize trinket|Dark grimoire|aqua}}Aqua
+|[[Image:Item_box_unequip.png]]<br/>Lime
+|[[Image:Item_box_unequip.png]]<br/>Green
+|-
+|[[Image:Item_box_unequip.png]]<br/>Orange
+|[[Image:Item_box_unequip.png]]<br/>Maroon
+|[[Image:Item_box_unequip.png]]<br/>Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|{{Colorize trinket|Dark grimoire|rose}}Rose
+|{{Colorize trinket|Dark grimoire|lavender}}Lavender
+|[[Image:Item_box_unequip.png]]<br/>Mint
+|[[Image:Item_box_unequip.png]]<br/>Lt. Green
+|[[Image:Item_box_unequip.png]]<br/>Magenta
+|[[Image:Item_box_unequip.png]]<br/>Lemon
+|{{Colorize trinket|Dark grimoire|peach}}Peach
+|[[Image:Item_box_unequip.png]]<br/>Lt. Blue
+|[[Image:Item_box_unequip.png]]<br/>Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Assassin's dagger]]</big>'''
+|[[Image:Item_box_unequip.png]]<br/>Red
+|[[Image:Item_box_unequip.png]]<br/>Tan
+|[[Image:Item_box_unequip.png]]<br/>White
+|[[Image:Item_box_unequip.png]]<br/>Black
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|[[Image:Item_box_unequip.png]]<br/>Yellow
+|[[Image:Item_box_unequip.png]]<br/>Pink
+|{{Colorize trinket|Assassin's dagger|violet}}Violet
+|[[Image:Item_box_unequip.png]]<br/>Purple
+|[[Image:Item_box_unequip.png]]<br/>Navy
+|{{Colorize trinket|Assassin's dagger|blue}}Blue
+|{{Colorize trinket|Assassin's dagger|aqua}}Aqua
+|[[Image:Item_box_unequip.png]]<br/>Lime
+|{{Colorize trinket|Assassin's dagger|green}}Green
+|-
+|{{Colorize trinket|Assassin's dagger|orange}}Orange
+|{{Colorize trinket|Assassin's dagger|maroon}}Maroon
+|{{Colorize trinket|Assassin's dagger|brown}}Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|[[Image:Item_box_unequip.png]]<br/>Rose
+|{{Colorize trinket|Assassin's dagger|lavender}}Lavender
+|[[Image:Item_box_unequip.png]]<br/>Mint
+|[[Image:Item_box_unequip.png]]<br/>Lt. Green
+|[[Image:Item_box_unequip.png]]<br/>Magenta
+|{{Colorize trinket|Assassin's dagger|lemon}}Lemon
+|{{Colorize trinket|Assassin's dagger|peach}}Peach
+|[[Image:Item_box_unequip.png]]<br/>Lt. Blue
+|[[Image:Item_box_unequip.png]]<br/>Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Black king]]</big>'''
+|[[Image:Item_box_unequip.png]]<br/>Red
+|[[Image:Item_box_unequip.png]]<br/>Tan
+|[[Image:Item_box_unequip.png]]<br/>White
+|[[Image:Item_box_unequip.png]]<br/>Black
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|[[Image:Item_box_unequip.png]]<br/>Yellow
+|[[Image:Item_box_unequip.png]]<br/>Pink
+|{{Colorize trinket|Black king|violet}}Violet
+|[[Image:Item_box_unequip.png]]<br/>Purple
+|{{Colorize trinket|Black king|navy}}Navy
+|{{Colorize trinket|Black king|blue}}Blue
+|[[Image:Item_box_unequip.png]]<br/>Aqua
+|[[Image:Item_box_unequip.png]]<br/>Lime
+|[[Image:Item_box_unequip.png]]<br/>Green
+|-
+|[[Image:Item_box_unequip.png]]<br/>Orange
+|[[Image:Item_box_unequip.png]]<br/>Maroon
+|{{Colorize trinket|Black king|brown}}Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|[[Image:Item_box_unequip.png]]<br/>Rose
+|[[Image:Item_box_unequip.png]]<br/>Lavender
+|[[Image:Item_box_unequip.png]]<br/>Mint
+|[[Image:Item_box_unequip.png]]<br/>Lt. Green
+|{{Colorize trinket|Black king|magenta}}Magenta
+|[[Image:Item_box_unequip.png]]<br/>Lemon
+|[[Image:Item_box_unequip.png]]<br/>Peach
+|[[Image:Item_box_unequip.png]]<br/>Lt. Blue
+|[[Image:Item_box_unequip.png]]<br/>Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Skull box]]</big>'''
+|{{Colorize trinket|Skull box|red}}Red
+|{{Colorize trinket|Skull box|tan}}Tan
+|{{Colorize trinket|Skull box|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Black
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Skull box|yellow}}Yellow
+|[[Image:Item_box_unequip.png]]<br/>Pink
+|[[Image:Item_box_unequip.png]]<br/>Violet
+|[[Image:Item_box_unequip.png]]<br/>Purple
+|{{Colorize trinket|Skull box|navy}}Navy
+|[[Image:Item_box_unequip.png]]<br/>Blue
+|{{Colorize trinket|Skull box|aqua}}Aqua
+|[[Image:Item_box_unequip.png]]<br/>Lime
+|[[Image:Item_box_unequip.png]]<br/>Green
+|-
+|[[Image:Item_box_unequip.png]]<br/>Orange
+|[[Image:Item_box_unequip.png]]<br/>Maroon
+|[[Image:Item_box_unequip.png]]<br/>Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|{{Colorize trinket|Skull box|rose}}Rose
+|[[Image:Item_box_unequip.png]]<br/>Lavender
+|[[Image:Item_box_unequip.png]]<br/>Mint
+|[[Image:Item_box_unequip.png]]<br/>Lt. Green
+|[[Image:Item_box_unequip.png]]<br/>Magenta
+|[[Image:Item_box_unequip.png]]<br/>Lemon
+|{{Colorize trinket|Skull box|peach}}Peach
+|[[Image:Item_box_unequip.png]]<br/>Lt. Blue
+|[[Image:Item_box_unequip.png]]<br/>Persim.
+|-
+| colspan=15 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Assassin's belt]]</big>'''
+|[[Image:Item_box_unequip.png]]<br/>Red
+|{{Colorize trinket|Assassin's belt|tan}}Tan
+|{{Colorize trinket|Assassin's belt|white}}White
+|{{Colorize trinket|Assassin's belt|black}}Black
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|[[Image:Item_box_unequip.png]]<br/>Yellow
+|{{Colorize trinket|Assassin's belt|pink}}Pink
+|{{Colorize trinket|Assassin's belt|violet}}Violet
+|{{Colorize trinket|Assassin's belt|purple}}Purple
+|[[Image:Item_box_unequip.png]]<br/>Navy
+|{{Colorize trinket|Assassin's belt|blue}}Blue
+|[[Image:Item_box_unequip.png]]<br/>Aqua
+|{{Colorize trinket|Assassin's belt|lime}}Lime
+|[[Image:Item_box_unequip.png]]<br/>Green
+|-
+|{{Colorize trinket|Assassin's belt|orange}}Orange
+|{{Colorize trinket|Assassin's belt|maroon}}Maroon
+|{{Colorize trinket|Assassin's belt|brown}}Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|{{Colorize trinket|Assassin's belt|rose}}Rose
+|{{Colorize trinket|Assassin's belt|lavender}}Lavender
+|{{Colorize trinket|Assassin's belt|mint}}Mint
+|{{Colorize trinket|Assassin's belt|light green}}Lt. Green
+|{{Colorize trinket|Assassin's belt|magenta}}Magenta
+|{{Colorize trinket|Assassin's belt|lemon}}Lemon
+|{{Colorize trinket|Assassin's belt|peach}}Peach
+|{{Colorize trinket|Assassin's belt|light blue}}Lt. Blue
+|{{Colorize trinket|Assassin's belt|persimmon}}Persim.
+|-
+|}
+
+=== Disguise kit ===
+
+The disguise kit is available from [[black box]]es in the hair colors.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Silver
+|White
+|Black
+|Brown
+|Lt. Brwn
+|Strwbry.
+|Sandy
+|Blonde
+
+|-
+|'''<big>[[Disguise kit]]</big>'''
+|{{Colorize trinket|Disguise kit|red}}
+|{{Colorize trinket|Disguise kit|silver}}
+|{{Colorize trinket|Disguise kit|white}}
+|{{Colorize trinket|Disguise kit|black}}
+|{{Colorize trinket|Disguise kit|brown}}
+|{{Colorize trinket|Disguise kit|light brown}}
+|{{Colorize trinket|Disguise kit|strawberry blonde}}
+|{{Colorize trinket|Disguise kit|sandy}}
+|{{Colorize trinket|Disguise kit|blonde}}
+|}
+
+[[Category:Subpages:Trinkets]]

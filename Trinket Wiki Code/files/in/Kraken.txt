@@ -1,0 +1,20 @@
+Total Progress:	150	out of		150	=	100.00%			# Remaining:			0		# Duplicates:			125	
+Trinket	TP Value	Blk	Grey	Violet	Purple	Navy	Blue	Aqua	Lime	Green	Lt. Grn	Inky	Sea Grn.					Worth
+Kraken totem	?	1	1	2	1	1	1	2	1	1	2	1	2	12	out of	12	100.00%	
+Harpoon tip	?	1	2	2	1	2	3	2	3	1	1	1	1	12	out of	12	100.00%	
+Kraken coin	?	5												1	out of	1	100.00%	
+Ink vial	?	1	2	1	2	1	1	1	1	1	1	1	1	12	out of	12	100.00%	
+Kraken egglet	?	8												1	out of	1	100.00%	
+Kraken tooth	?	1	1	4	2	1	1	3	5	1	3	2	1	12	out of	12	100.00%	
+Kraken eye jewel	?	1	1	1	1	1	1	1	1	1	1	1	1	12	out of	12	100.00%	
+Kraken medallion	?	1	1	1	1	1	1	1	1	1	1	1	1	12	out of	12	100.00%	
+Kraken scale	?	19												1	out of	1	100.00%	
+Tentacle nubbin	?	1	1	2	2	3	1	1	1	1	1	1	1	12	out of	12	100.00%	
+Slime	?	1	3	2	1	1	1	2	2	2	3	1	1	12	out of	12	100.00%	
+Inky weeds	?	15												1	out of	1	100.00%	
+Inky skull	?	2	1	1	1	1	1	1	1	1	1	2	1	12	out of	12	100.00%	
+Inky bone	?	1	2	2	2	3	1	2	1	1	2	1	1	12	out of	12	100.00%	
+Tentacle spikelet	?	24												1	out of	1	100.00%	
+Broken oar	?	3	1	1	1	3	1	1	1	1	1	1	2	12	out of	12	100.00%	
+Inky Cephalopod doll	?	7												1	out of	1	100.00%	
+Kraken doll	?	1	1	1	1	1	1	1	1	1	1	1	1	12	out of	12	100.00%	

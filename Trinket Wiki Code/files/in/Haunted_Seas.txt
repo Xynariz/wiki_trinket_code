@@ -1,0 +1,32 @@
+Total Progress:	242	out of		263	=	92.02%			# Duplicates:		29		# Remaining:			21
+Trinket	TP Value	White	Blk	Grey	Violet	Purple	Navy	Blue	Lt. Blue	Sea Grn.	Nt. Blue					Worth
+Ghostly looking glass	16,920	1		1	1	1	1	1	1	N/A	1	8	out of	9	89%	135,360
+Spectral lantern	14,486		1	1	1	1	1	1	2	N/A	2	8	out of	9	89%	144,860
+Faded cameo	14,346	1	1	1	1	1	1	1	1	N/A	1	9	out of	9	100%	129,114
+Planchette	13,119	1	1	1	1	1	1	1	1	N/A	1	9	out of	9	100%	118,071
+Eternal flame	16,386			1	1	1	1	1	1	N/A	1	7	out of	9	78%	114,702
+Haunted tome	15,315	1	1	1	1	1	1	1	1	1	1	10	out of	10	100%	153,150
+Black lilies	13,404	1	1	1	2	1	1	2	1	N/A	1	9	out of	9	100%	147,444
+Gravestone fragment	12,179	1	1	1	1	1	1	3	2	N/A	1	9	out of	9	100%	146,148
+Haunted dinner napkin	11,366	1	1	2	1	2	1	1	2	N/A	2	9	out of	9	100%	147,758
+Corpse light	14,066	1	1	2	1	1	1	1	1	N/A		8	out of	9	89%	126,594
+Black wreath	12,027			1	1	1	1	1	1	N/A	1	7	out of	9	78%	84,189
+Ghostly ring	14,965			1	1	1	1	1	1	N/A	1	7	out of	9	78%	104,755
+Ethereal mist	11,053			2	1	1	1	2	1	N/A	1	7	out of	9	78%	99,477
+Grave rubbing	10,315	1	1	1	2	1	1	1	1	N/A	1	9	out of	9	100%	103,150
+Spectral veil	11,756	1	1	1	1	2	1	1	1	N/A	1	9	out of	9	100%	117,560
+Haunted candle	12,296	1	1	1	2	1	1	1	2	N/A	1	9	out of	9	100%	135,256
+Ghost doll	15,903	1		1	1	1	1	1	1	N/A	1	8	out of	9	89%	127,224
+Compass to the Nether Seas	13,586	1		1	1	1	1	1	1	N/A	1	8	out of	9	89%	108,688
+Phantom powder flask	12,277	1	1	1	1	1	1	1	1	N/A	1	9	out of	9	100%	110,493
+Pale padlock	17,127	1		1	1	1	1	1	1	N/A	1	8	out of	9	89%	137,016
+Ghostly impression	14,513	1		1	1	1	1	1	1	N/A	1	8	out of	9	89%	116,104
+Unearthly urn	11,401	1	1	1	1	1	1	2	1	N/A	2	9	out of	9	100%	125,411
+Phantom hand	14,419	3										1	out of	1	100%	43,257
+Spirit slates	11,944	1	1	1	1	1	1	1	2	N/A	2	9	out of	9	100%	131,384
+Locket from a lost love	12,556	2	1	1	1	1	1	1	1	N/A	1	9	out of	9	100%	125,560
+Cannonball from beyond	15,421			1		1	2	1	1	N/A	1	6	out of	9	67%	107,947
+Spooky spyglass		1		1	1	1	1	1	1	N/A	1	8	out of	9	89%	0
+Censer of shades	16,032			1	1	1	1	1	1	N/A	2	7	out of	9	78%	128,256
+Eldritch astrolabe	11,414	1	1	1	2	1	1	2	1	N/A	1	9	out of	9	100%	125,554
+Rumjug of spirits	16,538	1	1	1	1	1	1	1	1	N/A	1	9	out of	9	100%	148,842

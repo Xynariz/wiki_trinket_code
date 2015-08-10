@@ -1,0 +1,603 @@
+NOT IMPLEMENTED
+
+=== Cursed isles palette ===
+
+These trinkets are available from the [[Cursed Isles]] in the colors of the [[Trinket_palette#Cursed_Isles_Trinkets|Cursed Isles palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Tan
+|White
+|Black
+|Yellow
+|Violet
+|Purple
+|Blue
+|Aqua
+|Lime
+|Orange
+|Gold
+|Lt. Green
+|Magenta
+|Indigo
+
+|-
+|'''<big>[[Cursed effigy]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cursed effigy|tan}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cursed effigy|purple}}
+|{{Colorize trinket|Cursed effigy|blue}}
+|{{Colorize trinket|Cursed effigy|aqua}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cursed effigy|indigo}}
+|-
+|'''<big>[[Beaded fetish]]</big>'''
+|{{Colorize trinket|Beaded fetish|red}}
+|{{Colorize trinket|Beaded fetish|tan}}
+|{{Colorize trinket|Beaded fetish|white}}
+|{{Colorize trinket|Beaded fetish|black}}
+|{{Colorize trinket|Beaded fetish|yellow}}
+|{{Colorize trinket|Beaded fetish|violet}}
+|{{Colorize trinket|Beaded fetish|purple}}
+|{{Colorize trinket|Beaded fetish|blue}}
+|{{Colorize trinket|Beaded fetish|aqua}}
+|{{Colorize trinket|Beaded fetish|lime}}
+|{{Colorize trinket|Beaded fetish|orange}}
+|{{Colorize trinket|Beaded fetish|gold}}
+|{{Colorize trinket|Beaded fetish|light green}}
+|{{Colorize trinket|Beaded fetish|magenta}}
+|{{Colorize trinket|Beaded fetish|indigo}}
+|-
+|'''<big>[[Dried homunculus]]</big>'''
+|{{Colorize trinket|Dried homunculus|red}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Dried homunculus|lime}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Dried homunculus|indigo}}
+|-
+|'''<big>[[Hemlock]]</big>'''
+|{{Colorize trinket|Hemlock|red}}
+|{{Colorize trinket|Hemlock|tan}}
+|{{Colorize trinket|Hemlock|white}}
+|{{Colorize trinket|Hemlock|black}}
+|{{Colorize trinket|Hemlock|yellow}}
+|{{Colorize trinket|Hemlock|violet}}
+|{{Colorize trinket|Hemlock|purple}}
+|{{Colorize trinket|Hemlock|blue}}
+|{{Colorize trinket|Hemlock|aqua}}
+|{{Colorize trinket|Hemlock|lime}}
+|{{Colorize trinket|Hemlock|orange}}
+|{{Colorize trinket|Hemlock|gold}}
+|{{Colorize trinket|Hemlock|light green}}
+|{{Colorize trinket|Hemlock|magenta}}
+|{{Colorize trinket|Hemlock|indigo}}
+|-
+|'''<big>[[Powdered lizard tail]]</big>'''
+|{{Colorize trinket|Powdered lizard tail|red}}
+|{{Colorize trinket|Powdered lizard tail|tan}}
+|{{Colorize trinket|Powdered lizard tail|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Powdered lizard tail|yellow}}
+|{{Colorize trinket|Powdered lizard tail|violet}}
+|{{Colorize trinket|Powdered lizard tail|purple}}
+|{{Colorize trinket|Powdered lizard tail|blue}}
+|{{Colorize trinket|Powdered lizard tail|aqua}}
+|{{Colorize trinket|Powdered lizard tail|lime}}
+|{{Colorize trinket|Powdered lizard tail|orange}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Powdered lizard tail|light green}}
+|{{Colorize trinket|Powdered lizard tail|magenta}}
+|{{Colorize trinket|Powdered lizard tail|indigo}}
+|-
+|'''<big>[[Shrunken head]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Shrunken head|tan}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Shrunken head|blue}}
+|{{Colorize trinket|Shrunken head|aqua}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Shrunken head|light green}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Spell scrap]]</big>'''
+|{{Colorize trinket|Spell scrap|red}}
+|{{Colorize trinket|Spell scrap|tan}}
+|{{Colorize trinket|Spell scrap|white}}
+|{{Colorize trinket|Spell scrap|black}}
+|{{Colorize trinket|Spell scrap|yellow}}
+|{{Colorize trinket|Spell scrap|violet}}
+|{{Colorize trinket|Spell scrap|purple}}
+|{{Colorize trinket|Spell scrap|blue}}
+|{{Colorize trinket|Spell scrap|aqua}}
+|{{Colorize trinket|Spell scrap|lime}}
+|{{Colorize trinket|Spell scrap|orange}}
+|{{Colorize trinket|Spell scrap|gold}}
+|{{Colorize trinket|Spell scrap|light green}}
+|{{Colorize trinket|Spell scrap|magenta}}
+|{{Colorize trinket|Spell scrap|indigo}}
+|-
+|'''<big>[[Talon fetish]]</big>'''
+|{{Colorize trinket|Talon fetish|red}}
+|{{Colorize trinket|Talon fetish|tan}}
+|{{Colorize trinket|Talon fetish|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Talon fetish|yellow}}
+|{{Colorize trinket|Talon fetish|violet}}
+|{{Colorize trinket|Talon fetish|purple}}
+|{{Colorize trinket|Talon fetish|blue}}
+|{{Colorize trinket|Talon fetish|aqua}}
+|{{Colorize trinket|Talon fetish|lime}}
+|{{Colorize trinket|Talon fetish|orange}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Talon fetish|light green}}
+|{{Colorize trinket|Talon fetish|magenta}}
+|{{Colorize trinket|Talon fetish|indigo}}
+|-
+|'''<big>[[Bone knife]]</big>'''
+|{{Colorize trinket|Bone knife|red}}
+|{{Colorize trinket|Bone knife|tan}}
+|{{Colorize trinket|Bone knife|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Bone knife|yellow}}
+|{{Colorize trinket|Bone knife|violet}}
+|{{Colorize trinket|Bone knife|purple}}
+|{{Colorize trinket|Bone knife|blue}}
+|{{Colorize trinket|Bone knife|aqua}}
+|{{Colorize trinket|Bone knife|lime}}
+|{{Colorize trinket|Bone knife|orange}}
+|{{Colorize trinket|Bone knife|gold}}
+|{{Colorize trinket|Bone knife|light green}}
+|{{Colorize trinket|Bone knife|magenta}}
+|{{Colorize trinket|Bone knife|indigo}}
+|-
+|'''<big>[[Ritual candles]]</big>'''
+|{{Colorize trinket|Ritual candles|red}}
+|{{Colorize trinket|Ritual candles|tan}}
+|{{Colorize trinket|Ritual candles|white}}
+|{{Colorize trinket|Ritual candles|black}}
+|{{Colorize trinket|Ritual candles|yellow}}
+|{{Colorize trinket|Ritual candles|violet}}
+|{{Colorize trinket|Ritual candles|purple}}
+|{{Colorize trinket|Ritual candles|blue}}
+|{{Colorize trinket|Ritual candles|aqua}}
+|{{Colorize trinket|Ritual candles|lime}}
+|{{Colorize trinket|Ritual candles|orange}}
+|{{Colorize trinket|Ritual candles|gold}}
+|{{Colorize trinket|Ritual candles|light green}}
+|{{Colorize trinket|Ritual candles|magenta}}
+|{{Colorize trinket|Ritual candles|indigo}}
+|-
+|
+|Red
+|Tan
+|White
+|Black
+|Yellow
+|Violet
+|Purple
+|Blue
+|Aqua
+|Lime
+|Orange
+|Gold
+|Lt. Green
+|Magenta
+|Indigo
+
+|-
+|'''<big>[[Cultist chow]]</big>'''
+|{{Colorize trinket|Cultist chow|red}}
+|{{Colorize trinket|Cultist chow|tan}}
+|{{Colorize trinket|Cultist chow|white}}
+|{{Colorize trinket|Cultist chow|black}}
+|{{Colorize trinket|Cultist chow|yellow}}
+|{{Colorize trinket|Cultist chow|violet}}
+|{{Colorize trinket|Cultist chow|purple}}
+|{{Colorize trinket|Cultist chow|blue}}
+|{{Colorize trinket|Cultist chow|aqua}}
+|{{Colorize trinket|Cultist chow|lime}}
+|{{Colorize trinket|Cultist chow|orange}}
+|{{Colorize trinket|Cultist chow|gold}}
+|{{Colorize trinket|Cultist chow|light green}}
+|{{Colorize trinket|Cultist chow|magenta}}
+|{{Colorize trinket|Cultist chow|indigo}}
+|-
+|'''<big>[[Cursed egg]]</big>'''
+|{{Colorize trinket|Cursed egg|red}}
+|{{Colorize trinket|Cursed egg|tan}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cursed egg|yellow}}
+|{{Colorize trinket|Cursed egg|violet}}
+|{{Colorize trinket|Cursed egg|purple}}
+|{{Colorize trinket|Cursed egg|blue}}
+|{{Colorize trinket|Cursed egg|aqua}}
+|{{Colorize trinket|Cursed egg|lime}}
+|{{Colorize trinket|Cursed egg|orange}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cursed egg|light green}}
+|{{Colorize trinket|Cursed egg|magenta}}
+|{{Colorize trinket|Cursed egg|indigo}}
+|-
+|'''<big>[[Eye of newt]]</big>'''
+|{{Colorize trinket|Eye of newt|red}}
+|{{Colorize trinket|Eye of newt|tan}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Eye of newt|yellow}}
+|{{Colorize trinket|Eye of newt|violet}}
+|{{Colorize trinket|Eye of newt|purple}}
+|{{Colorize trinket|Eye of newt|blue}}
+|{{Colorize trinket|Eye of newt|aqua}}
+|{{Colorize trinket|Eye of newt|lime}}
+|{{Colorize trinket|Eye of newt|orange}}
+|{{Colorize trinket|Eye of newt|gold}}
+|{{Colorize trinket|Eye of newt|light green}}
+|{{Colorize trinket|Eye of newt|magenta}}
+|{{Colorize trinket|Eye of newt|indigo}}
+|-
+|'''<big>[[Homunculus seeds]]</big>'''
+|{{Colorize trinket|Homunculus seeds|red}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Homunculus seeds|yellow}}
+|{{Colorize trinket|Homunculus seeds|violet}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Homunculus seeds|blue}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Homunculus seeds|orange}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Homunculus seeds|magenta}}
+|{{Colorize trinket|Homunculus seeds|indigo}}
+|-
+|'''<big>[[Jar of fog]]</big>'''
+|{{Colorize trinket|Jar of fog|red}}
+|{{Colorize trinket|Jar of fog|tan}}
+|{{Colorize trinket|Jar of fog|white}}
+|{{Colorize trinket|Jar of fog|black}}
+|{{Colorize trinket|Jar of fog|yellow}}
+|{{Colorize trinket|Jar of fog|violet}}
+|{{Colorize trinket|Jar of fog|purple}}
+|{{Colorize trinket|Jar of fog|blue}}
+|{{Colorize trinket|Jar of fog|aqua}}
+|{{Colorize trinket|Jar of fog|lime}}
+|{{Colorize trinket|Jar of fog|orange}}
+|{{Colorize trinket|Jar of fog|gold}}
+|{{Colorize trinket|Jar of fog|light green}}
+|{{Colorize trinket|Jar of fog|magenta}}
+|{{Colorize trinket|Jar of fog|indigo}}
+|-
+|'''<big>[[Beaded bracelet]]</big>'''
+|{{Colorize trinket|Beaded bracelet|red}}
+|{{Colorize trinket|Beaded bracelet|tan}}
+|{{Colorize trinket|Beaded bracelet|white}}
+|{{Colorize trinket|Beaded bracelet|black}}
+|{{Colorize trinket|Beaded bracelet|yellow}}
+|{{Colorize trinket|Beaded bracelet|violet}}
+|{{Colorize trinket|Beaded bracelet|purple}}
+|{{Colorize trinket|Beaded bracelet|blue}}
+|{{Colorize trinket|Beaded bracelet|aqua}}
+|{{Colorize trinket|Beaded bracelet|lime}}
+|{{Colorize trinket|Beaded bracelet|orange}}
+|{{Colorize trinket|Beaded bracelet|gold}}
+|{{Colorize trinket|Beaded bracelet|light green}}
+|{{Colorize trinket|Beaded bracelet|magenta}}
+|{{Colorize trinket|Beaded bracelet|indigo}}
+|-
+|'''<big>[[Sacred skull]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Sacred skull|tan}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Sacred skull|purple}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Sacred skull|orange}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Sacred skull|magenta}}
+|{{Colorize trinket|Sacred skull|indigo}}
+|-
+|'''<big>[[Scrying bones]]</big>'''
+|{{Colorize trinket|Scrying bones|red}}
+|{{Colorize trinket|Scrying bones|tan}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Scrying bones|yellow}}
+|{{Colorize trinket|Scrying bones|violet}}
+|{{Colorize trinket|Scrying bones|purple}}
+|{{Colorize trinket|Scrying bones|blue}}
+|{{Colorize trinket|Scrying bones|aqua}}
+|{{Colorize trinket|Scrying bones|lime}}
+|{{Colorize trinket|Scrying bones|orange}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Scrying bones|light green}}
+|{{Colorize trinket|Scrying bones|magenta}}
+|{{Colorize trinket|Scrying bones|indigo}}
+|-
+|'''<big>[[Gilded serpent fang]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Gilded serpent fang|light green}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Gilded serpent fang|indigo}}
+|-
+|'''<big>[[Vial of venom]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Vial of venom|yellow}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Vial of venom|purple}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Vial of venom|orange}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Vial of venom|magenta}}
+|{{Colorize trinket|Vial of venom|indigo}}
+|-
+|
+|Red
+|Tan
+|White
+|Black
+|Yellow
+|Violet
+|Purple
+|Blue
+|Aqua
+|Lime
+|Orange
+|Gold
+|Lt. Green
+|Magenta
+|Indigo
+
+|-
+|'''<big>[[Scorpion sting]]</big>'''
+|{{Colorize trinket|Scorpion sting|red}}
+|{{Colorize trinket|Scorpion sting|tan}}
+|{{Colorize trinket|Scorpion sting|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Scorpion sting|yellow}}
+|{{Colorize trinket|Scorpion sting|violet}}
+|{{Colorize trinket|Scorpion sting|purple}}
+|{{Colorize trinket|Scorpion sting|blue}}
+|{{Colorize trinket|Scorpion sting|aqua}}
+|{{Colorize trinket|Scorpion sting|lime}}
+|{{Colorize trinket|Scorpion sting|orange}}
+|{{Colorize trinket|Scorpion sting|gold}}
+|{{Colorize trinket|Scorpion sting|light green}}
+|{{Colorize trinket|Scorpion sting|magenta}}
+|{{Colorize trinket|Scorpion sting|indigo}}
+|-
+|'''<big>[[Piranha]]</big>'''
+|{{Colorize trinket|Piranha|red}}
+|{{Colorize trinket|Piranha|tan}}
+|{{Colorize trinket|Piranha|white}}
+|{{Colorize trinket|Piranha|black}}
+|{{Colorize trinket|Piranha|yellow}}
+|{{Colorize trinket|Piranha|violet}}
+|{{Colorize trinket|Piranha|purple}}
+|{{Colorize trinket|Piranha|blue}}
+|{{Colorize trinket|Piranha|aqua}}
+|{{Colorize trinket|Piranha|lime}}
+|{{Colorize trinket|Piranha|orange}}
+|{{Colorize trinket|Piranha|gold}}
+|{{Colorize trinket|Piranha|light green}}
+|{{Colorize trinket|Piranha|magenta}}
+|{{Colorize trinket|Piranha|indigo}}
+|-
+|'''<big>[[Bone syrinx]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Bone syrinx|tan}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Bone syrinx|purple}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Bone syrinx|indigo}}
+|-
+|'''<big>[[Arcane toad]]</big>'''
+|{{Colorize trinket|Arcane toad|red}}
+|{{Colorize trinket|Arcane toad|tan}}
+|{{Colorize trinket|Arcane toad|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Arcane toad|yellow}}
+|{{Colorize trinket|Arcane toad|violet}}
+|{{Colorize trinket|Arcane toad|purple}}
+|{{Colorize trinket|Arcane toad|blue}}
+|{{Colorize trinket|Arcane toad|aqua}}
+|{{Colorize trinket|Arcane toad|lime}}
+|{{Colorize trinket|Arcane toad|orange}}
+|{{Colorize trinket|Arcane toad|gold}}
+|{{Colorize trinket|Arcane toad|light green}}
+|{{Colorize trinket|Arcane toad|magenta}}
+|{{Colorize trinket|Arcane toad|indigo}}
+|-
+|'''<big>[[Lucky amulet bag]]</big>'''
+|{{Colorize trinket|Lucky amulet bag|red}}
+|{{Colorize trinket|Lucky amulet bag|tan}}
+|{{Colorize trinket|Lucky amulet bag|white}}
+|{{Colorize trinket|Lucky amulet bag|black}}
+|{{Colorize trinket|Lucky amulet bag|yellow}}
+|{{Colorize trinket|Lucky amulet bag|violet}}
+|{{Colorize trinket|Lucky amulet bag|purple}}
+|{{Colorize trinket|Lucky amulet bag|blue}}
+|{{Colorize trinket|Lucky amulet bag|aqua}}
+|{{Colorize trinket|Lucky amulet bag|lime}}
+|{{Colorize trinket|Lucky amulet bag|orange}}
+|{{Colorize trinket|Lucky amulet bag|gold}}
+|{{Colorize trinket|Lucky amulet bag|light green}}
+|{{Colorize trinket|Lucky amulet bag|magenta}}
+|{{Colorize trinket|Lucky amulet bag|indigo}}
+|-
+|'''<big>[[Toadstool]]</big>'''
+|{{Colorize trinket|Toadstool|red}}
+|{{Colorize trinket|Toadstool|tan}}
+|{{Colorize trinket|Toadstool|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Toadstool|yellow}}
+|{{Colorize trinket|Toadstool|violet}}
+|{{Colorize trinket|Toadstool|purple}}
+|{{Colorize trinket|Toadstool|blue}}
+|{{Colorize trinket|Toadstool|aqua}}
+|{{Colorize trinket|Toadstool|lime}}
+|{{Colorize trinket|Toadstool|orange}}
+|{{Colorize trinket|Toadstool|gold}}
+|{{Colorize trinket|Toadstool|light green}}
+|{{Colorize trinket|Toadstool|magenta}}
+|{{Colorize trinket|Toadstool|indigo}}
+|-
+|'''<big>[[Evil weevil]]</big>'''
+|{{Colorize trinket|Evil weevil|red}}
+|{{Colorize trinket|Evil weevil|tan}}
+|{{Colorize trinket|Evil weevil|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Evil weevil|yellow}}
+|{{Colorize trinket|Evil weevil|violet}}
+|{{Colorize trinket|Evil weevil|purple}}
+|{{Colorize trinket|Evil weevil|blue}}
+|{{Colorize trinket|Evil weevil|aqua}}
+|{{Colorize trinket|Evil weevil|lime}}
+|{{Colorize trinket|Evil weevil|orange}}
+|{{Colorize trinket|Evil weevil|gold}}
+|{{Colorize trinket|Evil weevil|light green}}
+|{{Colorize trinket|Evil weevil|magenta}}
+|{{Colorize trinket|Evil weevil|indigo}}
+|-
+|'''<big>[[Horn talisman]]</big>'''
+|{{Colorize trinket|Horn talisman|red}}
+|{{Colorize trinket|Horn talisman|tan}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Horn talisman|yellow}}
+|{{Colorize trinket|Horn talisman|violet}}
+|{{Colorize trinket|Horn talisman|purple}}
+|{{Colorize trinket|Horn talisman|blue}}
+|{{Colorize trinket|Horn talisman|aqua}}
+|{{Colorize trinket|Horn talisman|lime}}
+|{{Colorize trinket|Horn talisman|orange}}
+|{{Colorize trinket|Horn talisman|gold}}
+|{{Colorize trinket|Horn talisman|light green}}
+|{{Colorize trinket|Horn talisman|magenta}}
+|{{Colorize trinket|Horn talisman|indigo}}
+|-
+|'''<big>[[Cult doll]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cult doll|tan}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cult doll|yellow}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cult doll|purple}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cult doll|aqua}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cult doll|orange}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cult doll|indigo}}
+|}
+
+=== Chaos brooch ===
+
+The chaos brooch is available from the [[Cursed Isles]] in the colors of the [[Trinket_palette#Cursed_Isles_Trinkets|Cursed Isles palette]].  It was also available in sea green as part of the [[Official:Apr14_Promotion|Fox Box Promotion]] in April 2014.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|- valign="center"
+! rowspan=2 | '''<big>[[Chaos brooch]]</big>'''
+|{{Colorize trinket|Chaos brooch|red}}Red
+|{{Colorize trinket|Chaos brooch|tan}}Tan
+|[[Image:Item_box_unequip.png]]<br/>White
+|[[Image:Item_box_unequip.png]]<br/>Black
+|[[Image:Item_box_unequip.png]]<br/>Yellow
+|[[Image:Item_box_unequip.png]]<br/>Violet
+|{{Colorize trinket|Chaos brooch|purple}}Purple
+|{{Colorize trinket|Chaos brooch|blue}}Blue
+|-
+|[[Image:Item_box_unequip.png]]<br/>Aqua
+|[[Image:Item_box_unequip.png]]<br/>Lime
+|[[Image:Item_box_unequip.png]]<br/>Orange
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|[[Image:Item_box_unequip.png]]<br/>Lt. Green
+|{{Colorize trinket|Chaos brooch|magenta}}Magenta
+|{{Colorize trinket|Chaos brooch|indigo}}Indigo
+|[[Image:Item_box_unequip.png]]<br/>Sea Grn.
+|-
+|}
+
+=== Colorless ===
+
+These trinkets do not come in multiple colors.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|'''<big>[[Amber spider]]</big>'''
+|{{Colorize trinket|Amber spider|ignore}}
+|-
+|'''<big>[[Bear claw]]</big>'''
+|{{Colorize trinket|Bear claw|ignore}}
+|-
+|'''<big>[[Crushed leeches]]</big>'''
+|{{Colorize trinket|Crushed leeches|ignore}}
+
+
+[[Category:Subpages:Trinkets]]

@@ -1,0 +1,544 @@
+This is a sub-page of [[Jamesh]]'s trinket collections.  For the main page, please click [[Jamesh/Trinkets|here]].
+
+This is a list of trinkets Jamesh has collected.  Any trinkets that are '''''not''''' shown here are trinkets Jamesh is missing and will buy.
+
+=== Gold box palette ===
+
+These [[gold box]] trinkets are available in the colors of the [[Trinket_palette#Gold_Box_Trinkets|gold box palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|- valign="center"
+! rowspan=2 | '''<big>[[Fan letter]]</big>'''
+|{{Colorize trinket|Fan letter|red}}Red
+|{{Colorize trinket|Fan letter|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Fan letter|yellow}}Yellow
+|{{Colorize trinket|Fan letter|violet}}Violet
+|{{Colorize trinket|Fan letter|purple}}Purple
+|{{Colorize trinket|Fan letter|navy}}Navy
+|{{Colorize trinket|Fan letter|blue}}Blue
+|{{Colorize trinket|Fan letter|lime}}Lime
+|{{Colorize trinket|Fan letter|green}}Green
+|{{Colorize trinket|Fan letter|orange}}Orange
+|-
+|{{Colorize trinket|Fan letter|maroon}}Maroon
+|{{Colorize trinket|Fan letter|brown}}Brown
+|{{Colorize trinket|Fan letter|gold}}Gold
+|{{Colorize trinket|Fan letter|light green}}Lt. Green
+|{{Colorize trinket|Fan letter|persimmon}}Persim.
+|{{Colorize trinket|Fan letter|ice blue}}Ice Blue
+|{{Colorize trinket|Fan letter|spring green}}Spr. Grn.
+|{{Colorize trinket|Fan letter|banana}}Banana
+|{{Colorize trinket|Fan letter|wine}}Wine
+|{{Colorize trinket|Fan letter|plum}}Plum
+|{{Colorize trinket|Fan letter|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Spirits o' courage]]</big>'''
+|{{Colorize trinket|Spirits o' courage|red}}Red
+|{{Colorize trinket|Spirits o' courage|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Spirits o' courage|yellow}}Yellow
+|{{Colorize trinket|Spirits o' courage|violet}}Violet
+|{{Colorize trinket|Spirits o' courage|purple}}Purple
+|{{Colorize trinket|Spirits o' courage|navy}}Navy
+|{{Colorize trinket|Spirits o' courage|blue}}Blue
+|{{Colorize trinket|Spirits o' courage|lime}}Lime
+|{{Colorize trinket|Spirits o' courage|green}}Green
+|{{Colorize trinket|Spirits o' courage|orange}}Orange
+|-
+|{{Colorize trinket|Spirits o' courage|maroon}}Maroon
+|{{Colorize trinket|Spirits o' courage|brown}}Brown
+|{{Colorize trinket|Spirits o' courage|gold}}Gold
+|{{Colorize trinket|Spirits o' courage|light green}}Lt. Green
+|{{Colorize trinket|Spirits o' courage|persimmon}}Persim.
+|{{Colorize trinket|Spirits o' courage|ice blue}}Ice Blue
+|{{Colorize trinket|Spirits o' courage|spring green}}Spr. Grn.
+|{{Colorize trinket|Spirits o' courage|banana}}Banana
+|{{Colorize trinket|Spirits o' courage|wine}}Wine
+|{{Colorize trinket|Spirits o' courage|plum}}Plum
+|{{Colorize trinket|Spirits o' courage|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Pirate code]]</big>'''
+|{{Colorize trinket|Pirate code|red}}Red
+|{{Colorize trinket|Pirate code|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Pirate code|yellow}}Yellow
+|{{Colorize trinket|Pirate code|violet}}Violet
+|{{Colorize trinket|Pirate code|purple}}Purple
+|{{Colorize trinket|Pirate code|navy}}Navy
+|{{Colorize trinket|Pirate code|blue}}Blue
+|{{Colorize trinket|Pirate code|lime}}Lime
+|{{Colorize trinket|Pirate code|green}}Green
+|{{Colorize trinket|Pirate code|orange}}Orange
+|-
+|{{Colorize trinket|Pirate code|maroon}}Maroon
+|{{Colorize trinket|Pirate code|brown}}Brown
+|{{Colorize trinket|Pirate code|gold}}Gold
+|{{Colorize trinket|Pirate code|light green}}Lt. Green
+|[[Image:Item_box_unequip.png]]<br/>Persim.
+|{{Colorize trinket|Pirate code|ice blue}}Ice Blue
+|{{Colorize trinket|Pirate code|spring green}}Spr. Grn.
+|{{Colorize trinket|Pirate code|banana}}Banana
+|{{Colorize trinket|Pirate code|wine}}Wine
+|{{Colorize trinket|Pirate code|plum}}Plum
+|{{Colorize trinket|Pirate code|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Gilded shark tooth]]</big>'''
+|{{Colorize trinket|Gilded shark tooth|red}}Red
+|{{Colorize trinket|Gilded shark tooth|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Gilded shark tooth|yellow}}Yellow
+|{{Colorize trinket|Gilded shark tooth|violet}}Violet
+|{{Colorize trinket|Gilded shark tooth|purple}}Purple
+|{{Colorize trinket|Gilded shark tooth|navy}}Navy
+|{{Colorize trinket|Gilded shark tooth|blue}}Blue
+|{{Colorize trinket|Gilded shark tooth|lime}}Lime
+|{{Colorize trinket|Gilded shark tooth|green}}Green
+|{{Colorize trinket|Gilded shark tooth|orange}}Orange
+|-
+|{{Colorize trinket|Gilded shark tooth|maroon}}Maroon
+|{{Colorize trinket|Gilded shark tooth|brown}}Brown
+|{{Colorize trinket|Gilded shark tooth|gold}}Gold
+|{{Colorize trinket|Gilded shark tooth|light green}}Lt. Green
+|[[Image:Item_box_unequip.png]]<br/>Persim.
+|{{Colorize trinket|Gilded shark tooth|ice blue}}Ice Blue
+|{{Colorize trinket|Gilded shark tooth|spring green}}Spr. Grn.
+|{{Colorize trinket|Gilded shark tooth|banana}}Banana
+|{{Colorize trinket|Gilded shark tooth|wine}}Wine
+|{{Colorize trinket|Gilded shark tooth|plum}}Plum
+|{{Colorize trinket|Gilded shark tooth|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Mark o' the cutthroat gentleman]]</big>'''
+|{{Colorize trinket|Mark o' the cutthroat gentleman|red}}Red
+|{{Colorize trinket|Mark o' the cutthroat gentleman|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Mark o' the cutthroat gentleman|yellow}}Yellow
+|{{Colorize trinket|Mark o' the cutthroat gentleman|violet}}Violet
+|{{Colorize trinket|Mark o' the cutthroat gentleman|purple}}Purple
+|{{Colorize trinket|Mark o' the cutthroat gentleman|navy}}Navy
+|{{Colorize trinket|Mark o' the cutthroat gentleman|blue}}Blue
+|{{Colorize trinket|Mark o' the cutthroat gentleman|lime}}Lime
+|{{Colorize trinket|Mark o' the cutthroat gentleman|green}}Green
+|{{Colorize trinket|Mark o' the cutthroat gentleman|orange}}Orange
+|-
+|{{Colorize trinket|Mark o' the cutthroat gentleman|maroon}}Maroon
+|{{Colorize trinket|Mark o' the cutthroat gentleman|brown}}Brown
+|{{Colorize trinket|Mark o' the cutthroat gentleman|gold}}Gold
+|{{Colorize trinket|Mark o' the cutthroat gentleman|light green}}Lt. Green
+|{{Colorize trinket|Mark o' the cutthroat gentleman|persimmon}}Persim.
+|{{Colorize trinket|Mark o' the cutthroat gentleman|ice blue}}Ice Blue
+|{{Colorize trinket|Mark o' the cutthroat gentleman|spring green}}Spr. Grn.
+|{{Colorize trinket|Mark o' the cutthroat gentleman|banana}}Banana
+|{{Colorize trinket|Mark o' the cutthroat gentleman|wine}}Wine
+|{{Colorize trinket|Mark o' the cutthroat gentleman|plum}}Plum
+|{{Colorize trinket|Mark o' the cutthroat gentleman|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Heart o' gold]]</big>'''
+|{{Colorize trinket|Heart o' gold|red}}Red
+|{{Colorize trinket|Heart o' gold|white}}White
+|{{Colorize trinket|Heart o' gold|grey}}Grey
+|{{Colorize trinket|Heart o' gold|yellow}}Yellow
+|{{Colorize trinket|Heart o' gold|violet}}Violet
+|{{Colorize trinket|Heart o' gold|purple}}Purple
+|{{Colorize trinket|Heart o' gold|navy}}Navy
+|{{Colorize trinket|Heart o' gold|blue}}Blue
+|{{Colorize trinket|Heart o' gold|lime}}Lime
+|{{Colorize trinket|Heart o' gold|green}}Green
+|{{Colorize trinket|Heart o' gold|orange}}Orange
+|-
+|{{Colorize trinket|Heart o' gold|maroon}}Maroon
+|{{Colorize trinket|Heart o' gold|brown}}Brown
+|{{Colorize trinket|Heart o' gold|gold}}Gold
+|{{Colorize trinket|Heart o' gold|light green}}Lt. Green
+|{{Colorize trinket|Heart o' gold|persimmon}}Persim.
+|{{Colorize trinket|Heart o' gold|ice blue}}Ice Blue
+|{{Colorize trinket|Heart o' gold|spring green}}Spr. Grn.
+|{{Colorize trinket|Heart o' gold|banana}}Banana
+|{{Colorize trinket|Heart o' gold|wine}}Wine
+|{{Colorize trinket|Heart o' gold|plum}}Plum
+|{{Colorize trinket|Heart o' gold|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Gilded spyglass]]</big>'''
+|{{Colorize trinket|Gilded spyglass|red}}Red
+|{{Colorize trinket|Gilded spyglass|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Gilded spyglass|yellow}}Yellow
+|{{Colorize trinket|Gilded spyglass|violet}}Violet
+|{{Colorize trinket|Gilded spyglass|purple}}Purple
+|{{Colorize trinket|Gilded spyglass|navy}}Navy
+|{{Colorize trinket|Gilded spyglass|blue}}Blue
+|{{Colorize trinket|Gilded spyglass|lime}}Lime
+|{{Colorize trinket|Gilded spyglass|green}}Green
+|{{Colorize trinket|Gilded spyglass|orange}}Orange
+|-
+|{{Colorize trinket|Gilded spyglass|maroon}}Maroon
+|{{Colorize trinket|Gilded spyglass|brown}}Brown
+|{{Colorize trinket|Gilded spyglass|gold}}Gold
+|{{Colorize trinket|Gilded spyglass|light green}}Lt. Green
+|[[Image:Item_box_unequip.png]]<br/>Persim.
+|{{Colorize trinket|Gilded spyglass|ice blue}}Ice Blue
+|{{Colorize trinket|Gilded spyglass|spring green}}Spr. Grn.
+|{{Colorize trinket|Gilded spyglass|banana}}Banana
+|{{Colorize trinket|Gilded spyglass|wine}}Wine
+|{{Colorize trinket|Gilded spyglass|plum}}Plum
+|{{Colorize trinket|Gilded spyglass|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Key to the ocean]]</big>'''
+|{{Colorize trinket|Key to the ocean|red}}Red
+|{{Colorize trinket|Key to the ocean|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Key to the ocean|yellow}}Yellow
+|{{Colorize trinket|Key to the ocean|violet}}Violet
+|{{Colorize trinket|Key to the ocean|purple}}Purple
+|{{Colorize trinket|Key to the ocean|navy}}Navy
+|{{Colorize trinket|Key to the ocean|blue}}Blue
+|{{Colorize trinket|Key to the ocean|lime}}Lime
+|{{Colorize trinket|Key to the ocean|green}}Green
+|{{Colorize trinket|Key to the ocean|orange}}Orange
+|-
+|{{Colorize trinket|Key to the ocean|maroon}}Maroon
+|{{Colorize trinket|Key to the ocean|brown}}Brown
+|{{Colorize trinket|Key to the ocean|gold}}Gold
+|{{Colorize trinket|Key to the ocean|light green}}Lt. Green
+|{{Colorize trinket|Key to the ocean|persimmon}}Persim.
+|{{Colorize trinket|Key to the ocean|ice blue}}Ice Blue
+|{{Colorize trinket|Key to the ocean|spring green}}Spr. Grn.
+|{{Colorize trinket|Key to the ocean|banana}}Banana
+|{{Colorize trinket|Key to the ocean|wine}}Wine
+|{{Colorize trinket|Key to the ocean|plum}}Plum
+|{{Colorize trinket|Key to the ocean|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Gilded pin]]</big>'''
+|{{Colorize trinket|Gilded pin|red}}Red
+|{{Colorize trinket|Gilded pin|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Gilded pin|yellow}}Yellow
+|{{Colorize trinket|Gilded pin|violet}}Violet
+|{{Colorize trinket|Gilded pin|purple}}Purple
+|{{Colorize trinket|Gilded pin|navy}}Navy
+|{{Colorize trinket|Gilded pin|blue}}Blue
+|{{Colorize trinket|Gilded pin|lime}}Lime
+|{{Colorize trinket|Gilded pin|green}}Green
+|{{Colorize trinket|Gilded pin|orange}}Orange
+|-
+|{{Colorize trinket|Gilded pin|maroon}}Maroon
+|{{Colorize trinket|Gilded pin|brown}}Brown
+|{{Colorize trinket|Gilded pin|gold}}Gold
+|{{Colorize trinket|Gilded pin|light green}}Lt. Green
+|{{Colorize trinket|Gilded pin|persimmon}}Persim.
+|{{Colorize trinket|Gilded pin|ice blue}}Ice Blue
+|{{Colorize trinket|Gilded pin|spring green}}Spr. Grn.
+|{{Colorize trinket|Gilded pin|banana}}Banana
+|{{Colorize trinket|Gilded pin|wine}}Wine
+|{{Colorize trinket|Gilded pin|plum}}Plum
+|{{Colorize trinket|Gilded pin|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Gilded signet ring]]</big>'''
+|{{Colorize trinket|Gilded signet ring|red}}Red
+|{{Colorize trinket|Gilded signet ring|white}}White
+|{{Colorize trinket|Gilded signet ring|grey}}Grey
+|{{Colorize trinket|Gilded signet ring|yellow}}Yellow
+|{{Colorize trinket|Gilded signet ring|violet}}Violet
+|{{Colorize trinket|Gilded signet ring|purple}}Purple
+|{{Colorize trinket|Gilded signet ring|navy}}Navy
+|{{Colorize trinket|Gilded signet ring|blue}}Blue
+|{{Colorize trinket|Gilded signet ring|lime}}Lime
+|{{Colorize trinket|Gilded signet ring|green}}Green
+|{{Colorize trinket|Gilded signet ring|orange}}Orange
+|-
+|{{Colorize trinket|Gilded signet ring|maroon}}Maroon
+|{{Colorize trinket|Gilded signet ring|brown}}Brown
+|{{Colorize trinket|Gilded signet ring|gold}}Gold
+|{{Colorize trinket|Gilded signet ring|light green}}Lt. Green
+|[[Image:Item_box_unequip.png]]<br/>Persim.
+|{{Colorize trinket|Gilded signet ring|ice blue}}Ice Blue
+|{{Colorize trinket|Gilded signet ring|spring green}}Spr. Grn.
+|[[Image:Item_box_unequip.png]]<br/>Banana
+|{{Colorize trinket|Gilded signet ring|wine}}Wine
+|{{Colorize trinket|Gilded signet ring|plum}}Plum
+|{{Colorize trinket|Gilded signet ring|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Fancy hook]]</big>'''
+|{{Colorize trinket|Fancy hook|red}}Red
+|{{Colorize trinket|Fancy hook|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Fancy hook|yellow}}Yellow
+|{{Colorize trinket|Fancy hook|violet}}Violet
+|{{Colorize trinket|Fancy hook|purple}}Purple
+|{{Colorize trinket|Fancy hook|navy}}Navy
+|{{Colorize trinket|Fancy hook|blue}}Blue
+|{{Colorize trinket|Fancy hook|lime}}Lime
+|{{Colorize trinket|Fancy hook|green}}Green
+|{{Colorize trinket|Fancy hook|orange}}Orange
+|-
+|{{Colorize trinket|Fancy hook|maroon}}Maroon
+|{{Colorize trinket|Fancy hook|brown}}Brown
+|{{Colorize trinket|Fancy hook|gold}}Gold
+|{{Colorize trinket|Fancy hook|light green}}Lt. Green
+|{{Colorize trinket|Fancy hook|persimmon}}Persim.
+|{{Colorize trinket|Fancy hook|ice blue}}Ice Blue
+|{{Colorize trinket|Fancy hook|spring green}}Spr. Grn.
+|{{Colorize trinket|Fancy hook|banana}}Banana
+|{{Colorize trinket|Fancy hook|wine}}Wine
+|{{Colorize trinket|Fancy hook|plum}}Plum
+|{{Colorize trinket|Fancy hook|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Gilded goblet]]</big>'''
+|{{Colorize trinket|Gilded goblet|red}}Red
+|{{Colorize trinket|Gilded goblet|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Gilded goblet|yellow}}Yellow
+|{{Colorize trinket|Gilded goblet|violet}}Violet
+|{{Colorize trinket|Gilded goblet|purple}}Purple
+|{{Colorize trinket|Gilded goblet|navy}}Navy
+|{{Colorize trinket|Gilded goblet|blue}}Blue
+|{{Colorize trinket|Gilded goblet|lime}}Lime
+|{{Colorize trinket|Gilded goblet|green}}Green
+|{{Colorize trinket|Gilded goblet|orange}}Orange
+|-
+|{{Colorize trinket|Gilded goblet|maroon}}Maroon
+|{{Colorize trinket|Gilded goblet|brown}}Brown
+|{{Colorize trinket|Gilded goblet|gold}}Gold
+|{{Colorize trinket|Gilded goblet|light green}}Lt. Green
+|[[Image:Item_box_unequip.png]]<br/>Persim.
+|{{Colorize trinket|Gilded goblet|ice blue}}Ice Blue
+|{{Colorize trinket|Gilded goblet|spring green}}Spr. Grn.
+|{{Colorize trinket|Gilded goblet|banana}}Banana
+|{{Colorize trinket|Gilded goblet|wine}}Wine
+|{{Colorize trinket|Gilded goblet|plum}}Plum
+|{{Colorize trinket|Gilded goblet|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Courage-heart compass]]</big>'''
+|{{Colorize trinket|Courage-heart compass|red}}Red
+|{{Colorize trinket|Courage-heart compass|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Courage-heart compass|yellow}}Yellow
+|{{Colorize trinket|Courage-heart compass|violet}}Violet
+|{{Colorize trinket|Courage-heart compass|purple}}Purple
+|{{Colorize trinket|Courage-heart compass|navy}}Navy
+|[[Image:Item_box_unequip.png]]<br/>Blue
+|{{Colorize trinket|Courage-heart compass|lime}}Lime
+|[[Image:Item_box_unequip.png]]<br/>Green
+|{{Colorize trinket|Courage-heart compass|orange}}Orange
+|-
+|[[Image:Item_box_unequip.png]]<br/>Maroon
+|{{Colorize trinket|Courage-heart compass|brown}}Brown
+|{{Colorize trinket|Courage-heart compass|gold}}Gold
+|[[Image:Item_box_unequip.png]]<br/>Lt. Green
+|{{Colorize trinket|Courage-heart compass|persimmon}}Persim.
+|{{Colorize trinket|Courage-heart compass|ice blue}}Ice Blue
+|{{Colorize trinket|Courage-heart compass|spring green}}Spr. Grn.
+|[[Image:Item_box_unequip.png]]<br/>Banana
+|[[Image:Item_box_unequip.png]]<br/>Wine
+|[[Image:Item_box_unequip.png]]<br/>Plum
+|{{Colorize trinket|Courage-heart compass|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Golden sextant]]</big>'''
+|[[Image:Item_box_unequip.png]]<br/>Red
+|[[Image:Item_box_unequip.png]]<br/>White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|{{Colorize trinket|Golden sextant|yellow}}Yellow
+|[[Image:Item_box_unequip.png]]<br/>Violet
+|{{Colorize trinket|Golden sextant|purple}}Purple
+|[[Image:Item_box_unequip.png]]<br/>Navy
+|{{Colorize trinket|Golden sextant|blue}}Blue
+|{{Colorize trinket|Golden sextant|lime}}Lime
+|[[Image:Item_box_unequip.png]]<br/>Green
+|[[Image:Item_box_unequip.png]]<br/>Orange
+|-
+|[[Image:Item_box_unequip.png]]<br/>Maroon
+|{{Colorize trinket|Golden sextant|brown}}Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|{{Colorize trinket|Golden sextant|light green}}Lt. Green
+|{{Colorize trinket|Golden sextant|persimmon}}Persim.
+|{{Colorize trinket|Golden sextant|ice blue}}Ice Blue
+|[[Image:Item_box_unequip.png]]<br/>Spr. Grn.
+|{{Colorize trinket|Golden sextant|banana}}Banana
+|[[Image:Item_box_unequip.png]]<br/>Wine
+|{{Colorize trinket|Golden sextant|plum}}Plum
+|{{Colorize trinket|Golden sextant|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Gilded sailor's knot]]</big>'''
+|{{Colorize trinket|Gilded sailor's knot|red}}Red
+|{{Colorize trinket|Gilded sailor's knot|white}}White
+|{{Colorize trinket|Gilded sailor's knot|grey}}Grey
+|{{Colorize trinket|Gilded sailor's knot|yellow}}Yellow
+|{{Colorize trinket|Gilded sailor's knot|violet}}Violet
+|[[Image:Item_box_unequip.png]]<br/>Purple
+|{{Colorize trinket|Gilded sailor's knot|navy}}Navy
+|[[Image:Item_box_unequip.png]]<br/>Blue
+|{{Colorize trinket|Gilded sailor's knot|lime}}Lime
+|{{Colorize trinket|Gilded sailor's knot|green}}Green
+|{{Colorize trinket|Gilded sailor's knot|orange}}Orange
+|-
+|[[Image:Item_box_unequip.png]]<br/>Maroon
+|[[Image:Item_box_unequip.png]]<br/>Brown
+|{{Colorize trinket|Gilded sailor's knot|gold}}Gold
+|[[Image:Item_box_unequip.png]]<br/>Lt. Green
+|{{Colorize trinket|Gilded sailor's knot|persimmon}}Persim.
+|{{Colorize trinket|Gilded sailor's knot|ice blue}}Ice Blue
+|[[Image:Item_box_unequip.png]]<br/>Spr. Grn.
+|{{Colorize trinket|Gilded sailor's knot|banana}}Banana
+|{{Colorize trinket|Gilded sailor's knot|wine}}Wine
+|[[Image:Item_box_unequip.png]]<br/>Plum
+|{{Colorize trinket|Gilded sailor's knot|chocolate}}Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Golden hourglass]]</big>'''
+|[[Image:Item_box_unequip.png]]<br/>Red
+|[[Image:Item_box_unequip.png]]<br/>White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|[[Image:Item_box_unequip.png]]<br/>Yellow
+|{{Colorize trinket|Golden hourglass|violet}}Violet
+|[[Image:Item_box_unequip.png]]<br/>Purple
+|[[Image:Item_box_unequip.png]]<br/>Navy
+|[[Image:Item_box_unequip.png]]<br/>Blue
+|[[Image:Item_box_unequip.png]]<br/>Lime
+|[[Image:Item_box_unequip.png]]<br/>Green
+|[[Image:Item_box_unequip.png]]<br/>Orange
+|-
+|[[Image:Item_box_unequip.png]]<br/>Maroon
+|[[Image:Item_box_unequip.png]]<br/>Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|[[Image:Item_box_unequip.png]]<br/>Lt. Green
+|[[Image:Item_box_unequip.png]]<br/>Persim.
+|{{Colorize trinket|Golden hourglass|ice blue}}Ice Blue
+|[[Image:Item_box_unequip.png]]<br/>Spr. Grn.
+|[[Image:Item_box_unequip.png]]<br/>Banana
+|[[Image:Item_box_unequip.png]]<br/>Wine
+|[[Image:Item_box_unequip.png]]<br/>Plum
+|[[Image:Item_box_unequip.png]]<br/>Choco.
+|-
+| colspan=12 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Gilded cameo box]]</big>'''
+|{{Colorize trinket|Gilded cameo box|red}}Red
+|{{Colorize trinket|Gilded cameo box|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|[[Image:Item_box_unequip.png]]<br/>Yellow
+|{{Colorize trinket|Gilded cameo box|violet}}Violet
+|[[Image:Item_box_unequip.png]]<br/>Purple
+|[[Image:Item_box_unequip.png]]<br/>Navy
+|{{Colorize trinket|Gilded cameo box|blue}}Blue
+|{{Colorize trinket|Gilded cameo box|lime}}Lime
+|[[Image:Item_box_unequip.png]]<br/>Green
+|[[Image:Item_box_unequip.png]]<br/>Orange
+|-
+|{{Colorize trinket|Gilded cameo box|maroon}}Maroon
+|{{Colorize trinket|Gilded cameo box|brown}}Brown
+|{{Colorize trinket|Gilded cameo box|gold}}Gold
+|[[Image:Item_box_unequip.png]]<br/>Lt. Green
+|{{Colorize trinket|Gilded cameo box|persimmon}}Persim.
+|{{Colorize trinket|Gilded cameo box|ice blue}}Ice Blue
+|{{Colorize trinket|Gilded cameo box|spring green}}Spr. Grn.
+|{{Colorize trinket|Gilded cameo box|banana}}Banana
+|{{Colorize trinket|Gilded cameo box|wine}}Wine
+|[[Image:Item_box_unequip.png]]<br/>Plum
+|[[Image:Item_box_unequip.png]]<br/>Choco.
+|-
+|}
+
+=== Radiant phoenix feather ===
+
+The Radiant phoenix feather trinket was never meant to be available in more than one color.  However, when the first set of [[gold box]] trinkets was released (in April 2012), the game released some "booched" colors.  During that month only, it was possible to get the Radiant phoenix feather in all of the gold box trinket colors (at the time).  When the next month of gold boxes became available (in June 2012), and in all subsequent sets, the feather only came in its designed color: red.  This is why the feather doesn't come in grey, persimmon, or LE colors (other than spring green).
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|White
+|Yellow
+|Violet
+|Purple
+|Navy
+|Blue
+|Lime
+|Green
+|Orange
+|Maroon
+|Brown
+|Gold
+|Lt. Green
+|Spr. Grn.
+
+|-
+|'''<big>[[Radiant phoenix feather]]</big>'''
+|{{Colorize trinket|Radiant phoenix feather|red}}
+|{{Colorize trinket|Radiant phoenix feather|white}}
+|{{Colorize trinket|Radiant phoenix feather|yellow}}
+|{{Colorize trinket|Radiant phoenix feather|violet}}
+|{{Colorize trinket|Radiant phoenix feather|purple}}
+|{{Colorize trinket|Radiant phoenix feather|navy}}
+|{{Colorize trinket|Radiant phoenix feather|blue}}
+|{{Colorize trinket|Radiant phoenix feather|lime}}
+|{{Colorize trinket|Radiant phoenix feather|green}}
+|{{Colorize trinket|Radiant phoenix feather|orange}}
+|{{Colorize trinket|Radiant phoenix feather|maroon}}
+|{{Colorize trinket|Radiant phoenix feather|brown}}
+|{{Colorize trinket|Radiant phoenix feather|gold}}
+|{{Colorize trinket|Radiant phoenix feather|light green}}
+|{{Colorize trinket|Radiant phoenix feather|spring green}}
+|}
+
+=== Colorless ===
+
+These trinkets do not come in multiple colors.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|'''<big>[[Golden dragon scale]]</big>'''
+|{{Colorize trinket|Golden dragon scale|ignore}}
+|-
+|'''<big>[[Golden turtle shell]]</big>'''
+|[[Image:Item_box_unequip.png]]
+
+
+[[Category:Subpages:Trinkets]]

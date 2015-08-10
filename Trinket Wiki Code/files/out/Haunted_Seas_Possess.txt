@@ -1,0 +1,401 @@
+This is a sub-page of [[Jamesh]]'s trinket collections.  For the main page, please click [[Jamesh/Trinkets|here]].
+
+This is a list of trinkets Jamesh has collected.  Any trinkets that are '''''not''''' shown here are trinkets Jamesh is missing and will buy.
+
+=== Haunted seas palette ===
+
+These trinkets are available from the [[Haunted Seas]] in the colors of the [[Trinket_palette#Haunted_Seas_Trinkets|Haunted Seas palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|White
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Lt. Blue
+|Nt. Blue
+
+|-
+|'''<big>[[Ghostly looking glass]]</big>'''
+|{{Colorize trinket|Ghostly looking glass|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ghostly looking glass|grey}}
+|{{Colorize trinket|Ghostly looking glass|violet}}
+|{{Colorize trinket|Ghostly looking glass|purple}}
+|{{Colorize trinket|Ghostly looking glass|navy}}
+|{{Colorize trinket|Ghostly looking glass|blue}}
+|{{Colorize trinket|Ghostly looking glass|light blue}}
+|{{Colorize trinket|Ghostly looking glass|night blue}}
+|-
+|'''<big>[[Spectral lantern]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Spectral lantern|black}}
+|{{Colorize trinket|Spectral lantern|grey}}
+|{{Colorize trinket|Spectral lantern|violet}}
+|{{Colorize trinket|Spectral lantern|purple}}
+|{{Colorize trinket|Spectral lantern|navy}}
+|{{Colorize trinket|Spectral lantern|blue}}
+|{{Colorize trinket|Spectral lantern|light blue}}
+|{{Colorize trinket|Spectral lantern|night blue}}
+|-
+|'''<big>[[Faded cameo]]</big>'''
+|{{Colorize trinket|Faded cameo|white}}
+|{{Colorize trinket|Faded cameo|black}}
+|{{Colorize trinket|Faded cameo|grey}}
+|{{Colorize trinket|Faded cameo|violet}}
+|{{Colorize trinket|Faded cameo|purple}}
+|{{Colorize trinket|Faded cameo|navy}}
+|{{Colorize trinket|Faded cameo|blue}}
+|{{Colorize trinket|Faded cameo|light blue}}
+|{{Colorize trinket|Faded cameo|night blue}}
+|-
+|'''<big>[[Planchette]]</big>'''
+|{{Colorize trinket|Planchette|white}}
+|{{Colorize trinket|Planchette|black}}
+|{{Colorize trinket|Planchette|grey}}
+|{{Colorize trinket|Planchette|violet}}
+|{{Colorize trinket|Planchette|purple}}
+|{{Colorize trinket|Planchette|navy}}
+|{{Colorize trinket|Planchette|blue}}
+|{{Colorize trinket|Planchette|light blue}}
+|{{Colorize trinket|Planchette|night blue}}
+|-
+|'''<big>[[Eternal flame]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Eternal flame|grey}}
+|{{Colorize trinket|Eternal flame|violet}}
+|{{Colorize trinket|Eternal flame|purple}}
+|{{Colorize trinket|Eternal flame|navy}}
+|{{Colorize trinket|Eternal flame|blue}}
+|{{Colorize trinket|Eternal flame|light blue}}
+|{{Colorize trinket|Eternal flame|night blue}}
+|-
+|'''<big>[[Black lilies]]</big>'''
+|{{Colorize trinket|Black lilies|white}}
+|{{Colorize trinket|Black lilies|black}}
+|{{Colorize trinket|Black lilies|grey}}
+|{{Colorize trinket|Black lilies|violet}}
+|{{Colorize trinket|Black lilies|purple}}
+|{{Colorize trinket|Black lilies|navy}}
+|{{Colorize trinket|Black lilies|blue}}
+|{{Colorize trinket|Black lilies|light blue}}
+|{{Colorize trinket|Black lilies|night blue}}
+|-
+|'''<big>[[Gravestone fragment]]</big>'''
+|{{Colorize trinket|Gravestone fragment|white}}
+|{{Colorize trinket|Gravestone fragment|black}}
+|{{Colorize trinket|Gravestone fragment|grey}}
+|{{Colorize trinket|Gravestone fragment|violet}}
+|{{Colorize trinket|Gravestone fragment|purple}}
+|{{Colorize trinket|Gravestone fragment|navy}}
+|{{Colorize trinket|Gravestone fragment|blue}}
+|{{Colorize trinket|Gravestone fragment|light blue}}
+|{{Colorize trinket|Gravestone fragment|night blue}}
+|-
+|'''<big>[[Haunted dinner napkin]]</big>'''
+|{{Colorize trinket|Haunted dinner napkin|white}}
+|{{Colorize trinket|Haunted dinner napkin|black}}
+|{{Colorize trinket|Haunted dinner napkin|grey}}
+|{{Colorize trinket|Haunted dinner napkin|violet}}
+|{{Colorize trinket|Haunted dinner napkin|purple}}
+|{{Colorize trinket|Haunted dinner napkin|navy}}
+|{{Colorize trinket|Haunted dinner napkin|blue}}
+|{{Colorize trinket|Haunted dinner napkin|light blue}}
+|{{Colorize trinket|Haunted dinner napkin|night blue}}
+|-
+|'''<big>[[Corpse light]]</big>'''
+|{{Colorize trinket|Corpse light|white}}
+|{{Colorize trinket|Corpse light|black}}
+|{{Colorize trinket|Corpse light|grey}}
+|{{Colorize trinket|Corpse light|violet}}
+|{{Colorize trinket|Corpse light|purple}}
+|{{Colorize trinket|Corpse light|navy}}
+|{{Colorize trinket|Corpse light|blue}}
+|{{Colorize trinket|Corpse light|light blue}}
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Black wreath]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Black wreath|grey}}
+|{{Colorize trinket|Black wreath|violet}}
+|{{Colorize trinket|Black wreath|purple}}
+|{{Colorize trinket|Black wreath|navy}}
+|{{Colorize trinket|Black wreath|blue}}
+|{{Colorize trinket|Black wreath|light blue}}
+|{{Colorize trinket|Black wreath|night blue}}
+|-
+|
+|White
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Lt. Blue
+|Nt. Blue
+
+|-
+|'''<big>[[Ghostly ring]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ghostly ring|grey}}
+|{{Colorize trinket|Ghostly ring|violet}}
+|{{Colorize trinket|Ghostly ring|purple}}
+|{{Colorize trinket|Ghostly ring|navy}}
+|{{Colorize trinket|Ghostly ring|blue}}
+|{{Colorize trinket|Ghostly ring|light blue}}
+|{{Colorize trinket|Ghostly ring|night blue}}
+|-
+|'''<big>[[Ethereal mist]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ethereal mist|grey}}
+|{{Colorize trinket|Ethereal mist|violet}}
+|{{Colorize trinket|Ethereal mist|purple}}
+|{{Colorize trinket|Ethereal mist|navy}}
+|{{Colorize trinket|Ethereal mist|blue}}
+|{{Colorize trinket|Ethereal mist|light blue}}
+|{{Colorize trinket|Ethereal mist|night blue}}
+|-
+|'''<big>[[Grave rubbing]]</big>'''
+|{{Colorize trinket|Grave rubbing|white}}
+|{{Colorize trinket|Grave rubbing|black}}
+|{{Colorize trinket|Grave rubbing|grey}}
+|{{Colorize trinket|Grave rubbing|violet}}
+|{{Colorize trinket|Grave rubbing|purple}}
+|{{Colorize trinket|Grave rubbing|navy}}
+|{{Colorize trinket|Grave rubbing|blue}}
+|{{Colorize trinket|Grave rubbing|light blue}}
+|{{Colorize trinket|Grave rubbing|night blue}}
+|-
+|'''<big>[[Spectral veil]]</big>'''
+|{{Colorize trinket|Spectral veil|white}}
+|{{Colorize trinket|Spectral veil|black}}
+|{{Colorize trinket|Spectral veil|grey}}
+|{{Colorize trinket|Spectral veil|violet}}
+|{{Colorize trinket|Spectral veil|purple}}
+|{{Colorize trinket|Spectral veil|navy}}
+|{{Colorize trinket|Spectral veil|blue}}
+|{{Colorize trinket|Spectral veil|light blue}}
+|{{Colorize trinket|Spectral veil|night blue}}
+|-
+|'''<big>[[Haunted candle]]</big>'''
+|{{Colorize trinket|Haunted candle|white}}
+|{{Colorize trinket|Haunted candle|black}}
+|{{Colorize trinket|Haunted candle|grey}}
+|{{Colorize trinket|Haunted candle|violet}}
+|{{Colorize trinket|Haunted candle|purple}}
+|{{Colorize trinket|Haunted candle|navy}}
+|{{Colorize trinket|Haunted candle|blue}}
+|{{Colorize trinket|Haunted candle|light blue}}
+|{{Colorize trinket|Haunted candle|night blue}}
+|-
+|'''<big>[[Ghost doll]]</big>'''
+|{{Colorize trinket|Ghost doll|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ghost doll|grey}}
+|{{Colorize trinket|Ghost doll|violet}}
+|{{Colorize trinket|Ghost doll|purple}}
+|{{Colorize trinket|Ghost doll|navy}}
+|{{Colorize trinket|Ghost doll|blue}}
+|{{Colorize trinket|Ghost doll|light blue}}
+|{{Colorize trinket|Ghost doll|night blue}}
+|-
+|'''<big>[[Compass to the Nether Seas]]</big>'''
+|{{Colorize trinket|Compass to the Nether Seas|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Compass to the Nether Seas|grey}}
+|{{Colorize trinket|Compass to the Nether Seas|violet}}
+|{{Colorize trinket|Compass to the Nether Seas|purple}}
+|{{Colorize trinket|Compass to the Nether Seas|navy}}
+|{{Colorize trinket|Compass to the Nether Seas|blue}}
+|{{Colorize trinket|Compass to the Nether Seas|light blue}}
+|{{Colorize trinket|Compass to the Nether Seas|night blue}}
+|-
+|'''<big>[[Phantom powder flask]]</big>'''
+|{{Colorize trinket|Phantom powder flask|white}}
+|{{Colorize trinket|Phantom powder flask|black}}
+|{{Colorize trinket|Phantom powder flask|grey}}
+|{{Colorize trinket|Phantom powder flask|violet}}
+|{{Colorize trinket|Phantom powder flask|purple}}
+|{{Colorize trinket|Phantom powder flask|navy}}
+|{{Colorize trinket|Phantom powder flask|blue}}
+|{{Colorize trinket|Phantom powder flask|light blue}}
+|{{Colorize trinket|Phantom powder flask|night blue}}
+|-
+|'''<big>[[Pale padlock]]</big>'''
+|{{Colorize trinket|Pale padlock|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Pale padlock|grey}}
+|{{Colorize trinket|Pale padlock|violet}}
+|{{Colorize trinket|Pale padlock|purple}}
+|{{Colorize trinket|Pale padlock|navy}}
+|{{Colorize trinket|Pale padlock|blue}}
+|{{Colorize trinket|Pale padlock|light blue}}
+|{{Colorize trinket|Pale padlock|night blue}}
+|-
+|'''<big>[[Ghostly impression]]</big>'''
+|{{Colorize trinket|Ghostly impression|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ghostly impression|grey}}
+|{{Colorize trinket|Ghostly impression|violet}}
+|{{Colorize trinket|Ghostly impression|purple}}
+|{{Colorize trinket|Ghostly impression|navy}}
+|{{Colorize trinket|Ghostly impression|blue}}
+|{{Colorize trinket|Ghostly impression|light blue}}
+|{{Colorize trinket|Ghostly impression|night blue}}
+|-
+|
+|White
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Lt. Blue
+|Nt. Blue
+
+|-
+|'''<big>[[Unearthly urn]]</big>'''
+|{{Colorize trinket|Unearthly urn|white}}
+|{{Colorize trinket|Unearthly urn|black}}
+|{{Colorize trinket|Unearthly urn|grey}}
+|{{Colorize trinket|Unearthly urn|violet}}
+|{{Colorize trinket|Unearthly urn|purple}}
+|{{Colorize trinket|Unearthly urn|navy}}
+|{{Colorize trinket|Unearthly urn|blue}}
+|{{Colorize trinket|Unearthly urn|light blue}}
+|{{Colorize trinket|Unearthly urn|night blue}}
+|-
+|'''<big>[[Spirit slates]]</big>'''
+|{{Colorize trinket|Spirit slates|white}}
+|{{Colorize trinket|Spirit slates|black}}
+|{{Colorize trinket|Spirit slates|grey}}
+|{{Colorize trinket|Spirit slates|violet}}
+|{{Colorize trinket|Spirit slates|purple}}
+|{{Colorize trinket|Spirit slates|navy}}
+|{{Colorize trinket|Spirit slates|blue}}
+|{{Colorize trinket|Spirit slates|light blue}}
+|{{Colorize trinket|Spirit slates|night blue}}
+|-
+|'''<big>[[Locket from a lost love]]</big>'''
+|{{Colorize trinket|Locket from a lost love|white}}
+|{{Colorize trinket|Locket from a lost love|black}}
+|{{Colorize trinket|Locket from a lost love|grey}}
+|{{Colorize trinket|Locket from a lost love|violet}}
+|{{Colorize trinket|Locket from a lost love|purple}}
+|{{Colorize trinket|Locket from a lost love|navy}}
+|{{Colorize trinket|Locket from a lost love|blue}}
+|{{Colorize trinket|Locket from a lost love|light blue}}
+|{{Colorize trinket|Locket from a lost love|night blue}}
+|-
+|'''<big>[[Cannonball from beyond]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cannonball from beyond|grey}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cannonball from beyond|purple}}
+|{{Colorize trinket|Cannonball from beyond|navy}}
+|{{Colorize trinket|Cannonball from beyond|blue}}
+|{{Colorize trinket|Cannonball from beyond|light blue}}
+|{{Colorize trinket|Cannonball from beyond|night blue}}
+|-
+|'''<big>[[Spooky spyglass]]</big>'''
+|{{Colorize trinket|Spooky spyglass|white}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Spooky spyglass|grey}}
+|{{Colorize trinket|Spooky spyglass|violet}}
+|{{Colorize trinket|Spooky spyglass|purple}}
+|{{Colorize trinket|Spooky spyglass|navy}}
+|{{Colorize trinket|Spooky spyglass|blue}}
+|{{Colorize trinket|Spooky spyglass|light blue}}
+|{{Colorize trinket|Spooky spyglass|night blue}}
+|-
+|'''<big>[[Censer of shades]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Censer of shades|grey}}
+|{{Colorize trinket|Censer of shades|violet}}
+|{{Colorize trinket|Censer of shades|purple}}
+|{{Colorize trinket|Censer of shades|navy}}
+|{{Colorize trinket|Censer of shades|blue}}
+|{{Colorize trinket|Censer of shades|light blue}}
+|{{Colorize trinket|Censer of shades|night blue}}
+|-
+|'''<big>[[Eldritch astrolabe]]</big>'''
+|{{Colorize trinket|Eldritch astrolabe|white}}
+|{{Colorize trinket|Eldritch astrolabe|black}}
+|{{Colorize trinket|Eldritch astrolabe|grey}}
+|{{Colorize trinket|Eldritch astrolabe|violet}}
+|{{Colorize trinket|Eldritch astrolabe|purple}}
+|{{Colorize trinket|Eldritch astrolabe|navy}}
+|{{Colorize trinket|Eldritch astrolabe|blue}}
+|{{Colorize trinket|Eldritch astrolabe|light blue}}
+|{{Colorize trinket|Eldritch astrolabe|night blue}}
+|-
+|'''<big>[[Rumjug of spirits]]</big>'''
+|{{Colorize trinket|Rumjug of spirits|white}}
+|{{Colorize trinket|Rumjug of spirits|black}}
+|{{Colorize trinket|Rumjug of spirits|grey}}
+|{{Colorize trinket|Rumjug of spirits|violet}}
+|{{Colorize trinket|Rumjug of spirits|purple}}
+|{{Colorize trinket|Rumjug of spirits|navy}}
+|{{Colorize trinket|Rumjug of spirits|blue}}
+|{{Colorize trinket|Rumjug of spirits|light blue}}
+|{{Colorize trinket|Rumjug of spirits|night blue}}
+|}
+
+=== Haunted tome ===
+
+The Haunted tome is available from the [[Haunted Seas]] in the colors of the [[Trinket_palette#Haunted_Seas_Trinkets|Haunted Seas palette]].  It was also available in sea green as part of the [[Official:Apr14_Promotion|Fox Box Promotion]] in April 2014.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|White
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Lt. Blue
+|Sea Grn.
+|Nt. Blue
+
+|-
+|'''<big>[[Haunted tome]]</big>'''
+|{{Colorize trinket|Haunted tome|white}}
+|{{Colorize trinket|Haunted tome|black}}
+|{{Colorize trinket|Haunted tome|grey}}
+|{{Colorize trinket|Haunted tome|violet}}
+|{{Colorize trinket|Haunted tome|purple}}
+|{{Colorize trinket|Haunted tome|navy}}
+|{{Colorize trinket|Haunted tome|blue}}
+|{{Colorize trinket|Haunted tome|light blue}}
+|{{Colorize trinket|Haunted tome|sea green}}
+|{{Colorize trinket|Haunted tome|night blue}}
+|}
+
+=== Colorless ===
+
+This trinket does not come in multiple colors.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|'''<big>[[Phantom hand]]</big>'''
+|{{Colorize trinket|Phantom hand|ignore}}
+
+
+[[Category:Subpages:Trinkets]]

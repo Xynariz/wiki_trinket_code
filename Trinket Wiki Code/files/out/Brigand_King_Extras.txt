@@ -1,0 +1,552 @@
+NOT IMPLEMENTED!!
+
+=== Barnabas the Pale ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Barnabas the Pale]] in a brawl.  They are available in the colors of the [[Trinket_palette#Basic_colors|Basic Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+
+|-
+|'''<big>[[Ectoplasm]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ectoplasm|orange}}
+|-
+|'''<big>[[Will o' wisp]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Cursed idol]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Music box of lamentations]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Spectral chain]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Key to the Nether-Sea]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|}
+
+=== The Widow Queen ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[The Widow Queen]] in a brawl.  They are available in the colors of the [[Trinket_palette#Basic_colors|Basic Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+
+|-
+|'''<big>[[Silk handkerchief]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Jeweled brooch]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Rose goddess perfume]]</big>'''
+|{{Colorize trinket|Rose goddess perfume|red}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Arsenic ring]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Ruffled garter]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Concealed blade]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|}
+
+=== Brynhild Skullsplitter ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Brynhild Skullsplitter]] in a brawl.  They are available in the colors of the [[Trinket_palette#Extended|Extended Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+|Yellow
+
+|-
+|'''<big>[[Mjolnir amulet]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Runestone]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Runestone|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Engraved wristband]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Solar compass]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Hoard brooch]]</big>'''
+|{{Colorize trinket|Hoard brooch|red}}
+|{{Colorize trinket|Hoard brooch|violet}}
+|{{Colorize trinket|Hoard brooch|blue}}
+|{{Colorize trinket|Hoard brooch|aqua}}
+|{{Colorize trinket|Hoard brooch|lime}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Hoard brooch|yellow}}
+|-
+|'''<big>[[Wyrm scale]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Wyrm scale|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|}
+
+=== Azarbad the Great ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Azarbad the Great]] in a brawl.  They are available in the colors of the [[Trinket_palette#Extended|Extended Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+|Yellow
+
+|-
+|'''<big>[[Exotic confection]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Exotic confection|orange}}
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Ornate earring]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Jeweled dagger]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Jeweled dagger|violet}}
+|{{Colorize trinket|Jeweled dagger|blue}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Jeweled dagger|orange}}
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Heart of fire]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Heart of fire|blue}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Scented beard oil]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Scented beard oil|blue}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Scented beard oil|lime}}
+|{{Colorize trinket|Scented beard oil|orange}}
+|{{Colorize trinket|Scented beard oil|yellow}}
+|-
+|'''<big>[[Golden oil lamp]]</big>'''
+|{{Colorize trinket|Golden oil lamp|red}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Golden oil lamp|blue}}
+|{{Colorize trinket|Golden oil lamp|aqua}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|}
+
+=== Vargas the Mad ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Vargas the Mad]] in a brawl.  They are available in the colors of the [[Trinket_palette#Basic_colors|Basic Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+
+|-
+|'''<big>[[Jigsaw puzzle piece]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Scientific tome]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Reading pipe]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Siren's comb]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Grimoire page]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Grimoire page|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Yo-yo]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Yo-yo|blue}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|}
+
+=== Madam Yu Jian ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Madam Yu Jian]] in a brawl.  They are available in the colors of the [[Trinket_palette#Extended|Extended Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+|Yellow
+
+|-
+|'''<big>[[Lucky coin talisman]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Jade carving]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Jade carving|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Jeweled finger guard]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Jeweled finger guard|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Hand fan]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Cut stone box]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Jade comb]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Jade comb|aqua}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|}
+
+=== Gretchen Goldfang ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Gretchen Goldfang]] in a brawl.  They are available in the colors of the [[Trinket_palette#Basic_colors|Basic Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+
+|-
+|'''<big>[[Ivory toothpick]]</big>'''
+|{{Colorize trinket|Ivory toothpick|red}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ivory toothpick|lime}}
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Salt shaker]]</big>'''
+|{{Colorize trinket|Salt shaker|red}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Wooden amulet]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Wooden amulet|aqua}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Lucky rabbit's foot]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Lucky rabbit's foot|lime}}
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Golden horseshoe]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Stained wishbone]]</big>'''
+|{{Colorize trinket|Stained wishbone|red}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Stained wishbone|blue}}
+|{{Colorize trinket|Stained wishbone|aqua}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Stained wishbone|orange}}
+|}
+
+=== Admiral Finius ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Admiral Finius]] in a brawl.  They are available in the colors of the [[Trinket_palette#Basic_colors|Basic Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+
+|-
+|'''<big>[[Porcelain cup]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Fish eye lens monocle]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Royal anchovy tin]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Royal anchovy tin|blue}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Royal anchovy tin|orange}}
+|-
+|'''<big>[[Prestigious naval medal]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Prestigious naval medal|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Baby portrait of Adm. Finius]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Self-addressed love letter]]</big>'''
+|{{Colorize trinket|Self-addressed love letter|red}}
+|{{Colorize trinket|Self-addressed love letter|violet}}
+|{{Colorize trinket|Self-addressed love letter|blue}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Pearl pocket watch]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|}
+
+[[Category:Subpages:Trinkets]]

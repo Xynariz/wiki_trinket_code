@@ -1,0 +1,399 @@
+NOT IMPLEMENTED
+
+=== Haunted seas palette ===
+
+These trinkets are available from the [[Haunted Seas]] in the colors of the [[Trinket_palette#Haunted_Seas_Trinkets|Haunted Seas palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|White
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Lt. Blue
+|Nt. Blue
+
+|-
+|'''<big>[[Ghostly looking glass]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Spectral lantern]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Spectral lantern|light blue}}
+|{{Colorize trinket|Spectral lantern|night blue}}
+|-
+|'''<big>[[Faded cameo]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Planchette]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Eternal flame]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Black lilies]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Black lilies|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Black lilies|blue}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Gravestone fragment]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Gravestone fragment|blue}}
+|{{Colorize trinket|Gravestone fragment|light blue}}
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Haunted dinner napkin]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Haunted dinner napkin|grey}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Haunted dinner napkin|purple}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Haunted dinner napkin|light blue}}
+|{{Colorize trinket|Haunted dinner napkin|night blue}}
+|-
+|'''<big>[[Corpse light]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Corpse light|grey}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Black wreath]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|
+|White
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Lt. Blue
+|Nt. Blue
+
+|-
+|'''<big>[[Ghostly ring]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Ethereal mist]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ethereal mist|grey}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ethereal mist|blue}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Grave rubbing]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Grave rubbing|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Spectral veil]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Spectral veil|purple}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Haunted candle]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Haunted candle|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Haunted candle|light blue}}
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Ghost doll]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Compass to the Nether Seas]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Phantom powder flask]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Pale padlock]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Ghostly impression]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|
+|White
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Lt. Blue
+|Nt. Blue
+
+|-
+|'''<big>[[Unearthly urn]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Unearthly urn|blue}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Unearthly urn|night blue}}
+|-
+|'''<big>[[Spirit slates]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Spirit slates|light blue}}
+|{{Colorize trinket|Spirit slates|night blue}}
+|-
+|'''<big>[[Locket from a lost love]]</big>'''
+|{{Colorize trinket|Locket from a lost love|white}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Cannonball from beyond]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cannonball from beyond|navy}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Spooky spyglass]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Censer of shades]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Censer of shades|night blue}}
+|-
+|'''<big>[[Eldritch astrolabe]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Eldritch astrolabe|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Eldritch astrolabe|blue}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Rumjug of spirits]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|}
+
+=== Haunted tome ===
+
+The Haunted tome is available from the [[Haunted Seas]] in the colors of the [[Trinket_palette#Haunted_Seas_Trinkets|Haunted Seas palette]].  It was also available in sea green as part of the [[Official:Apr14_Promotion|Fox Box Promotion]] in April 2014.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|White
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Lt. Blue
+|Sea Grn.
+|Nt. Blue
+
+|-
+|'''<big>[[Haunted tome]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|}
+
+=== Colorless ===
+
+This trinket does not come in multiple colors.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|'''<big>[[Phantom hand]]</big>'''
+|{{Colorize trinket|Phantom hand|ignore}}
+
+
+[[Category:Subpages:Trinkets]]

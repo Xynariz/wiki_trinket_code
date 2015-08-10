@@ -1,0 +1,28 @@
+-->Stripe/Body	Red	Tan	Wht	Blk	Gry	Yllw	Pnk	Vilt	Prpl	Nvy	Blu	Aq	Lm	Grn	Or	Mrn	Brn	Gld	Rse	Lav	Mnt	LtGr	Mgnt	Lmn	Pch	LtBl	Prsmn
+Red (body)	3		1								1					1			1								
+Tan					1	2										1											
+White			1									1															
+Black									1						2				1								
+Grey		2	1																								
+Yellow			1	2								1			1												
+Pink																											
+Violet												2															
+Purple									3		1									1							
+Navy										1																	
+Blue	2									1	2							1									
+Aqua			1					1																			
+Lime			1										3	1													
+Green													1	2													
+Orange				1		1	1	2					1														
+Maroon			1														1										
+Brown																1											
+Gold																											
+Rose	1		2	2																							
+Lavender			1																	1							
+Mint			1											4							1						
+Light Green				2																							
+Magenta																											
+Lemon																											
+Peach																	1								1		
+Light Blue			2																								
+Persimmon															1												

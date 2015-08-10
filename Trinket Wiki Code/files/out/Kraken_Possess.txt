@@ -1,0 +1,237 @@
+This is a sub-page of [[Jamesh]]'s trinket collections.  For the main page, please click [[Jamesh/Trinkets|here]].
+
+This is a list of trinkets Jamesh has collected.  Any trinkets that are '''''not''''' shown here are trinkets Jamesh is missing and will buy.
+
+=== Kraken palette ===
+
+These trinkets are available from the [[Kraken]] in the colors of the [[Trinket_palette#Kraken|kraken palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Aqua
+|Lime
+|Green
+|Lt. Green
+|Inky
+|Sea Grn.
+
+|-
+|'''<big>[[Kraken totem]]</big>'''
+|{{Colorize trinket|Kraken totem|black}}
+|{{Colorize trinket|Kraken totem|grey}}
+|{{Colorize trinket|Kraken totem|violet}}
+|{{Colorize trinket|Kraken totem|purple}}
+|{{Colorize trinket|Kraken totem|navy}}
+|{{Colorize trinket|Kraken totem|blue}}
+|{{Colorize trinket|Kraken totem|aqua}}
+|{{Colorize trinket|Kraken totem|lime}}
+|{{Colorize trinket|Kraken totem|green}}
+|{{Colorize trinket|Kraken totem|light green}}
+|{{Colorize trinket|Kraken totem|inky}}
+|{{Colorize trinket|Kraken totem|sea green}}
+|-
+|'''<big>[[Harpoon tip]]</big>'''
+|{{Colorize trinket|Harpoon tip|black}}
+|{{Colorize trinket|Harpoon tip|grey}}
+|{{Colorize trinket|Harpoon tip|violet}}
+|{{Colorize trinket|Harpoon tip|purple}}
+|{{Colorize trinket|Harpoon tip|navy}}
+|{{Colorize trinket|Harpoon tip|blue}}
+|{{Colorize trinket|Harpoon tip|aqua}}
+|{{Colorize trinket|Harpoon tip|lime}}
+|{{Colorize trinket|Harpoon tip|green}}
+|{{Colorize trinket|Harpoon tip|light green}}
+|{{Colorize trinket|Harpoon tip|inky}}
+|{{Colorize trinket|Harpoon tip|sea green}}
+|-
+|'''<big>[[Ink vial]]</big>'''
+|{{Colorize trinket|Ink vial|black}}
+|{{Colorize trinket|Ink vial|grey}}
+|{{Colorize trinket|Ink vial|violet}}
+|{{Colorize trinket|Ink vial|purple}}
+|{{Colorize trinket|Ink vial|navy}}
+|{{Colorize trinket|Ink vial|blue}}
+|{{Colorize trinket|Ink vial|aqua}}
+|{{Colorize trinket|Ink vial|lime}}
+|{{Colorize trinket|Ink vial|green}}
+|{{Colorize trinket|Ink vial|light green}}
+|{{Colorize trinket|Ink vial|inky}}
+|{{Colorize trinket|Ink vial|sea green}}
+|-
+|'''<big>[[Kraken tooth]]</big>'''
+|{{Colorize trinket|Kraken tooth|black}}
+|{{Colorize trinket|Kraken tooth|grey}}
+|{{Colorize trinket|Kraken tooth|violet}}
+|{{Colorize trinket|Kraken tooth|purple}}
+|{{Colorize trinket|Kraken tooth|navy}}
+|{{Colorize trinket|Kraken tooth|blue}}
+|{{Colorize trinket|Kraken tooth|aqua}}
+|{{Colorize trinket|Kraken tooth|lime}}
+|{{Colorize trinket|Kraken tooth|green}}
+|{{Colorize trinket|Kraken tooth|light green}}
+|{{Colorize trinket|Kraken tooth|inky}}
+|{{Colorize trinket|Kraken tooth|sea green}}
+|-
+|'''<big>[[Kraken eye jewel]]</big>'''
+|{{Colorize trinket|Kraken eye jewel|black}}
+|{{Colorize trinket|Kraken eye jewel|grey}}
+|{{Colorize trinket|Kraken eye jewel|violet}}
+|{{Colorize trinket|Kraken eye jewel|purple}}
+|{{Colorize trinket|Kraken eye jewel|navy}}
+|{{Colorize trinket|Kraken eye jewel|blue}}
+|{{Colorize trinket|Kraken eye jewel|aqua}}
+|{{Colorize trinket|Kraken eye jewel|lime}}
+|{{Colorize trinket|Kraken eye jewel|green}}
+|{{Colorize trinket|Kraken eye jewel|light green}}
+|{{Colorize trinket|Kraken eye jewel|inky}}
+|{{Colorize trinket|Kraken eye jewel|sea green}}
+|-
+|'''<big>[[Kraken medallion]]</big>'''
+|{{Colorize trinket|Kraken medallion|black}}
+|{{Colorize trinket|Kraken medallion|grey}}
+|{{Colorize trinket|Kraken medallion|violet}}
+|{{Colorize trinket|Kraken medallion|purple}}
+|{{Colorize trinket|Kraken medallion|navy}}
+|{{Colorize trinket|Kraken medallion|blue}}
+|{{Colorize trinket|Kraken medallion|aqua}}
+|{{Colorize trinket|Kraken medallion|lime}}
+|{{Colorize trinket|Kraken medallion|green}}
+|{{Colorize trinket|Kraken medallion|light green}}
+|{{Colorize trinket|Kraken medallion|inky}}
+|{{Colorize trinket|Kraken medallion|sea green}}
+|-
+|'''<big>[[Tentacle nubbin]]</big>'''
+|{{Colorize trinket|Tentacle nubbin|black}}
+|{{Colorize trinket|Tentacle nubbin|grey}}
+|{{Colorize trinket|Tentacle nubbin|violet}}
+|{{Colorize trinket|Tentacle nubbin|purple}}
+|{{Colorize trinket|Tentacle nubbin|navy}}
+|{{Colorize trinket|Tentacle nubbin|blue}}
+|{{Colorize trinket|Tentacle nubbin|aqua}}
+|{{Colorize trinket|Tentacle nubbin|lime}}
+|{{Colorize trinket|Tentacle nubbin|green}}
+|{{Colorize trinket|Tentacle nubbin|light green}}
+|{{Colorize trinket|Tentacle nubbin|inky}}
+|{{Colorize trinket|Tentacle nubbin|sea green}}
+|-
+|'''<big>[[Slime]]</big>'''
+|{{Colorize trinket|Slime|black}}
+|{{Colorize trinket|Slime|grey}}
+|{{Colorize trinket|Slime|violet}}
+|{{Colorize trinket|Slime|purple}}
+|{{Colorize trinket|Slime|navy}}
+|{{Colorize trinket|Slime|blue}}
+|{{Colorize trinket|Slime|aqua}}
+|{{Colorize trinket|Slime|lime}}
+|{{Colorize trinket|Slime|green}}
+|{{Colorize trinket|Slime|light green}}
+|{{Colorize trinket|Slime|inky}}
+|{{Colorize trinket|Slime|sea green}}
+|-
+|'''<big>[[Inky skull]]</big>'''
+|{{Colorize trinket|Inky skull|black}}
+|{{Colorize trinket|Inky skull|grey}}
+|{{Colorize trinket|Inky skull|violet}}
+|{{Colorize trinket|Inky skull|purple}}
+|{{Colorize trinket|Inky skull|navy}}
+|{{Colorize trinket|Inky skull|blue}}
+|{{Colorize trinket|Inky skull|aqua}}
+|{{Colorize trinket|Inky skull|lime}}
+|{{Colorize trinket|Inky skull|green}}
+|{{Colorize trinket|Inky skull|light green}}
+|{{Colorize trinket|Inky skull|inky}}
+|{{Colorize trinket|Inky skull|sea green}}
+|-
+|'''<big>[[Inky bone]]</big>'''
+|{{Colorize trinket|Inky bone|black}}
+|{{Colorize trinket|Inky bone|grey}}
+|{{Colorize trinket|Inky bone|violet}}
+|{{Colorize trinket|Inky bone|purple}}
+|{{Colorize trinket|Inky bone|navy}}
+|{{Colorize trinket|Inky bone|blue}}
+|{{Colorize trinket|Inky bone|aqua}}
+|{{Colorize trinket|Inky bone|lime}}
+|{{Colorize trinket|Inky bone|green}}
+|{{Colorize trinket|Inky bone|light green}}
+|{{Colorize trinket|Inky bone|inky}}
+|{{Colorize trinket|Inky bone|sea green}}
+|-
+|
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Aqua
+|Lime
+|Green
+|Lt. Green
+|Inky
+|Sea Grn.
+
+|-
+|'''<big>[[Broken oar]]</big>'''
+|{{Colorize trinket|Broken oar|black}}
+|{{Colorize trinket|Broken oar|grey}}
+|{{Colorize trinket|Broken oar|violet}}
+|{{Colorize trinket|Broken oar|purple}}
+|{{Colorize trinket|Broken oar|navy}}
+|{{Colorize trinket|Broken oar|blue}}
+|{{Colorize trinket|Broken oar|aqua}}
+|{{Colorize trinket|Broken oar|lime}}
+|{{Colorize trinket|Broken oar|green}}
+|{{Colorize trinket|Broken oar|light green}}
+|{{Colorize trinket|Broken oar|inky}}
+|{{Colorize trinket|Broken oar|sea green}}
+|-
+|'''<big>[[Kraken doll]]</big>'''
+|{{Colorize trinket|Kraken doll|black}}
+|{{Colorize trinket|Kraken doll|grey}}
+|{{Colorize trinket|Kraken doll|violet}}
+|{{Colorize trinket|Kraken doll|purple}}
+|{{Colorize trinket|Kraken doll|navy}}
+|{{Colorize trinket|Kraken doll|blue}}
+|{{Colorize trinket|Kraken doll|aqua}}
+|{{Colorize trinket|Kraken doll|lime}}
+|{{Colorize trinket|Kraken doll|green}}
+|{{Colorize trinket|Kraken doll|light green}}
+|{{Colorize trinket|Kraken doll|inky}}
+|{{Colorize trinket|Kraken doll|sea green}}
+|}
+
+=== Colorless ===
+
+These trinkets do not come in multiple colors.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|'''<big>[[Kraken coin]]</big>'''
+|{{Colorize trinket|Kraken coin|ignore}}
+|-
+|'''<big>[[Kraken egglet]]</big>'''
+|{{Colorize trinket|Kraken egglet|ignore}}
+|-
+|'''<big>[[Kraken scale]]</big>'''
+|{{Colorize trinket|Kraken scale|ignore}}
+|-
+|'''<big>[[Inky weeds]]</big>'''
+|{{Colorize trinket|Inky weeds|ignore}}
+|-
+|'''<big>[[Tentacle spikelet]]</big>'''
+|{{Colorize trinket|Tentacle spikelet|ignore}}
+|-
+|'''<big>[[Inky Cephalopod doll]]</big>'''
+|{{Colorize trinket|Inky Cephalopod doll|ignore}}
+
+
+[[Category:Subpages:Trinkets]]

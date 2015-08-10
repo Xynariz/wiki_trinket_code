@@ -1,0 +1,17 @@
+8	Plum only
+3	Plum set (white, pink, blue, aqua, lime, lavender, lemon, peach, plum, sea green)
+1	Sunglasses (Plum only + SG)
+4	Chocolate only
+2	Chocolate set (white, yellow, blue, aqua, lime, green, light green, magenta, persimmon, sea green)
+1	Abacus (white primary/SG secondary; chocolate primary/chocolate set secondary)
+4	Wine only
+4	Ice blue set (white, grey, navy, blue, aqua, mint, light blue, ice blue)
+4	SpGr only
+1	Wooden box (SpGr, Banana, Wine, Chocolate)
+1	Cloth bag (ice blue primary/ice blue set secondary; spring green primary/spring green set secondary; banana primary/banana set secondary; wine primary/wine set secondary; chocolate primary/chocolate set secondary)
+1	Cupcake (ice blue primary/ice blue set secondary; spring green primary/spring green set secondary; banana primary/banana set secondary; sea green primary/white secondary)
+0	Spring green set (white, grey, lime, green, mint, light green)
+0	Banana set (red, white, grey, green, orange, mint, light green)
+0	Wine set (white, black, grey, yellow, aqua, green, maroon, mint, light green, magenta, lemon, sea green)
+1	Booched colors(wine/plum cloth bag)
+1	Ice blue only

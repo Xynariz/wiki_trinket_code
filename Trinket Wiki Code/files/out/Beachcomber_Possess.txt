@@ -1,0 +1,273 @@
+This is a sub-page of [[Jamesh]]'s trinket collections.  For the main page, please click [[Jamesh/Trinkets|here]].
+
+This is a list of trinkets Jamesh has collected.  Any trinkets that are '''''not''''' shown here are trinkets Jamesh is missing and will buy.
+
+=== Starfish ===
+
+The Starfish trinket is available from [[Atlantis]], the [[Cursed Isles]], and the [[Haunted Seas]] in all of the [[Trinket_palette#Cloth-based|cloth colors]] except inky and night blue.  It has also been available from promotions in all the [[Color#Awarded_in_promotions|promotional colors]].  The indigo starfish was only available from tournaments around the time that the Cursed Isles were initially released.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|- valign="center"
+! rowspan=3 | '''<big>[[Starfish]]</big>'''
+|{{Colorize trinket|Starfish|red}}Red
+|{{Colorize trinket|Starfish|tan}}Tan
+|{{Colorize trinket|Starfish|white}}White
+|{{Colorize trinket|Starfish|black}}Black
+|{{Colorize trinket|Starfish|grey}}Grey
+|{{Colorize trinket|Starfish|yellow}}Yellow
+|{{Colorize trinket|Starfish|pink}}Pink
+|{{Colorize trinket|Starfish|violet}}Violet
+|{{Colorize trinket|Starfish|purple}}Purple
+|{{Colorize trinket|Starfish|navy}}Navy
+|{{Colorize trinket|Starfish|blue}}Blue
+|{{Colorize trinket|Starfish|aqua}}Aqua
+|-
+|{{Colorize trinket|Starfish|lime}}Lime
+|{{Colorize trinket|Starfish|green}}Green
+|{{Colorize trinket|Starfish|orange}}Orange
+|{{Colorize trinket|Starfish|maroon}}Maroon
+|{{Colorize trinket|Starfish|brown}}Brown
+|{{Colorize trinket|Starfish|gold}}Gold
+|[[Image:Item_box_unequip.png]]<br/>Atlant.
+|{{Colorize trinket|Starfish|rose}}Rose
+|{{Colorize trinket|Starfish|lavender}}Lavender
+|{{Colorize trinket|Starfish|mint}}Mint
+|{{Colorize trinket|Starfish|light green}}Lt. Green
+|{{Colorize trinket|Starfish|magenta}}Magenta
+|-
+|[[Image:Item_box_unequip.png]]<br/>Indigo
+|{{Colorize trinket|Starfish|lemon}}Lemon
+|{{Colorize trinket|Starfish|peach}}Peach
+|{{Colorize trinket|Starfish|light blue}}Lt. Blue
+|{{Colorize trinket|Starfish|persimmon}}Persim.
+|[[Image:Item_box_unequip.png]]<br/>Ryl. Blue
+|{{Colorize trinket|Starfish|ice blue}}Ice Blue
+|{{Colorize trinket|Starfish|spring green}}Spr. Grn.
+|{{Colorize trinket|Starfish|banana}}Banana
+|{{Colorize trinket|Starfish|wine}}Wine
+|{{Colorize trinket|Starfish|plum}}Plum
+|{{Colorize trinket|Starfish|chocolate}}Choco.
+|-
+|}
+
+=== Beachcomber palette ===
+
+These Beachcomber trinkets are available from [[Atlantis]], the [[Cursed Isles]], the [[Haunted Seas]], and the [[Kraken]] in all of the [[Trinket_palette#Cloth-based|cloth colors]] except indigo, inky, and night blue.  They have also been available from promotions in all the [[Color#Awarded_in_promotions|promotional colors]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|- valign="center"
+! rowspan=3 | '''<big>[[Knobby coral]]</big>'''
+|{{Colorize trinket|Knobby coral|red}}Red
+|{{Colorize trinket|Knobby coral|tan}}Tan
+|{{Colorize trinket|Knobby coral|white}}White
+|{{Colorize trinket|Knobby coral|black}}Black
+|{{Colorize trinket|Knobby coral|grey}}Grey
+|{{Colorize trinket|Knobby coral|yellow}}Yellow
+|{{Colorize trinket|Knobby coral|pink}}Pink
+|{{Colorize trinket|Knobby coral|violet}}Violet
+|{{Colorize trinket|Knobby coral|purple}}Purple
+|{{Colorize trinket|Knobby coral|navy}}Navy
+|{{Colorize trinket|Knobby coral|blue}}Blue
+|{{Colorize trinket|Knobby coral|aqua}}Aqua
+|-
+|{{Colorize trinket|Knobby coral|lime}}Lime
+|{{Colorize trinket|Knobby coral|green}}Green
+|{{Colorize trinket|Knobby coral|orange}}Orange
+|{{Colorize trinket|Knobby coral|maroon}}Maroon
+|{{Colorize trinket|Knobby coral|brown}}Brown
+|{{Colorize trinket|Knobby coral|gold}}Gold
+|[[Image:Item_box_unequip.png]]<br/>Atlant.
+|{{Colorize trinket|Knobby coral|rose}}Rose
+|{{Colorize trinket|Knobby coral|lavender}}Lavender
+|{{Colorize trinket|Knobby coral|mint}}Mint
+|{{Colorize trinket|Knobby coral|light green}}Lt. Green
+|{{Colorize trinket|Knobby coral|magenta}}Magenta
+|-
+|{{Colorize trinket|Knobby coral|lemon}}Lemon
+|{{Colorize trinket|Knobby coral|peach}}Peach
+|{{Colorize trinket|Knobby coral|light blue}}Lt. Blue
+|{{Colorize trinket|Knobby coral|persimmon}}Persim.
+|[[Image:Item_box_unequip.png]]<br/>Ryl. Blue
+|{{Colorize trinket|Knobby coral|ice blue}}Ice Blue
+|{{Colorize trinket|Knobby coral|spring green}}Spr. Grn.
+|{{Colorize trinket|Knobby coral|banana}}Banana
+|{{Colorize trinket|Knobby coral|wine}}Wine
+|{{Colorize trinket|Knobby coral|plum}}Plum
+|{{Colorize trinket|Knobby coral|chocolate}}Choco.
+|-
+| colspan=13 |
+----
+|- valign="center"
+! rowspan=3 | '''<big>[[Spiky coral]]</big>'''
+|{{Colorize trinket|Spiky coral|red}}Red
+|{{Colorize trinket|Spiky coral|tan}}Tan
+|{{Colorize trinket|Spiky coral|white}}White
+|{{Colorize trinket|Spiky coral|black}}Black
+|{{Colorize trinket|Spiky coral|grey}}Grey
+|{{Colorize trinket|Spiky coral|yellow}}Yellow
+|{{Colorize trinket|Spiky coral|pink}}Pink
+|{{Colorize trinket|Spiky coral|violet}}Violet
+|{{Colorize trinket|Spiky coral|purple}}Purple
+|{{Colorize trinket|Spiky coral|navy}}Navy
+|{{Colorize trinket|Spiky coral|blue}}Blue
+|{{Colorize trinket|Spiky coral|aqua}}Aqua
+|-
+|{{Colorize trinket|Spiky coral|lime}}Lime
+|{{Colorize trinket|Spiky coral|green}}Green
+|{{Colorize trinket|Spiky coral|orange}}Orange
+|{{Colorize trinket|Spiky coral|maroon}}Maroon
+|{{Colorize trinket|Spiky coral|brown}}Brown
+|{{Colorize trinket|Spiky coral|gold}}Gold
+|[[Image:Item_box_unequip.png]]<br/>Atlant.
+|{{Colorize trinket|Spiky coral|rose}}Rose
+|{{Colorize trinket|Spiky coral|lavender}}Lavender
+|{{Colorize trinket|Spiky coral|mint}}Mint
+|{{Colorize trinket|Spiky coral|light green}}Lt. Green
+|{{Colorize trinket|Spiky coral|magenta}}Magenta
+|-
+|{{Colorize trinket|Spiky coral|lemon}}Lemon
+|{{Colorize trinket|Spiky coral|peach}}Peach
+|{{Colorize trinket|Spiky coral|light blue}}Lt. Blue
+|{{Colorize trinket|Spiky coral|persimmon}}Persim.
+|[[Image:Item_box_unequip.png]]<br/>Ryl. Blue
+|{{Colorize trinket|Spiky coral|ice blue}}Ice Blue
+|{{Colorize trinket|Spiky coral|spring green}}Spr. Grn.
+|{{Colorize trinket|Spiky coral|banana}}Banana
+|{{Colorize trinket|Spiky coral|wine}}Wine
+|{{Colorize trinket|Spiky coral|plum}}Plum
+|{{Colorize trinket|Spiky coral|chocolate}}Choco.
+|-
+| colspan=13 |
+----
+|- valign="center"
+! rowspan=3 | '''<big>[[Clam shell]]</big>'''
+|{{Colorize trinket|Clam shell|red}}Red
+|{{Colorize trinket|Clam shell|tan}}Tan
+|{{Colorize trinket|Clam shell|white}}White
+|{{Colorize trinket|Clam shell|black}}Black
+|{{Colorize trinket|Clam shell|grey}}Grey
+|{{Colorize trinket|Clam shell|yellow}}Yellow
+|{{Colorize trinket|Clam shell|pink}}Pink
+|{{Colorize trinket|Clam shell|violet}}Violet
+|{{Colorize trinket|Clam shell|purple}}Purple
+|{{Colorize trinket|Clam shell|navy}}Navy
+|{{Colorize trinket|Clam shell|blue}}Blue
+|{{Colorize trinket|Clam shell|aqua}}Aqua
+|-
+|{{Colorize trinket|Clam shell|lime}}Lime
+|{{Colorize trinket|Clam shell|green}}Green
+|{{Colorize trinket|Clam shell|orange}}Orange
+|{{Colorize trinket|Clam shell|maroon}}Maroon
+|{{Colorize trinket|Clam shell|brown}}Brown
+|{{Colorize trinket|Clam shell|gold}}Gold
+|[[Image:Item_box_unequip.png]]<br/>Atlant.
+|{{Colorize trinket|Clam shell|rose}}Rose
+|{{Colorize trinket|Clam shell|lavender}}Lavender
+|{{Colorize trinket|Clam shell|mint}}Mint
+|{{Colorize trinket|Clam shell|light green}}Lt. Green
+|{{Colorize trinket|Clam shell|magenta}}Magenta
+|-
+|{{Colorize trinket|Clam shell|lemon}}Lemon
+|{{Colorize trinket|Clam shell|peach}}Peach
+|{{Colorize trinket|Clam shell|light blue}}Lt. Blue
+|{{Colorize trinket|Clam shell|persimmon}}Persim.
+|[[Image:Item_box_unequip.png]]<br/>Ryl. Blue
+|{{Colorize trinket|Clam shell|ice blue}}Ice Blue
+|{{Colorize trinket|Clam shell|spring green}}Spr. Grn.
+|{{Colorize trinket|Clam shell|banana}}Banana
+|{{Colorize trinket|Clam shell|wine}}Wine
+|{{Colorize trinket|Clam shell|plum}}Plum
+|{{Colorize trinket|Clam shell|chocolate}}Choco.
+|-
+| colspan=13 |
+----
+|- valign="center"
+! rowspan=3 | '''<big>[[Nautilus shell]]</big>'''
+|{{Colorize trinket|Nautilus shell|red}}Red
+|{{Colorize trinket|Nautilus shell|tan}}Tan
+|{{Colorize trinket|Nautilus shell|white}}White
+|{{Colorize trinket|Nautilus shell|black}}Black
+|{{Colorize trinket|Nautilus shell|grey}}Grey
+|{{Colorize trinket|Nautilus shell|yellow}}Yellow
+|{{Colorize trinket|Nautilus shell|pink}}Pink
+|{{Colorize trinket|Nautilus shell|violet}}Violet
+|{{Colorize trinket|Nautilus shell|purple}}Purple
+|{{Colorize trinket|Nautilus shell|navy}}Navy
+|{{Colorize trinket|Nautilus shell|blue}}Blue
+|{{Colorize trinket|Nautilus shell|aqua}}Aqua
+|-
+|{{Colorize trinket|Nautilus shell|lime}}Lime
+|{{Colorize trinket|Nautilus shell|green}}Green
+|{{Colorize trinket|Nautilus shell|orange}}Orange
+|{{Colorize trinket|Nautilus shell|maroon}}Maroon
+|{{Colorize trinket|Nautilus shell|brown}}Brown
+|{{Colorize trinket|Nautilus shell|gold}}Gold
+|[[Image:Item_box_unequip.png]]<br/>Atlant.
+|{{Colorize trinket|Nautilus shell|rose}}Rose
+|{{Colorize trinket|Nautilus shell|lavender}}Lavender
+|{{Colorize trinket|Nautilus shell|mint}}Mint
+|{{Colorize trinket|Nautilus shell|light green}}Lt. Green
+|{{Colorize trinket|Nautilus shell|magenta}}Magenta
+|-
+|{{Colorize trinket|Nautilus shell|lemon}}Lemon
+|{{Colorize trinket|Nautilus shell|peach}}Peach
+|{{Colorize trinket|Nautilus shell|light blue}}Lt. Blue
+|{{Colorize trinket|Nautilus shell|persimmon}}Persim.
+|[[Image:Item_box_unequip.png]]<br/>Ryl. Blue
+|{{Colorize trinket|Nautilus shell|ice blue}}Ice Blue
+|{{Colorize trinket|Nautilus shell|spring green}}Spr. Grn.
+|{{Colorize trinket|Nautilus shell|banana}}Banana
+|{{Colorize trinket|Nautilus shell|wine}}Wine
+|{{Colorize trinket|Nautilus shell|plum}}Plum
+|{{Colorize trinket|Nautilus shell|chocolate}}Choco.
+|-
+|}
+
+=== Conch shell ===
+
+The Conch shell trinket is available in many of the [[Trinket_palette#Cloth-based|cloth colors]].  Specifically, it is not available in Atlantean, Mint, Magenta, Indigo, Peach, Light blue, Inky, Persimmon, or Night Blue.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|- valign="center"
+! rowspan=2 | '''<big>[[Conch shell]]</big>'''
+|[[Image:Item_box_unequip.png]]<br/>Red
+|[[Image:Item_box_unequip.png]]<br/>Tan
+|{{Colorize trinket|Conch shell|white}}White
+|[[Image:Item_box_unequip.png]]<br/>Black
+|[[Image:Item_box_unequip.png]]<br/>Grey
+|[[Image:Item_box_unequip.png]]<br/>Yellow
+|{{Colorize trinket|Conch shell|pink}}Pink
+|[[Image:Item_box_unequip.png]]<br/>Violet
+|{{Colorize trinket|Conch shell|purple}}Purple
+|[[Image:Item_box_unequip.png]]<br/>Navy
+|[[Image:Item_box_unequip.png]]<br/>Blue
+|-
+|[[Image:Item_box_unequip.png]]<br/>Aqua
+|{{Colorize trinket|Conch shell|lime}}Lime
+|[[Image:Item_box_unequip.png]]<br/>Green
+|[[Image:Item_box_unequip.png]]<br/>Orange
+|[[Image:Item_box_unequip.png]]<br/>Maroon
+|[[Image:Item_box_unequip.png]]<br/>Brown
+|[[Image:Item_box_unequip.png]]<br/>Gold
+|[[Image:Item_box_unequip.png]]<br/>Rose
+|[[Image:Item_box_unequip.png]]<br/>Lavender
+|[[Image:Item_box_unequip.png]]<br/>Lt. Green
+|[[Image:Item_box_unequip.png]]<br/>Lemon
+|-
+|}
+
+=== Colorless ===
+
+This trinket does not come in multiple colors.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|'''<big>[[Sand dollar]]</big>'''
+|{{Colorize trinket|Sand dollar|ignore}}
+
+
+[[Category:Subpages:Trinkets]]

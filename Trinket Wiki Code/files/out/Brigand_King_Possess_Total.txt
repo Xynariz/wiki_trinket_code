@@ -1,0 +1,556 @@
+This is a sub-page of [[Jamesh]]'s trinket collections.  For the main page, please click [[Jamesh/Trinkets|here]].
+
+This is a list of all [[Brigand King]] trinkets that Jamesh has collected, whether inscribed to him or to another pirate.  Any trinkets that are '''''not''''' shown here are trinkets Jamesh is missing and will buy.
+
+For a list of Brigand King trinkets inscribed to Jamesh, please see [[Jamesh/Trinkets/BK|this page]].
+
+=== Barnabas the Pale ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Barnabas the Pale]] in a brawl.  They are available in the colors of the [[Trinket_palette#Basic_colors|Basic Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+
+|-
+|'''<big>[[Ectoplasm]]</big>'''
+|{{Colorize trinket|Ectoplasm|red}}
+|{{Colorize trinket|Ectoplasm|violet}}
+|{{Colorize trinket|Ectoplasm|blue}}
+|{{Colorize trinket|Ectoplasm|aqua}}
+|{{Colorize trinket|Ectoplasm|lime}}
+|{{Colorize trinket|Ectoplasm|orange}}
+|-
+|'''<big>[[Will o' wisp]]</big>'''
+|{{Colorize trinket|Will o' wisp|red}}
+|{{Colorize trinket|Will o' wisp|violet}}
+|{{Colorize trinket|Will o' wisp|blue}}
+|{{Colorize trinket|Will o' wisp|aqua}}
+|{{Colorize trinket|Will o' wisp|lime}}
+|{{Colorize trinket|Will o' wisp|orange}}
+|-
+|'''<big>[[Cursed idol]]</big>'''
+|{{Colorize trinket|Cursed idol|red}}
+|{{Colorize trinket|Cursed idol|violet}}
+|{{Colorize trinket|Cursed idol|blue}}
+|{{Colorize trinket|Cursed idol|aqua}}
+|{{Colorize trinket|Cursed idol|lime}}
+|{{Colorize trinket|Cursed idol|orange}}
+|-
+|'''<big>[[Music box of lamentations]]</big>'''
+|{{Colorize trinket|Music box of lamentations|red}}
+|{{Colorize trinket|Music box of lamentations|violet}}
+|{{Colorize trinket|Music box of lamentations|blue}}
+|{{Colorize trinket|Music box of lamentations|aqua}}
+|{{Colorize trinket|Music box of lamentations|lime}}
+|{{Colorize trinket|Music box of lamentations|orange}}
+|-
+|'''<big>[[Spectral chain]]</big>'''
+|{{Colorize trinket|Spectral chain|red}}
+|{{Colorize trinket|Spectral chain|violet}}
+|{{Colorize trinket|Spectral chain|blue}}
+|{{Colorize trinket|Spectral chain|aqua}}
+|{{Colorize trinket|Spectral chain|lime}}
+|{{Colorize trinket|Spectral chain|orange}}
+|-
+|'''<big>[[Key to the Nether-Sea]]</big>'''
+|{{Colorize trinket|Key to the Nether-Sea|red}}
+|{{Colorize trinket|Key to the Nether-Sea|violet}}
+|{{Colorize trinket|Key to the Nether-Sea|blue}}
+|{{Colorize trinket|Key to the Nether-Sea|aqua}}
+|{{Colorize trinket|Key to the Nether-Sea|lime}}
+|{{Colorize trinket|Key to the Nether-Sea|orange}}
+|}
+
+=== The Widow Queen ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[The Widow Queen]] in a brawl.  They are available in the colors of the [[Trinket_palette#Basic_colors|Basic Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+
+|-
+|'''<big>[[Silk handkerchief]]</big>'''
+|{{Colorize trinket|Silk handkerchief|red}}
+|{{Colorize trinket|Silk handkerchief|violet}}
+|{{Colorize trinket|Silk handkerchief|blue}}
+|{{Colorize trinket|Silk handkerchief|aqua}}
+|{{Colorize trinket|Silk handkerchief|lime}}
+|{{Colorize trinket|Silk handkerchief|orange}}
+|-
+|'''<big>[[Jeweled brooch]]</big>'''
+|{{Colorize trinket|Jeweled brooch|red}}
+|{{Colorize trinket|Jeweled brooch|violet}}
+|{{Colorize trinket|Jeweled brooch|blue}}
+|{{Colorize trinket|Jeweled brooch|aqua}}
+|{{Colorize trinket|Jeweled brooch|lime}}
+|{{Colorize trinket|Jeweled brooch|orange}}
+|-
+|'''<big>[[Rose goddess perfume]]</big>'''
+|{{Colorize trinket|Rose goddess perfume|red}}
+|{{Colorize trinket|Rose goddess perfume|violet}}
+|{{Colorize trinket|Rose goddess perfume|blue}}
+|{{Colorize trinket|Rose goddess perfume|aqua}}
+|{{Colorize trinket|Rose goddess perfume|lime}}
+|{{Colorize trinket|Rose goddess perfume|orange}}
+|-
+|'''<big>[[Arsenic ring]]</big>'''
+|{{Colorize trinket|Arsenic ring|red}}
+|{{Colorize trinket|Arsenic ring|violet}}
+|{{Colorize trinket|Arsenic ring|blue}}
+|{{Colorize trinket|Arsenic ring|aqua}}
+|{{Colorize trinket|Arsenic ring|lime}}
+|{{Colorize trinket|Arsenic ring|orange}}
+|-
+|'''<big>[[Ruffled garter]]</big>'''
+|{{Colorize trinket|Ruffled garter|red}}
+|{{Colorize trinket|Ruffled garter|violet}}
+|{{Colorize trinket|Ruffled garter|blue}}
+|{{Colorize trinket|Ruffled garter|aqua}}
+|{{Colorize trinket|Ruffled garter|lime}}
+|{{Colorize trinket|Ruffled garter|orange}}
+|-
+|'''<big>[[Concealed blade]]</big>'''
+|{{Colorize trinket|Concealed blade|red}}
+|{{Colorize trinket|Concealed blade|violet}}
+|{{Colorize trinket|Concealed blade|blue}}
+|{{Colorize trinket|Concealed blade|aqua}}
+|{{Colorize trinket|Concealed blade|lime}}
+|{{Colorize trinket|Concealed blade|orange}}
+|}
+
+=== Brynhild Skullsplitter ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Brynhild Skullsplitter]] in a brawl.  They are available in the colors of the [[Trinket_palette#Extended|Extended Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+|Yellow
+
+|-
+|'''<big>[[Mjolnir amulet]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Mjolnir amulet|violet}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Mjolnir amulet|aqua}}
+|{{Colorize trinket|Mjolnir amulet|lime}}
+|{{Colorize trinket|Mjolnir amulet|orange}}
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Runestone]]</big>'''
+|{{Colorize trinket|Runestone|red}}
+|{{Colorize trinket|Runestone|violet}}
+|{{Colorize trinket|Runestone|blue}}
+|{{Colorize trinket|Runestone|aqua}}
+|{{Colorize trinket|Runestone|lime}}
+|{{Colorize trinket|Runestone|orange}}
+|{{Colorize trinket|Runestone|yellow}}
+|-
+|'''<big>[[Engraved wristband]]</big>'''
+|{{Colorize trinket|Engraved wristband|red}}
+|{{Colorize trinket|Engraved wristband|violet}}
+|{{Colorize trinket|Engraved wristband|blue}}
+|{{Colorize trinket|Engraved wristband|aqua}}
+|{{Colorize trinket|Engraved wristband|lime}}
+|{{Colorize trinket|Engraved wristband|orange}}
+|{{Colorize trinket|Engraved wristband|yellow}}
+|-
+|'''<big>[[Solar compass]]</big>'''
+|{{Colorize trinket|Solar compass|red}}
+|{{Colorize trinket|Solar compass|violet}}
+|{{Colorize trinket|Solar compass|blue}}
+|{{Colorize trinket|Solar compass|aqua}}
+|{{Colorize trinket|Solar compass|lime}}
+|{{Colorize trinket|Solar compass|orange}}
+|{{Colorize trinket|Solar compass|yellow}}
+|-
+|'''<big>[[Hoard brooch]]</big>'''
+|{{Colorize trinket|Hoard brooch|red}}
+|{{Colorize trinket|Hoard brooch|violet}}
+|{{Colorize trinket|Hoard brooch|blue}}
+|{{Colorize trinket|Hoard brooch|aqua}}
+|{{Colorize trinket|Hoard brooch|lime}}
+|{{Colorize trinket|Hoard brooch|orange}}
+|{{Colorize trinket|Hoard brooch|yellow}}
+|-
+|'''<big>[[Wyrm scale]]</big>'''
+|{{Colorize trinket|Wyrm scale|red}}
+|{{Colorize trinket|Wyrm scale|violet}}
+|{{Colorize trinket|Wyrm scale|blue}}
+|{{Colorize trinket|Wyrm scale|aqua}}
+|{{Colorize trinket|Wyrm scale|lime}}
+|{{Colorize trinket|Wyrm scale|orange}}
+|{{Colorize trinket|Wyrm scale|yellow}}
+|}
+
+=== Azarbad the Great ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Azarbad the Great]] in a brawl.  They are available in the colors of the [[Trinket_palette#Extended|Extended Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+|Yellow
+
+|-
+|'''<big>[[Exotic confection]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Exotic confection|violet}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Exotic confection|aqua}}
+|{{Colorize trinket|Exotic confection|lime}}
+|{{Colorize trinket|Exotic confection|orange}}
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Ornate earring]]</big>'''
+|{{Colorize trinket|Ornate earring|red}}
+|{{Colorize trinket|Ornate earring|violet}}
+|{{Colorize trinket|Ornate earring|blue}}
+|{{Colorize trinket|Ornate earring|aqua}}
+|{{Colorize trinket|Ornate earring|lime}}
+|{{Colorize trinket|Ornate earring|orange}}
+|{{Colorize trinket|Ornate earring|yellow}}
+|-
+|'''<big>[[Jeweled dagger]]</big>'''
+|{{Colorize trinket|Jeweled dagger|red}}
+|{{Colorize trinket|Jeweled dagger|violet}}
+|{{Colorize trinket|Jeweled dagger|blue}}
+|{{Colorize trinket|Jeweled dagger|aqua}}
+|{{Colorize trinket|Jeweled dagger|lime}}
+|{{Colorize trinket|Jeweled dagger|orange}}
+|{{Colorize trinket|Jeweled dagger|yellow}}
+|-
+|'''<big>[[Heart of fire]]</big>'''
+|{{Colorize trinket|Heart of fire|red}}
+|{{Colorize trinket|Heart of fire|violet}}
+|{{Colorize trinket|Heart of fire|blue}}
+|{{Colorize trinket|Heart of fire|aqua}}
+|{{Colorize trinket|Heart of fire|lime}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Heart of fire|yellow}}
+|-
+|'''<big>[[Scented beard oil]]</big>'''
+|{{Colorize trinket|Scented beard oil|red}}
+|{{Colorize trinket|Scented beard oil|violet}}
+|{{Colorize trinket|Scented beard oil|blue}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Scented beard oil|lime}}
+|{{Colorize trinket|Scented beard oil|orange}}
+|{{Colorize trinket|Scented beard oil|yellow}}
+|-
+|'''<big>[[Golden oil lamp]]</big>'''
+|{{Colorize trinket|Golden oil lamp|red}}
+|{{Colorize trinket|Golden oil lamp|violet}}
+|{{Colorize trinket|Golden oil lamp|blue}}
+|{{Colorize trinket|Golden oil lamp|aqua}}
+|{{Colorize trinket|Golden oil lamp|lime}}
+|{{Colorize trinket|Golden oil lamp|orange}}
+|{{Colorize trinket|Golden oil lamp|yellow}}
+|}
+
+=== Vargas the Mad ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Vargas the Mad]] in a brawl.  They are available in the colors of the [[Trinket_palette#Basic_colors|Basic Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+
+|-
+|'''<big>[[Jigsaw puzzle piece]]</big>'''
+|{{Colorize trinket|Jigsaw puzzle piece|red}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Jigsaw puzzle piece|blue}}
+|{{Colorize trinket|Jigsaw puzzle piece|aqua}}
+|{{Colorize trinket|Jigsaw puzzle piece|lime}}
+|{{Colorize trinket|Jigsaw puzzle piece|orange}}
+|-
+|'''<big>[[Scientific tome]]</big>'''
+|{{Colorize trinket|Scientific tome|red}}
+|{{Colorize trinket|Scientific tome|violet}}
+|{{Colorize trinket|Scientific tome|blue}}
+|{{Colorize trinket|Scientific tome|aqua}}
+|{{Colorize trinket|Scientific tome|lime}}
+|{{Colorize trinket|Scientific tome|orange}}
+|-
+|'''<big>[[Reading pipe]]</big>'''
+|{{Colorize trinket|Reading pipe|red}}
+|{{Colorize trinket|Reading pipe|violet}}
+|{{Colorize trinket|Reading pipe|blue}}
+|{{Colorize trinket|Reading pipe|aqua}}
+|{{Colorize trinket|Reading pipe|lime}}
+|{{Colorize trinket|Reading pipe|orange}}
+|-
+|'''<big>[[Siren's comb]]</big>'''
+|{{Colorize trinket|Siren's comb|red}}
+|{{Colorize trinket|Siren's comb|violet}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Siren's comb|aqua}}
+|{{Colorize trinket|Siren's comb|lime}}
+|{{Colorize trinket|Siren's comb|orange}}
+|-
+|'''<big>[[Grimoire page]]</big>'''
+|{{Colorize trinket|Grimoire page|red}}
+|{{Colorize trinket|Grimoire page|violet}}
+|{{Colorize trinket|Grimoire page|blue}}
+|{{Colorize trinket|Grimoire page|aqua}}
+|{{Colorize trinket|Grimoire page|lime}}
+|{{Colorize trinket|Grimoire page|orange}}
+|-
+|'''<big>[[Yo-yo]]</big>'''
+|{{Colorize trinket|Yo-yo|red}}
+|{{Colorize trinket|Yo-yo|violet}}
+|{{Colorize trinket|Yo-yo|blue}}
+|{{Colorize trinket|Yo-yo|aqua}}
+|{{Colorize trinket|Yo-yo|lime}}
+|{{Colorize trinket|Yo-yo|orange}}
+|}
+
+=== Madam Yu Jian ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Madam Yu Jian]] in a brawl.  They are available in the colors of the [[Trinket_palette#Extended|Extended Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+|Yellow
+
+|-
+|'''<big>[[Lucky coin talisman]]</big>'''
+|{{Colorize trinket|Lucky coin talisman|red}}
+|{{Colorize trinket|Lucky coin talisman|violet}}
+|{{Colorize trinket|Lucky coin talisman|blue}}
+|{{Colorize trinket|Lucky coin talisman|aqua}}
+|{{Colorize trinket|Lucky coin talisman|lime}}
+|{{Colorize trinket|Lucky coin talisman|orange}}
+|{{Colorize trinket|Lucky coin talisman|yellow}}
+|-
+|'''<big>[[Jade carving]]</big>'''
+|{{Colorize trinket|Jade carving|red}}
+|{{Colorize trinket|Jade carving|violet}}
+|{{Colorize trinket|Jade carving|blue}}
+|{{Colorize trinket|Jade carving|aqua}}
+|{{Colorize trinket|Jade carving|lime}}
+|{{Colorize trinket|Jade carving|orange}}
+|{{Colorize trinket|Jade carving|yellow}}
+|-
+|'''<big>[[Jeweled finger guard]]</big>'''
+|{{Colorize trinket|Jeweled finger guard|red}}
+|{{Colorize trinket|Jeweled finger guard|violet}}
+|{{Colorize trinket|Jeweled finger guard|blue}}
+|{{Colorize trinket|Jeweled finger guard|aqua}}
+|{{Colorize trinket|Jeweled finger guard|lime}}
+|{{Colorize trinket|Jeweled finger guard|orange}}
+|{{Colorize trinket|Jeweled finger guard|yellow}}
+|-
+|'''<big>[[Hand fan]]</big>'''
+|{{Colorize trinket|Hand fan|red}}
+|{{Colorize trinket|Hand fan|violet}}
+|{{Colorize trinket|Hand fan|blue}}
+|{{Colorize trinket|Hand fan|aqua}}
+|{{Colorize trinket|Hand fan|lime}}
+|{{Colorize trinket|Hand fan|orange}}
+|{{Colorize trinket|Hand fan|yellow}}
+|-
+|'''<big>[[Cut stone box]]</big>'''
+|{{Colorize trinket|Cut stone box|red}}
+|{{Colorize trinket|Cut stone box|violet}}
+|{{Colorize trinket|Cut stone box|blue}}
+|{{Colorize trinket|Cut stone box|aqua}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Cut stone box|yellow}}
+|-
+|'''<big>[[Jade comb]]</big>'''
+|{{Colorize trinket|Jade comb|red}}
+|{{Colorize trinket|Jade comb|violet}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Jade comb|aqua}}
+|{{Colorize trinket|Jade comb|lime}}
+|{{Colorize trinket|Jade comb|orange}}
+|{{Colorize trinket|Jade comb|yellow}}
+|}
+
+=== Gretchen Goldfang ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Gretchen Goldfang]] in a brawl.  They are available in the colors of the [[Trinket_palette#Basic_colors|Basic Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+
+|-
+|'''<big>[[Ivory toothpick]]</big>'''
+|{{Colorize trinket|Ivory toothpick|red}}
+|{{Colorize trinket|Ivory toothpick|violet}}
+|{{Colorize trinket|Ivory toothpick|blue}}
+|{{Colorize trinket|Ivory toothpick|aqua}}
+|{{Colorize trinket|Ivory toothpick|lime}}
+|{{Colorize trinket|Ivory toothpick|orange}}
+|-
+|'''<big>[[Salt shaker]]</big>'''
+|{{Colorize trinket|Salt shaker|red}}
+|{{Colorize trinket|Salt shaker|violet}}
+|{{Colorize trinket|Salt shaker|blue}}
+|{{Colorize trinket|Salt shaker|aqua}}
+|{{Colorize trinket|Salt shaker|lime}}
+|{{Colorize trinket|Salt shaker|orange}}
+|-
+|'''<big>[[Wooden amulet]]</big>'''
+|{{Colorize trinket|Wooden amulet|red}}
+|{{Colorize trinket|Wooden amulet|violet}}
+|{{Colorize trinket|Wooden amulet|blue}}
+|{{Colorize trinket|Wooden amulet|aqua}}
+|{{Colorize trinket|Wooden amulet|lime}}
+|{{Colorize trinket|Wooden amulet|orange}}
+|-
+|'''<big>[[Lucky rabbit's foot]]</big>'''
+|{{Colorize trinket|Lucky rabbit's foot|red}}
+|{{Colorize trinket|Lucky rabbit's foot|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Lucky rabbit's foot|lime}}
+|{{Colorize trinket|Lucky rabbit's foot|orange}}
+|-
+|'''<big>[[Golden horseshoe]]</big>'''
+|{{Colorize trinket|Golden horseshoe|red}}
+|{{Colorize trinket|Golden horseshoe|violet}}
+|{{Colorize trinket|Golden horseshoe|blue}}
+|{{Colorize trinket|Golden horseshoe|aqua}}
+|{{Colorize trinket|Golden horseshoe|lime}}
+|{{Colorize trinket|Golden horseshoe|orange}}
+|-
+|'''<big>[[Stained wishbone]]</big>'''
+|{{Colorize trinket|Stained wishbone|red}}
+|{{Colorize trinket|Stained wishbone|violet}}
+|{{Colorize trinket|Stained wishbone|blue}}
+|{{Colorize trinket|Stained wishbone|aqua}}
+|{{Colorize trinket|Stained wishbone|lime}}
+|{{Colorize trinket|Stained wishbone|orange}}
+|}
+
+=== Admiral Finius ===
+
+These trinkets are awarded when an experienced player is on a ship that defeats [[Admiral Finius]] in a brawl.  They are available in the colors of the [[Trinket_palette#Basic_colors|Basic Brigand King palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Red
+|Violet
+|Blue
+|Aqua
+|Lime
+|Orange
+
+|-
+|'''<big>[[Porcelain cup]]</big>'''
+|{{Colorize trinket|Porcelain cup|red}}
+|{{Colorize trinket|Porcelain cup|violet}}
+|{{Colorize trinket|Porcelain cup|blue}}
+|{{Colorize trinket|Porcelain cup|aqua}}
+|{{Colorize trinket|Porcelain cup|lime}}
+|{{Colorize trinket|Porcelain cup|orange}}
+|-
+|'''<big>[[Fish eye lens monocle]]</big>'''
+|{{Colorize trinket|Fish eye lens monocle|red}}
+|{{Colorize trinket|Fish eye lens monocle|violet}}
+|{{Colorize trinket|Fish eye lens monocle|blue}}
+|{{Colorize trinket|Fish eye lens monocle|aqua}}
+|{{Colorize trinket|Fish eye lens monocle|lime}}
+|{{Colorize trinket|Fish eye lens monocle|orange}}
+|-
+|'''<big>[[Royal anchovy tin]]</big>'''
+|{{Colorize trinket|Royal anchovy tin|red}}
+|{{Colorize trinket|Royal anchovy tin|violet}}
+|{{Colorize trinket|Royal anchovy tin|blue}}
+|{{Colorize trinket|Royal anchovy tin|aqua}}
+|{{Colorize trinket|Royal anchovy tin|lime}}
+|{{Colorize trinket|Royal anchovy tin|orange}}
+|-
+|'''<big>[[Prestigious naval medal]]</big>'''
+|{{Colorize trinket|Prestigious naval medal|red}}
+|{{Colorize trinket|Prestigious naval medal|violet}}
+|{{Colorize trinket|Prestigious naval medal|blue}}
+|{{Colorize trinket|Prestigious naval medal|aqua}}
+|{{Colorize trinket|Prestigious naval medal|lime}}
+|{{Colorize trinket|Prestigious naval medal|orange}}
+|-
+|'''<big>[[Baby portrait of Adm. Finius]]</big>'''
+|{{Colorize trinket|Baby portrait of Adm. Finius|red}}
+|{{Colorize trinket|Baby portrait of Adm. Finius|violet}}
+|{{Colorize trinket|Baby portrait of Adm. Finius|blue}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Baby portrait of Adm. Finius|lime}}
+|{{Colorize trinket|Baby portrait of Adm. Finius|orange}}
+|-
+|'''<big>[[Self-addressed love letter]]</big>'''
+|{{Colorize trinket|Self-addressed love letter|red}}
+|{{Colorize trinket|Self-addressed love letter|violet}}
+|{{Colorize trinket|Self-addressed love letter|blue}}
+|{{Colorize trinket|Self-addressed love letter|aqua}}
+|{{Colorize trinket|Self-addressed love letter|lime}}
+|{{Colorize trinket|Self-addressed love letter|orange}}
+|-
+|'''<big>[[Pearl pocket watch]]</big>'''
+|{{Colorize trinket|Pearl pocket watch|red}}
+|{{Colorize trinket|Pearl pocket watch|violet}}
+|{{Colorize trinket|Pearl pocket watch|blue}}
+|{{Colorize trinket|Pearl pocket watch|aqua}}
+|{{Colorize trinket|Pearl pocket watch|lime}}
+|{{Colorize trinket|Pearl pocket watch|orange}}
+|}
+
+[[Category:Subpages:Trinkets]]

@@ -1,0 +1,35 @@
+Total Progress:		448		out of			454	=	98.68%			# of Duplicates:				3,670			# Remaining:			6
+Trinket	TP Value	Red	Tan	White	Black	Yellow	Violet	Purple	Blue	Aqua	Lime	Orange	Gold	Lt Green	Magenta	Indigo	Sea Grn					Worth
+Cursed effigy	7,343	1	2	1	1	1	1	2	2	2	1	1	1	1	1	3	N/A	15	out of	15	100%	154,203
+Beaded fetish	1,685	21	17	9	4	21	7	15	23	20	22	24	6	24	24	21	N/A	15	out of	15	100%	434,730
+Dried homunculus	5,724	4	1	1		1	1	1	1	1	2	1	1	1	1	3	N/A	14	out of	15	93%	114,480
+Hemlock	1,600	21	21	11	2	20	16	20	19	22	16	21	7	22	23	30	N/A	15	out of	15	100%	433,600
+Powdered lizard tail	2,671	5	5	4	1	4	5	4	7	6	6	4	1	3	3	5	N/A	15	out of	15	100%	168,273
+Shrunken head	6,766	1	2	1	1	1	1	1	2	2	1	1	1	2	1	1	N/A	15	out of	15	100%	128,554
+Spell scrap	1,905	11	13	4	4	12	16	20	19	17	12	24	9	24	16	36	N/A	15	out of	15	100%	451,485
+Talon fetish	2,267	3	6	3	1	4	4	5	7	3	5	5	1	5	6	7	N/A	15	out of	15	100%	147,355
+Amber spider	4,800	7																1	out of	1	100%	33,600
+Bear claw	5,411	10																1	out of	1	100%	54,110
+Bone knife	1,605	18	14	9	1	17	12	21	13	20	22	9	9	20	14	23	N/A	15	out of	15	100%	356,310
+Ritual candles	1,478	11	10	5	2	9	14	21	11	11	15	18	7	12	10	28	N/A	15	out of	15	100%	271,952
+Crushed leeches	3,753	55																1	out of	1	100%	206,415
+Cultist chow	3,294	16	13	7	2	23	18	20	16	19	18	17	8	17	21	23	N/A	15	out of	15	100%	783,972
+Cursed egg	5,780	3	3	1	1	2	4	2	4	5	3	2	1	2	4	5	N/A	15	out of	15	100%	242,760
+Eye of newt	4,872	5	6	1	1	3	4	2	4	3	3	3	2	4	5	7	N/A	15	out of	15	100%	258,216
+Homunculus seeds	8,266	2	1	1	1	2	4	1	2	1	1	2	1	1	2	2	N/A	15	out of	15	100%	198,384
+Jar of fog	3,142	25	18	11	2	26	20	21	21	29	28	31	5	28	29	28	N/A	15	out of	15	100%	1,011,724
+Beaded bracelet	3,091	31	24	14	3	31	29	25	26	31	23	22	9	25	20	38	N/A	15	out of	15	100%	1,084,941
+Sacred skull	7,756	1	2	1	1	1	1	2	1	1	1	2	1	1	2	5	N/A	15	out of	15	100%	178,388
+Scrying bones	3,844	5	9	1	1	6	4	3	3	5	6	5	1	4	3	6	N/A	15	out of	15	100%	238,328
+Gilded serpent fang	8,096	1	1	1		1	1	1	1	1	1	1	1	2	1	3	N/A	14	out of	15	93%	137,632
+Vial of venom	7,522	1	1	1		2	1	3	1	1	1	2	1	1	2	2	N/A	14	out of	15	93%	150,440
+Scorpion sting	2,897	21	27	13	1	17	24	20	17	22	23	28	7	16	22	38	N/A	15	out of	15	100%	857,512
+Chaos brooch	7,886	2	2	1		1	1	2	2	1	1	1	1	1	2	4		14	out of	16	88%	173,492
+Piranha	2,961	20	20	15	3	22	29	21	27	23	25	25	9	24	33	43	N/A	15	out of	15	100%	1,003,779
+Bone syrinx	8,357	1	3	1		1	1	2	1	1	1	1	1	1	1	2	N/A	14	out of	15	93%	150,426
+Arcane toad	4,515	4	5	2	1	5	4	7	5	5	4	7	4	6	6	9	N/A	15	out of	15	100%	334,110
+Lucky amulet bag	3,410	27	34	9	2	34	26	26	19	29	23	27	10	26	32	34	N/A	15	out of	15	100%	1,220,780
+Toadstool	3,164	18	26	5	1	19	15	15	16	20	20	18	6	21	25	37	N/A	15	out of	15	100%	828,968
+Evil weevil	4,621	4	7	2	1	4	5	6	5	6	8	8	3	5	5	5	N/A	15	out of	15	100%	341,954
+Horn talisman	4,924	3	3	1	1	10	7	7	4	4	7	6	2	4	4	7	N/A	15	out of	15	100%	344,680
+Cult doll	8,181	1	2	1	1	2	1	2	1	2	1	2	1	1	1	2	N/A	15	out of	15	100%	171,801

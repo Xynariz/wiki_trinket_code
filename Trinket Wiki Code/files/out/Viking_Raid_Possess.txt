@@ -1,0 +1,209 @@
+This is a sub-page of [[Jamesh]]'s trinket collections.  For the main page, please click [[Jamesh/Trinkets|here]].
+
+This is a list of trinkets Jamesh has collected.  Any trinkets that are '''''not''''' shown here are trinkets Jamesh is missing and will buy.
+
+=== Viking raid palette ===
+
+All [[Viking raid]] trinkets are available in the colors of the [[Trinket_palette#Viking_Raid_Trinkets|Viking raid palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|- valign="center"
+! rowspan=2 | '''<big>[[Animal carving]]</big>'''
+|{{Colorize trinket|Animal carving|red}}Red
+|{{Colorize trinket|Animal carving|white}}White
+|{{Colorize trinket|Animal carving|black}}Black
+|{{Colorize trinket|Animal carving|grey}}Grey
+|{{Colorize trinket|Animal carving|yellow}}Yellow
+|{{Colorize trinket|Animal carving|pink}}Pink
+|{{Colorize trinket|Animal carving|violet}}Violet
+|{{Colorize trinket|Animal carving|purple}}Purple
+|-
+|{{Colorize trinket|Animal carving|navy}}Navy
+|{{Colorize trinket|Animal carving|blue}}Blue
+|{{Colorize trinket|Animal carving|aqua}}Aqua
+|{{Colorize trinket|Animal carving|lime}}Lime
+|{{Colorize trinket|Animal carving|green}}Green
+|{{Colorize trinket|Animal carving|orange}}Orange
+|{{Colorize trinket|Animal carving|brown}}Brown
+|{{Colorize trinket|Animal carving|gold}}Gold
+|-
+| colspan=9 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Box brooch]]</big>'''
+|{{Colorize trinket|Box brooch|red}}Red
+|{{Colorize trinket|Box brooch|white}}White
+|{{Colorize trinket|Box brooch|black}}Black
+|{{Colorize trinket|Box brooch|grey}}Grey
+|{{Colorize trinket|Box brooch|yellow}}Yellow
+|{{Colorize trinket|Box brooch|pink}}Pink
+|{{Colorize trinket|Box brooch|violet}}Violet
+|{{Colorize trinket|Box brooch|purple}}Purple
+|-
+|{{Colorize trinket|Box brooch|navy}}Navy
+|{{Colorize trinket|Box brooch|blue}}Blue
+|{{Colorize trinket|Box brooch|aqua}}Aqua
+|{{Colorize trinket|Box brooch|lime}}Lime
+|{{Colorize trinket|Box brooch|green}}Green
+|{{Colorize trinket|Box brooch|orange}}Orange
+|{{Colorize trinket|Box brooch|brown}}Brown
+|{{Colorize trinket|Box brooch|gold}}Gold
+|-
+| colspan=9 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Gold belt buckle]]</big>'''
+|{{Colorize trinket|Gold belt buckle|red}}Red
+|{{Colorize trinket|Gold belt buckle|white}}White
+|{{Colorize trinket|Gold belt buckle|black}}Black
+|{{Colorize trinket|Gold belt buckle|grey}}Grey
+|{{Colorize trinket|Gold belt buckle|yellow}}Yellow
+|{{Colorize trinket|Gold belt buckle|pink}}Pink
+|{{Colorize trinket|Gold belt buckle|violet}}Violet
+|{{Colorize trinket|Gold belt buckle|purple}}Purple
+|-
+|{{Colorize trinket|Gold belt buckle|navy}}Navy
+|{{Colorize trinket|Gold belt buckle|blue}}Blue
+|{{Colorize trinket|Gold belt buckle|aqua}}Aqua
+|{{Colorize trinket|Gold belt buckle|lime}}Lime
+|{{Colorize trinket|Gold belt buckle|green}}Green
+|{{Colorize trinket|Gold belt buckle|orange}}Orange
+|{{Colorize trinket|Gold belt buckle|brown}}Brown
+|{{Colorize trinket|Gold belt buckle|gold}}Gold
+|-
+| colspan=9 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Two-pronged fork]]</big>'''
+|{{Colorize trinket|Two-pronged fork|red}}Red
+|{{Colorize trinket|Two-pronged fork|white}}White
+|{{Colorize trinket|Two-pronged fork|black}}Black
+|{{Colorize trinket|Two-pronged fork|grey}}Grey
+|{{Colorize trinket|Two-pronged fork|yellow}}Yellow
+|{{Colorize trinket|Two-pronged fork|pink}}Pink
+|{{Colorize trinket|Two-pronged fork|violet}}Violet
+|{{Colorize trinket|Two-pronged fork|purple}}Purple
+|-
+|{{Colorize trinket|Two-pronged fork|navy}}Navy
+|{{Colorize trinket|Two-pronged fork|blue}}Blue
+|{{Colorize trinket|Two-pronged fork|aqua}}Aqua
+|{{Colorize trinket|Two-pronged fork|lime}}Lime
+|{{Colorize trinket|Two-pronged fork|green}}Green
+|{{Colorize trinket|Two-pronged fork|orange}}Orange
+|{{Colorize trinket|Two-pronged fork|brown}}Brown
+|{{Colorize trinket|Two-pronged fork|gold}}Gold
+|-
+| colspan=9 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Viking key]]</big>'''
+|{{Colorize trinket|Viking key|red}}Red
+|{{Colorize trinket|Viking key|white}}White
+|{{Colorize trinket|Viking key|black}}Black
+|{{Colorize trinket|Viking key|grey}}Grey
+|{{Colorize trinket|Viking key|yellow}}Yellow
+|{{Colorize trinket|Viking key|pink}}Pink
+|{{Colorize trinket|Viking key|violet}}Violet
+|{{Colorize trinket|Viking key|purple}}Purple
+|-
+|{{Colorize trinket|Viking key|navy}}Navy
+|{{Colorize trinket|Viking key|blue}}Blue
+|{{Colorize trinket|Viking key|aqua}}Aqua
+|{{Colorize trinket|Viking key|lime}}Lime
+|{{Colorize trinket|Viking key|green}}Green
+|{{Colorize trinket|Viking key|orange}}Orange
+|{{Colorize trinket|Viking key|brown}}Brown
+|{{Colorize trinket|Viking key|gold}}Gold
+|-
+| colspan=9 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Chess piece]]</big>'''
+|{{Colorize trinket|Chess piece|red}}Red
+|{{Colorize trinket|Chess piece|white}}White
+|{{Colorize trinket|Chess piece|black}}Black
+|{{Colorize trinket|Chess piece|grey}}Grey
+|{{Colorize trinket|Chess piece|yellow}}Yellow
+|{{Colorize trinket|Chess piece|pink}}Pink
+|{{Colorize trinket|Chess piece|violet}}Violet
+|{{Colorize trinket|Chess piece|purple}}Purple
+|-
+|{{Colorize trinket|Chess piece|navy}}Navy
+|{{Colorize trinket|Chess piece|blue}}Blue
+|{{Colorize trinket|Chess piece|aqua}}Aqua
+|{{Colorize trinket|Chess piece|lime}}Lime
+|{{Colorize trinket|Chess piece|green}}Green
+|{{Colorize trinket|Chess piece|orange}}Orange
+|{{Colorize trinket|Chess piece|brown}}Brown
+|{{Colorize trinket|Chess piece|gold}}Gold
+|-
+| colspan=9 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Scabbard boss]]</big>'''
+|{{Colorize trinket|Scabbard boss|red}}Red
+|{{Colorize trinket|Scabbard boss|white}}White
+|{{Colorize trinket|Scabbard boss|black}}Black
+|{{Colorize trinket|Scabbard boss|grey}}Grey
+|{{Colorize trinket|Scabbard boss|yellow}}Yellow
+|{{Colorize trinket|Scabbard boss|pink}}Pink
+|{{Colorize trinket|Scabbard boss|violet}}Violet
+|{{Colorize trinket|Scabbard boss|purple}}Purple
+|-
+|{{Colorize trinket|Scabbard boss|navy}}Navy
+|{{Colorize trinket|Scabbard boss|blue}}Blue
+|{{Colorize trinket|Scabbard boss|aqua}}Aqua
+|{{Colorize trinket|Scabbard boss|lime}}Lime
+|{{Colorize trinket|Scabbard boss|green}}Green
+|{{Colorize trinket|Scabbard boss|orange}}Orange
+|{{Colorize trinket|Scabbard boss|brown}}Brown
+|{{Colorize trinket|Scabbard boss|gold}}Gold
+|-
+| colspan=9 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Dragon pendant]]</big>'''
+|{{Colorize trinket|Dragon pendant|red}}Red
+|{{Colorize trinket|Dragon pendant|white}}White
+|{{Colorize trinket|Dragon pendant|black}}Black
+|{{Colorize trinket|Dragon pendant|grey}}Grey
+|{{Colorize trinket|Dragon pendant|yellow}}Yellow
+|{{Colorize trinket|Dragon pendant|pink}}Pink
+|{{Colorize trinket|Dragon pendant|violet}}Violet
+|{{Colorize trinket|Dragon pendant|purple}}Purple
+|-
+|{{Colorize trinket|Dragon pendant|navy}}Navy
+|{{Colorize trinket|Dragon pendant|blue}}Blue
+|{{Colorize trinket|Dragon pendant|aqua}}Aqua
+|{{Colorize trinket|Dragon pendant|lime}}Lime
+|{{Colorize trinket|Dragon pendant|green}}Green
+|{{Colorize trinket|Dragon pendant|orange}}Orange
+|{{Colorize trinket|Dragon pendant|brown}}Brown
+|{{Colorize trinket|Dragon pendant|gold}}Gold
+|-
+| colspan=9 |
+----
+|- valign="center"
+! rowspan=2 | '''<big>[[Warrior carving]]</big>'''
+|{{Colorize trinket|Warrior carving|red}}Red
+|{{Colorize trinket|Warrior carving|white}}White
+|{{Colorize trinket|Warrior carving|black}}Black
+|{{Colorize trinket|Warrior carving|grey}}Grey
+|{{Colorize trinket|Warrior carving|yellow}}Yellow
+|{{Colorize trinket|Warrior carving|pink}}Pink
+|{{Colorize trinket|Warrior carving|violet}}Violet
+|{{Colorize trinket|Warrior carving|purple}}Purple
+|-
+|{{Colorize trinket|Warrior carving|navy}}Navy
+|{{Colorize trinket|Warrior carving|blue}}Blue
+|{{Colorize trinket|Warrior carving|aqua}}Aqua
+|{{Colorize trinket|Warrior carving|lime}}Lime
+|{{Colorize trinket|Warrior carving|green}}Green
+|{{Colorize trinket|Warrior carving|orange}}Orange
+|{{Colorize trinket|Warrior carving|brown}}Brown
+|{{Colorize trinket|Warrior carving|gold}}Gold
+|-
+|}
+
+[[Category:Subpages:Trinkets]]

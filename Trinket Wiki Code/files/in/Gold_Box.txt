@@ -1,0 +1,22 @@
+Total Progress:	305	out of		377	=	80.90%						Total Number of Duplicates:							673		Number Remaining:					72		
+Trinket	TP Value	Red	White	Grey	Yellow	Violet	Purple	Navy	Blue	Lime	Green	Orange	Maroon	Brown	Gold	LtGreen	Pers.	IceBlue	SpGreen	Banana	Wine	Plum	Choc					Worth
+Fan letter	10,390	8	2		6	1	3	4	4	4	1	1	4	2	4	6	1	12	6	5	1	8	3	21	out of 	22	95%	893,540
+Spirits o' courage	10,517	6	5		3	4	3	2	6	1	1	5	3	3	4	4	1	13	9	5	1	5	4	21	out of	22	95%	925,496
+Pirate code	10,552	3	3		4	3	4	4	7	6	2	3	1	3	3	4		11	10	7	1	5	1	20	out of	22	91%	896,920
+Gilded shark tooth	9,767	4	3		3	3	2	6	4	3	5	5	2	7	7	5		18	7	1	2	7	2	20	out of	22	91%	937,632
+Mark o' the cutthroat gentleman	11,280	3	2		6	6	2	3	5	3	5	8	4	6	6	4	1	4	6	1	1	7	1	21	out of	22	95%	947,520
+Heart o' gold	11,754	8	4	1	4	4	4	4	4	5	3	5	4	4	6	6	1	10	6	2	1	12	1	22	out of	22	100%	1,163,646
+Gilded spyglass	11,499	4	3		3	4	1	4	3	5	2	2	6	6	4	4		5	10	2	1	7	3	20	out of	22	91%	908,421
+Key to the ocean	13,187	3	2		1	2	2	1	1	2	2	1	1	3	2	3	1	2	5	2	1	6	1	21	out of	22	95%	580,228
+Golden dragon scale	13,331	52																						1	out of	1	100%	693,212
+Radiant phoenix feather	12,647	57	1	N/A	1	1	1	1	1	2	1	1	2	3	1	1	N/A	N/A	3	N/A	N/A	N/A	N/A	1	out of	1	100%	973,819
+Gilded pin	12,591	1	1		2	2	1	2	1	1	1	1	1	2	1	1	1	2	6	3	1	2	1	21	out of	22	95%	428,094
+Gilded signet ring	13,008	1	1	1	1	2	1	1	1	1	1	1	1	1	4	2		1	3		1	1	1	20	out of	22	91%	351,216
+Fancy hook	13,419	1	1		1	1	1	1	2	2	1	1	2	1	2	1	1	1	6	1	1	3	1	21	out of	22	95%	429,408
+Gilded goblet	13,484	2	2		1	1	1	1	2	1	1	3	1	3	1	2		1	4	4	1	1	1	20	out of	22	91%	458,456
+Courage-heart compass	15,243	1	1		1	1	1	1		2		2		2	1		2	1	2				1	14	out of	22	64%	289,617
+Golden sextant	?				1		1		1	1				1		1	1	1		1		1	1	11	out of	22	50%	
+Gilded sailor's knot	?	1	1	1	1	1		1		1	1	1			1		1	1		2	1		1	15	out of	22	68%	
+Golden hourglass	?					1												1						2	out of	22	9%	
+Gilded cameo box	?	1	1			1			1	1			1	1	1		1	1	1	1	1			13	out of	22	59%	
+Golden turtle shell	?																							0	out of	1	0%	

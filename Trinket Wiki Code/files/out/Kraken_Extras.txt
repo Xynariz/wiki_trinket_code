@@ -1,0 +1,235 @@
+NOT IMPLEMENTED
+
+=== Kraken palette ===
+
+These trinkets are available from the [[Kraken]] in the colors of the [[Trinket_palette#Kraken|kraken palette]].
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Aqua
+|Lime
+|Green
+|Lt. Green
+|Inky
+|Sea Grn.
+
+|-
+|'''<big>[[Kraken totem]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Kraken totem|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Kraken totem|aqua}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Kraken totem|light green}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Kraken totem|sea green}}
+|-
+|'''<big>[[Harpoon tip]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Harpoon tip|grey}}
+|{{Colorize trinket|Harpoon tip|violet}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Harpoon tip|navy}}
+|{{Colorize trinket|Harpoon tip|blue}}
+|{{Colorize trinket|Harpoon tip|aqua}}
+|{{Colorize trinket|Harpoon tip|lime}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Ink vial]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ink vial|grey}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Ink vial|purple}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Kraken tooth]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Kraken tooth|violet}}
+|{{Colorize trinket|Kraken tooth|purple}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Kraken tooth|aqua}}
+|{{Colorize trinket|Kraken tooth|lime}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Kraken tooth|light green}}
+|{{Colorize trinket|Kraken tooth|inky}}
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Kraken eye jewel]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Kraken medallion]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Tentacle nubbin]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Tentacle nubbin|violet}}
+|{{Colorize trinket|Tentacle nubbin|purple}}
+|{{Colorize trinket|Tentacle nubbin|navy}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Slime]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Slime|grey}}
+|{{Colorize trinket|Slime|violet}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Slime|aqua}}
+|{{Colorize trinket|Slime|lime}}
+|{{Colorize trinket|Slime|green}}
+|{{Colorize trinket|Slime|light green}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Inky skull]]</big>'''
+|{{Colorize trinket|Inky skull|black}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Inky skull|inky}}
+|[[Image:Item_box_unequip.png]]
+|-
+|'''<big>[[Inky bone]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Inky bone|grey}}
+|{{Colorize trinket|Inky bone|violet}}
+|{{Colorize trinket|Inky bone|purple}}
+|{{Colorize trinket|Inky bone|navy}}
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Inky bone|aqua}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Inky bone|light green}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|-
+|
+|Black
+|Grey
+|Violet
+|Purple
+|Navy
+|Blue
+|Aqua
+|Lime
+|Green
+|Lt. Green
+|Inky
+|Sea Grn.
+
+|-
+|'''<big>[[Broken oar]]</big>'''
+|{{Colorize trinket|Broken oar|black}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Broken oar|navy}}
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|{{Colorize trinket|Broken oar|sea green}}
+|-
+|'''<big>[[Kraken doll]]</big>'''
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|[[Image:Item_box_unequip.png]]
+|}
+
+=== Colorless ===
+
+These trinkets do not come in multiple colors.
+
+{|style="border:2px solid #898b79; background:#c5c7ae; text-align:center; font-family:Tahoma; font-size:10px;"
+
+|-
+|'''<big>[[Kraken coin]]</big>'''
+|{{Colorize trinket|Kraken coin|ignore}}
+|-
+|'''<big>[[Kraken egglet]]</big>'''
+|{{Colorize trinket|Kraken egglet|ignore}}
+|-
+|'''<big>[[Kraken scale]]</big>'''
+|{{Colorize trinket|Kraken scale|ignore}}
+|-
+|'''<big>[[Inky weeds]]</big>'''
+|{{Colorize trinket|Inky weeds|ignore}}
+|-
+|'''<big>[[Tentacle spikelet]]</big>'''
+|{{Colorize trinket|Tentacle spikelet|ignore}}
+|-
+|'''<big>[[Inky Cephalopod doll]]</big>'''
+|{{Colorize trinket|Inky Cephalopod doll|ignore}}
+
+
+[[Category:Subpages:Trinkets]]
